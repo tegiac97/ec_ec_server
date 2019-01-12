@@ -1,0 +1,401 @@
+[00:02:35]: [Join Announcement] Ocean
+[00:05:10]: [Join Announcement] M0wX
+[00:09:22]: [Say] (KU_MflE4_vZ) Ocean:  (Sanity: 45/250) I'm not sure those things are imaginary, anymore!
+[00:10:25]: [Say] (KU_iC59_rSB) M0wX:  We have 42 rots in this hutch.
+[00:11:06]: [Say] (KU_MflE4_vZ) Ocean:  I have 115 manures.
+[00:11:14]: [Say] (KU_iC59_rSB) M0wX:  We have 38 berries in this ice box.
+[00:11:42]: [Say] (KU_MflE4_vZ) Ocean:  I have 108 manures.
+[00:13:26]: [Say] (KU_MflE4_vZ) Ocean:  I have a rain coat with 29% durability.
+[00:15:01]: [Say] (KU_MflE4_vZ) Ocean:  I have 13 dragon fruit seeds.
+[00:16:06]: [Say] (KU_iC59_rSB) M0wX:  I have 3 lesser glow berrys.
+[00:18:05]: [Say] (KU_MflE4_vZ) Ocean:  We have 5 meatballs in this ice box.
+[00:20:19]: [Say] (KU_MflE4_vZ) Ocean:  I have 14 rocks.
+[00:21:43]: [Leave Announcement] Ocean
+[00:25:07]: [Leave Announcement] M0wX
+[00:26:23]: [Join Announcement] Ocean
+[00:27:03]: [Join Announcement] M0wX
+[00:27:14]: [Leave Announcement] M0wX
+[00:27:14]: [Leave Announcement] Ocean
+[02:07:52]: [Join Announcement] Ocean
+[02:08:40]: [Death Announcement] Ocean was killed by Overheating. She became a spooky ghost!
+[02:08:50]: [Resurrect Announcement] Ocean was resurrected by Touch Stone.
+[02:27:26]: [Leave Announcement] Ocean
+[02:47:01]: [Join Announcement] Bo
+[03:12:12]: [Join Announcement] Ocean
+[03:12:22]: [Say] (KU_MflE4_vZ) Ocean: hmmm
+[03:13:00]: [Say] (KU_MflE4_vZ) Ocean: con lon cua t dau
+[03:13:02]: [Say] (KU_MflE4_vZ) Ocean: chet r ak
+[03:13:03]: [Say] (KU_MflE4_vZ) Ocean: :((
+[03:13:09]: [Say] (KU_iC59_xkK) Bo: baron dap no roi
+[03:13:20]: [Say] (KU_MflE4_vZ) Ocean: d m 3r0n
+[03:13:21]: [Say] (KU_iC59_xkK) Bo: t bao cuoc song kho khan m
+[03:13:21]: [Say] (KU_MflE4_vZ) Ocean: =))
+[03:13:26]: [Say] (KU_MflE4_vZ) Ocean: sinh ton
+[03:13:27]: [Say] (KU_MflE4_vZ) Ocean: =))
+[03:14:19]: [Say] (KU_MflE4_vZ) Ocean:  I have 3 dragonpies.
+[03:14:21]: [Say] (KU_MflE4_vZ) Ocean: an k
+[03:14:31]: [Say] (KU_iC59_xkK) Bo: hoi mau ak?
+[03:14:34]: [Say] (KU_MflE4_vZ) Ocean: 40 mau
+[03:14:37]: [Say] (KU_MflE4_vZ) Ocean: 75 hunger
+[03:14:38]: [Say] (KU_iC59_xkK) Bo:  (Health: 195/200) Wolfgang need little fixing.
+[03:14:52]: [Say] (KU_iC59_xkK) Bo: hunger thi co =))
+[03:17:04]: [Say] (KU_MflE4_vZ) Ocean:  I have a moleworm.
+[03:17:33]: [Say] (KU_iC59_xkK) Bo: ping do lo`m
+[03:17:53]: [Say] (KU_MflE4_vZ) Ocean: van song tot
+[03:17:54]: [Say] (KU_MflE4_vZ) Ocean: =))
+[03:18:06]: [Say] (KU_MflE4_vZ) Ocean: game sinh ton cuc manh
+[03:18:07]: [Say] (KU_MflE4_vZ) Ocean: =))
+[03:18:09]: [Say] (KU_MflE4_vZ) Ocean:  I have 2 moleworms.
+[03:18:25]: [Say] (KU_iC59_xkK) Bo: t di chuyen ma no cu chay mot cho =)))
+[03:18:37]: [Say] (KU_MflE4_vZ) Ocean: lam quen di
+[03:18:38]: [Say] (KU_MflE4_vZ) Ocean: =))
+[03:18:55]: [Say] (KU_iC59_xkK) Bo: nhw thang thieu nang =)))
+[03:19:00]: [Say] (KU_MflE4_vZ) Ocean: :))
+[03:19:33]: [Say] (KU_MflE4_vZ) Ocean: cuu
+[03:19:34]: [Say] (KU_MflE4_vZ) Ocean: 2 worm
+[03:19:35]: [Say] (KU_MflE4_vZ) Ocean: =))
+[03:19:40]: [Say] (KU_MflE4_vZ) Ocean: fang k
+[03:20:19]: [Say] (KU_iC59_xkK) Bo: dan len day
+[03:20:23]: [Say] (KU_iC59_xkK) Bo: t het qua den
+[03:20:25]: [Say] (KU_MflE4_vZ) Ocean: cho`
+[03:21:45]: [Say] (KU_iC59_xkK) Bo: dam ba con 3ron
+[03:22:20]: [Say] (KU_MflE4_vZ) Ocean: =))
+[03:22:34]: [Say] (KU_MflE4_vZ) Ocean: di kiemthem qua den
+[03:23:22]: [Say] (KU_MflE4_vZ) Ocean: co thit k daty
+[03:23:29]: [Say] (KU_MflE4_vZ) Ocean: co thit thi ne' di
+[03:23:30]: [Say] (KU_MflE4_vZ) Ocean: =))
+[03:28:25]: [Say] (KU_iC59_xkK) Bo:  (Sanity: 80/200) Wolfgang head hurt
+[03:28:29]: [Say] (KU_MflE4_vZ) Ocean:  (Sanity: 42/250) I'm not sure those things are imaginary, anymore!
+[03:28:31]: [Say] (KU_MflE4_vZ) Ocean: =))
+[03:28:51]: [Say] (KU_MflE4_vZ) Ocean: oh
+[03:28:53]: [Say] (KU_MflE4_vZ) Ocean: het he r
+[03:28:55]: [Say] (KU_MflE4_vZ) Ocean: quay? len
+[03:29:00]: [Say] (KU_MflE4_vZ) Ocean: chua lam gi da het h`
+[03:29:01]: [Say] (KU_MflE4_vZ) Ocean: =))
+[03:33:17]: [Say] (KU_MflE4_vZ) Ocean:  I have a moggles with 69% durability.
+[03:33:21]: [Say] (KU_MflE4_vZ) Ocean: lam` mu~ nay doi k
+[03:33:22]: [Say] (KU_MflE4_vZ) Ocean: =))
+[03:33:29]: [Say] (KU_iC59_xkK) Bo: khong =))
+[03:33:49]: [Say] (KU_iC59_xkK) Bo:  I have a battle helm with 51% durability.
+[03:33:55]: [Say] (KU_MflE4_vZ) Ocean:  I have a football helmet with 42% durability.
+[03:34:01]: [Say] (KU_iC59_xkK) Bo: co battle helm roi
+[03:34:11]: [Say] (KU_MflE4_vZ) Ocean: mu~ chuot., ma
+[03:34:13]: [Say] (KU_MflE4_vZ) Ocean: nhin dem ay
+[03:34:23]: [Say] (KU_iC59_xkK) Bo:  I have 8 light bulbs.
+[03:34:31]: [Say] (KU_iC59_xkK) Bo: them 2 stack t vua hai ve nua
+[03:34:50]: [Say] (KU_MflE4_vZ) Ocean: an banh kia`
+[03:35:04]: [Say] (KU_MflE4_vZ) Ocean: banh nay` an nhanh
+[03:35:07]: [Say] (KU_MflE4_vZ) Ocean: hoi` nhieu`
+[03:35:10]: [Say] (KU_MflE4_vZ) Ocean: phe vl
+[03:35:15]: [Say] (KU_MflE4_vZ) Ocean: de nau'
+[03:35:23]: [Say] (KU_MflE4_vZ) Ocean: 1 thanh long 3 canh`
+[03:35:24]: [Say] (KU_MflE4_vZ) Ocean: =))
+[03:36:11]: [Say] (KU_MflE4_vZ) Ocean:  I have 31 dragon fruit seeds.
+[03:36:54]: [Leave Announcement] Bo
+[03:57:45]: [Join Announcement] Bo
+[04:01:15]: [Say] (KU_iC59_xkK) Bo: khong mang qua den len a tml?
+[04:01:21]: [Say] (KU_MflE4_vZ) Ocean: co
+[04:01:30]: [Say] (KU_MflE4_vZ) Ocean: nhung lon soi an het r
+[04:01:31]: [Say] (KU_MflE4_vZ) Ocean: =))
+[04:01:35]: [Say] (KU_iC59_xkK) Bo: =)))
+[04:01:41]: [Say] (KU_iC59_xkK) Bo: cong suc cua t =))
+[04:01:45]: [Say] (KU_iC59_xkK) Bo: sao chung no lai an?
+[04:01:57]: [Say] (KU_MflE4_vZ) Ocean: t cho an kiem phan
+[04:02:07]: [Say] (KU_MflE4_vZ) Ocean: de san xuat cai nay
+[04:02:10]: [Say] (KU_MflE4_vZ) Ocean:  I have 4 dragonpies.
+[04:02:56]: [Join Announcement] NEYUGN
+[04:03:33]: [Say] (KU_MflE4_vZ) Ocean:  I have 74 manures.
+[04:03:35]: [Say] (KU_MflE4_vZ) Ocean: :))
+[04:04:46]: [Say] (KU_iC59_xkK) Bo: 3 thang ping do lo`m
+[04:05:01]: [Say] (KU_MflE4_vZ) Ocean: :))
+[04:07:16]: [Say] (KU_iC59_xkK) Bo: truoc khi dap chung no t phai nhin ki xem co soi lua khong =))
+[04:07:50]: [Say] (KU_iC59_xkK) Bo: m dau roi NGUYEN?
+[04:07:56]: [Say] (KU_MflE4_vZ) Ocean: doan xem
+[04:07:57]: [Say] (KU_iC59_xkK) Bo: a day =))
+[04:07:59]: [Say] (KU_UnXy3wBQ) NEYUGN: t day
+[04:08:06]: [Say] (KU_MflE4_vZ) Ocean: d hieu kieu gi
+[04:08:07]: [Say] (KU_MflE4_vZ) Ocean: =))
+[04:10:18]: [Say] (KU_MflE4_vZ) Ocean: vl
+[04:10:19]: [Say] (KU_MflE4_vZ) Ocean: =))
+[04:10:21]: [Say] (KU_MflE4_vZ) Ocean: van dung spam
+[04:10:22]: [Say] (KU_MflE4_vZ) Ocean: d m
+[04:10:26]: [Say] (KU_UnXy3wBQ) NEYUGN: haha
+[04:11:50]: [Say] (KU_MflE4_vZ) Ocean: xibn it go~
+[04:11:59]: [Say] (KU_UnXy3wBQ) NEYUGN:  I have 16 logs.
+[04:12:07]: [Say] (KU_MflE4_vZ) Ocean: adng xin bo`
+[04:12:20]: [Say] (KU_iC59_xkK) Bo: cay hoa da het roi
+[04:12:21]: [Say] (KU_iC59_xkK) Bo: dm
+[04:12:24]: [Say] (KU_MflE4_vZ) Ocean: ahah
+[04:12:43]: [Say] (KU_UnXy3wBQ) NEYUGN: bo cua thang nao nuoi day
+[04:12:49]: [Say] (KU_MflE4_vZ) Ocean: d biet luon
+[04:13:01]: [Say] (KU_UnXy3wBQ) NEYUGN: thit het luon
+[04:13:06]: [Say] (KU_iC59_xkK) Bo: thit
+[04:13:10]: [Say] (KU_MflE4_vZ) Ocean: xien di
+[04:13:11]: [Say] (KU_MflE4_vZ) Ocean: =))
+[04:13:25]: [Say] (KU_iC59_xkK) Bo: co' than khong?
+[04:13:32]: [Say] (KU_iC59_xkK) Bo: t lam boom
+[04:13:40]: [Say] (KU_MflE4_vZ) Ocean: tu kiem thoi
+[04:13:42]: [Say] (KU_MflE4_vZ) Ocean: =))
+[04:14:16]: [Say] (KU_UnXy3wBQ) NEYUGN: 3 thang danh df la dc roi
+[04:14:26]: [Say] (KU_iC59_xkK) Bo: dang du chung no vao choi
+[04:14:29]: [Say] (KU_iC59_xkK) Bo: =)))
+[04:14:38]: [Say] (KU_iC59_xkK) Bo: t voi m con dap duoc no nua la =))
+[04:14:39]: [Say] (KU_MflE4_vZ) Ocean: thich la chien
+[04:14:47]: [Say] (KU_MflE4_vZ) Ocean: doi t len xay lai rao` da~
+[04:15:32]: [Say] (KU_MflE4_vZ) Ocean: di fang DF nao
+[04:16:30]: [Say] (KU_iC59_xkK) Bo: nau do an do
+[04:16:33]: [Say] (KU_iC59_xkK) Bo: di
+[04:16:36]: [Say] (KU_UnXy3wBQ) NEYUGN: co' con bearger chua
+[04:16:46]: [Say] (KU_UnXy3wBQ) NEYUGN: nau cai gi t an dc nhe
+[04:16:47]: [Say] (KU_iC59_xkK) Bo: t di kiem than lamf bomerang giet bo
+[04:16:47]: [Say] (KU_MflE4_vZ) Ocean: chua thay dau
+[04:17:00]: [Say] (KU_iC59_xkK) Bo: co roi, o duong len cho cong hs ay
+[04:17:14]: [Say] (KU_MflE4_vZ) Ocean: het thit r
+[04:17:14]: [Say] (KU_UnXy3wBQ) NEYUGN: nau banh thanh long a
+[04:17:34]: [Say] (KU_UnXy3wBQ) NEYUGN: t co thit dao
+[04:17:37]: [Say] (KU_MflE4_vZ) Ocean: cam 2 cai banh sung bo di
+[04:17:40]: [Say] (KU_UnXy3wBQ) NEYUGN: do'
+[04:22:40]: [Say] (KU_UnXy3wBQ) NEYUGN: doi t
+[04:23:29]: [Say] (KU_MflE4_vZ) Ocean: cho nay xay sai
+[04:24:50]: [Say] (KU_UnXy3wBQ) NEYUGN: co gi an cho do doi ko
+[04:24:59]: [Say] (KU_MflE4_vZ) Ocean: ke di
+[04:25:20]: [Say] (KU_MflE4_vZ) Ocean: len bo`
+[04:25:26]: [Say] (KU_MflE4_vZ) Ocean: ra goi no vo day
+[04:25:33]: [Say] (KU_UnXy3wBQ) NEYUGN: tu tu
+[04:25:37]: [Say] (KU_UnXy3wBQ) NEYUGN: xin it do an
+[04:26:26]: [Say] (KU_MflE4_vZ) Ocean: dung sat ra day ty
+[04:27:50]: [Say] (KU_MflE4_vZ) Ocean: giap bo`ddau
+[04:27:58]: [Say] (KU_iC59_xkK) Bo: dang mac ma
+[04:28:01]: [Say] (KU_MflE4_vZ) Ocean: mu~
+[04:28:09]: [Say] (KU_iC59_xkK) Bo: vo~ roi
+[04:28:09]: [Say] (KU_MflE4_vZ) Ocean: yeah
+[04:28:12]: [Say] (KU_MflE4_vZ) Ocean: no bay mat r
+[04:28:13]: [Say] (KU_MflE4_vZ) Ocean: =))
+[04:28:48]: [Say] (KU_UnXy3wBQ) NEYUGN: xay tuong cha' vl
+[04:28:54]: [Say] (KU_MflE4_vZ) Ocean: hoi than g mon
+[04:29:13]: [Say] (KU_iC59_xkK) Bo: chan vai loz
+[04:30:47]: [Say] (KU_MflE4_vZ) Ocean: chat ho cai cay di bo`
+[04:30:52]: [Say] (KU_MflE4_vZ) Ocean: co riu` k
+[04:33:16]: [Say] (KU_MflE4_vZ) Ocean: giogogoog
+[04:33:37]: [Say] (KU_MflE4_vZ) Ocean: goi no zo di bo`
+[04:33:42]: [Say] (KU_MflE4_vZ) Ocean: con banh thanh long k day
+[04:34:46]: [Say] (KU_UnXy3wBQ) NEYUGN: may con kia
+[04:34:53]: [Say] (KU_UnXy3wBQ) NEYUGN: no an go a
+[04:35:36]: [Say] (KU_MflE4_vZ) Ocean: =)) t xay tuong khac' bot.
+[04:35:36]: [Say] (KU_iC59_xkK) Bo: log
+[04:35:41]: [Say] (KU_MflE4_vZ) Ocean: d m thang monT
+[04:35:44]: [Say] (KU_iC59_xkK) Bo: t can 2 log
+[04:36:23]: [Say] (KU_iC59_xkK) Bo: 2 log
+[04:36:52]: [Say] (KU_iC59_xkK) Bo:  (Health: 140/294) Wolfgang need much help to not feel hurt.
+[04:36:57]: [Say] (KU_iC59_xkK) Bo:  (Hunger: 293/300) Wolfgang is full and mighty!
+[04:36:59]: [Say] (KU_MflE4_vZ) Ocean: hmm
+[04:37:00]: [Say] (KU_iC59_xkK) Bo:  (Sanity: 140/200) Wolfgang head feel funny.
+[04:37:01]: [Say] (KU_MflE4_vZ) Ocean: still
+[04:37:02]: [Say] (KU_MflE4_vZ) Ocean: =))
+[04:37:09]: [Say] (KU_MflE4_vZ) Ocean: bcuoi vl
+[04:37:16]: [Say] (KU_iC59_xkK) Bo: lang phi thuc an va giap vcl =))
+[04:37:19]: [Say] (KU_UnXy3wBQ) NEYUGN: gan ma
+[04:37:28]: [Vote Announcement] rollback passed
+[04:38:57]: [Leave Announcement] NEYUGN
+[04:41:37]: [Join Announcement] NEYUGN
+[04:42:19]: [Say] (KU_MflE4_vZ) Ocean: dau r
+[04:42:24]: [Say] (KU_MflE4_vZ) Ocean: tap trung nao
+[04:42:34]: [Say] (KU_MflE4_vZ) Ocean: day ma nguyen
+[04:42:41]: [Say] (KU_UnXy3wBQ) NEYUGN: nau an
+[04:42:48]: [Say] (KU_MflE4_vZ) Ocean: ty dung sat' day nhe
+[04:42:53]: [Say] (KU_MflE4_vZ) Ocean: zo bo`
+[04:43:01]: [Say] (KU_UnXy3wBQ) NEYUGN: sap toi roi
+[04:43:07]: [Say] (KU_MflE4_vZ) Ocean: toi so gi
+[04:43:18]: [Say] (KU_MflE4_vZ) Ocean: do an dau bo`
+[04:43:48]: [Say] (KU_iC59_xkK) Bo:  (Health: 159/276) Wolfgang hurt.
+[04:44:45]: [Say] (KU_MflE4_vZ) Ocean: bo de Nguyen tank di
+[04:45:01]: [Say] (KU_iC59_xkK) Bo: dot lua len
+[04:45:05]: [Say] (KU_MflE4_vZ) Ocean: =))
+[04:45:52]: [Say] (KU_MflE4_vZ) Ocean: na ni
+[04:45:56]: [Say] (KU_MflE4_vZ) Ocean: cam cc gi the Nguyen
+[04:45:56]: [Say] (KU_MflE4_vZ) Ocean: =))
+[04:46:03]: [Say] (KU_UnXy3wBQ) NEYUGN: het giap
+[04:47:02]: [Death Announcement] Bo was killed by Dragonfly. He became a spooky ghost!
+[04:47:03]: [Death Announcement] Ocean was killed by Dragonfly. She became a spooky ghost!
+[04:47:07]: [Say] (KU_MflE4_vZ) Ocean: hmmm
+[04:47:12]: [Say] (KU_MflE4_vZ) Ocean: hmmmmm
+[04:47:17]: [Say] (KU_MflE4_vZ) Ocean: hmmmmmmmmmmmmmmmmmmmmmm
+[04:47:18]: [Say] (KU_UnXy3wBQ) NEYUGN: mat cong t spam do an'
+[04:47:26]: [Say] (KU_MflE4_vZ) Ocean: hhaaha
+[04:47:31]: [Vote Announcement] rollback passed
+[04:47:31]: [Say] (KU_UnXy3wBQ) NEYUGN: lai rollback
+[04:48:30]: [Leave Announcement] M0wX
+[04:49:09]: [Say] (KU_MflE4_vZ) Ocean: ze`
+[04:49:40]: [Leave Announcement] M0wX
+[04:50:24]: [Say] (KU_iC59_xkK) Bo:  (Health: 73/224) Wolfgang need much help to not feel hurt.
+[04:51:06]: [Say] (KU_UnXy3wBQ) NEYUGN: lam cho t it meatball
+[04:51:11]: [Leave Announcement] M0wX
+[04:51:14]: [Say] (KU_MflE4_vZ) Ocean: ok
+[04:53:18]: [Say] (KU_iC59_xkK) Bo: lam the nao the nguyen
+[04:53:30]: [Say] (KU_UnXy3wBQ) NEYUGN: t ko an dc rau nen lam dc the
+[04:53:34]: [Leave Announcement] M0wX
+[04:53:39]: [Say] (KU_UnXy3wBQ) NEYUGN: co moi con nay lam dc
+[04:53:39]: [Leave Announcement] Bo
+[04:55:05]: [Join Announcement] Bo
+[04:55:48]: [Say] (KU_UnXy3wBQ) NEYUGN: m nhay kieu gi the
+[04:55:54]: [Say] (KU_iC59_xkK) Bo: mod
+[04:56:02]: [Say] (KU_UnXy3wBQ) NEYUGN: mod gi
+[04:56:16]: [Say] (KU_UnXy3wBQ) NEYUGN: ko danh nua a
+[04:56:20]: [Say] (KU_MflE4_vZ) Ocean: co
+[04:56:21]: [Say] (KU_MflE4_vZ) Ocean:  I have 7 meats.
+[04:56:22]: [Leave Announcement] Bo
+[04:56:29]: [Say] (KU_UnXy3wBQ) NEYUGN: t sap chet doi roi
+[04:56:34]: [Say] (KU_UnXy3wBQ) NEYUGN: mang do an len di
+[04:57:00]: [Join Announcement] Bo
+[04:57:17]: [Say] (KU_iC59_xkK) Bo: gusture wheel
+[04:57:36]: [Say] (KU_UnXy3wBQ) NEYUGN: hay phet
+[04:58:47]: [Say] (KU_iC59_xkK) Bo: m lam the kieu gi vya
+[04:59:03]: [Say] (KU_UnXy3wBQ) NEYUGN: con nay cua t ko an dc rau
+[04:59:12]: [Say] (KU_UnXy3wBQ) NEYUGN: nen no' the
+[04:59:18]: [Say] (KU_UnXy3wBQ) NEYUGN: xin it thuc an nao
+[04:59:23]: [Say] (KU_UnXy3wBQ) NEYUGN: thit y
+[04:59:26]: [Say] (KU_iC59_xkK) Bo: khong con gi
+[04:59:28]: [Say] (KU_MflE4_vZ) Ocean: cuming
+[04:59:32]: [Say] (KU_iC59_xkK) Bo: rau cu con chang co
+[04:59:37]: [Say] (KU_MflE4_vZ) Ocean:  I have 4 meatballs.
+[05:01:24]: [Say] (KU_UnXy3wBQ) NEYUGN: mod kia cua m ten gi ha bo
+[05:01:25]: [Say] (KU_iC59_xkK) Bo: 4 mwat ball thif ai an ai nhin -))
+[05:01:34]: [Say] (KU_iC59_xkK) Bo: gesture wheel
+[05:01:57]: [Say] (KU_MflE4_vZ) Ocean: zo
+[05:02:01]: [Say] (KU_MflE4_vZ) Ocean: zozozo
+[05:02:12]: [Say] (KU_MflE4_vZ) Ocean: bo k lay
+[05:02:12]: [Say] (KU_UnXy3wBQ) NEYUGN: mat ket noi
+[05:02:15]: [Say] (KU_MflE4_vZ) Ocean: chay thit ms ak
+[05:02:51]: [Say] (KU_UnXy3wBQ) NEYUGN: sao t danh lai dc tang mau nhi
+[05:03:09]: [Say] (KU_MflE4_vZ) Ocean: con wig co hut mau ma
+[05:03:17]: [Say] (KU_UnXy3wBQ) NEYUGN: oh the ha'fff
+[05:03:47]: [Say] (KU_UnXy3wBQ) NEYUGN: hut it qua
+[05:03:48]: [Say] (KU_MflE4_vZ) Ocean: no con hoi ca nao~
+[05:03:59]: [Say] (KU_UnXy3wBQ) NEYUGN: danh may phat moi dc it mau
+[05:04:03]: [Say] (KU_MflE4_vZ) Ocean: vc
+[05:04:07]: [Say] (KU_MflE4_vZ) Ocean: =)) imba vl
+[05:04:09]: [Say] (KU_iC59_xkK) Bo:  (Health: 155/245) Wolfgang hurt.
+[05:04:11]: [Say] (KU_MflE4_vZ) Ocean: ong ma farm nhen
+[05:04:15]: [Say] (KU_iC59_xkK) Bo: t con deo duoc hoi nay =)))
+[05:04:16]: [Say] (KU_MflE4_vZ) Ocean: mau nao~ luc nao` cx day`
+[05:04:17]: [Say] (KU_MflE4_vZ) Ocean: the`
+[05:04:55]: [Say] (KU_iC59_xkK) Bo: o, chet roi a =)))
+[05:05:00]: [Say] (KU_UnXy3wBQ) NEYUGN: giet dc thi hoi nhieu mau hon
+[05:05:08]: [Say] (KU_UnXy3wBQ) NEYUGN: sao no ko boc chay' nhi
+[05:06:04]: [Say] (KU_MflE4_vZ) Ocean: thich danh nhau nua k
+[05:06:05]: [Say] (KU_MflE4_vZ) Ocean: =))
+[05:06:09]: [Say] (KU_MflE4_vZ) Ocean: de t lam them do hoi mau
+[05:06:16]: [Say] (KU_UnXy3wBQ) NEYUGN: danh con gi nua
+[05:06:16]: [Say] (KU_MflE4_vZ) Ocean: vao may cai vong` co?
+[05:06:18]: [Say] (KU_MflE4_vZ) Ocean: fang
+[05:09:11]: [Say] (KU_UnXy3wBQ) NEYUGN: huou ko mat ne
+[05:09:32]: [Say] (KU_MflE4_vZ) Ocean: trang tron nay`
+[05:09:34]: [Say] (KU_MflE4_vZ) Ocean: =))
+[05:09:38]: [Say] (KU_UnXy3wBQ) NEYUGN: danh lon de
+[05:09:45]: [Say] (KU_MflE4_vZ) Ocean: ve nha ma dap
+[05:09:47]: [Say] (KU_MflE4_vZ) Ocean: may con lon
+[05:09:53]: [Say] (KU_MflE4_vZ) Ocean: o cho pig torch day
+[05:10:01]: [Say] (KU_UnXy3wBQ) NEYUGN: t lay glommer
+[05:10:02]: [Say] (KU_MflE4_vZ) Ocean: ma dem ngan' bome
+[05:10:12]: [Say] (KU_UnXy3wBQ) NEYUGN: Bo dap di
+[05:13:20]: [Say] (KU_iC59_xkK) Bo: lon lai hs roi kia
+[05:14:11]: [Say] (KU_UnXy3wBQ) NEYUGN: hack
+[05:14:31]: [Say] (KU_UnXy3wBQ) NEYUGN: xay cai den kia the nao
+[05:14:35]: [Say] (KU_iC59_xkK) Bo: t di dot rung lay charcoal
+[05:14:40]: [Say] (KU_MflE4_vZ) Ocean: structre
+[05:14:44]: [Say] (KU_MflE4_vZ) Ocean: keo xuong duoi
+[05:14:48]: [Say] (KU_MflE4_vZ) Ocean: 1 dong do` trang tri
+[05:14:53]: [Say] (KU_MflE4_vZ) Ocean: cua? gorge
+[05:14:56]: [Say] (KU_MflE4_vZ) Ocean: =)) vs hamlet
+[05:15:07]: [Say] (KU_UnXy3wBQ) NEYUGN: dau tien vao dau
+[05:15:12]: [Say] (KU_MflE4_vZ) Ocean: bua'
+[05:15:30]: [Say] (KU_UnXy3wBQ) NEYUGN: oke
+[05:17:02]: [Say] (KU_UnXy3wBQ) NEYUGN: chester dau
+[05:17:50]: [Say] (KU_UnXy3wBQ) NEYUGN: chester dau roi
+[05:18:22]: [Say] (KU_MflE4_vZ) Ocean:  I have 35 dragon fruit seeds.
+[05:18:24]: [Say] (KU_MflE4_vZ) Ocean: lul
+[05:18:37]: [Say] (KU_MflE4_vZ) Ocean: cha noi Nguyen dm
+[05:18:39]: [Say] (KU_MflE4_vZ) Ocean: =))
+[05:19:31]: [Say] (KU_UnXy3wBQ) NEYUGN: con thua cai cane nao ko
+[05:19:35]: [Say] (KU_MflE4_vZ) Ocean: k co
+[05:19:35]: [Say] (KU_UnXy3wBQ) NEYUGN: chay cham qua
+[05:19:40]: [Say] (KU_MflE4_vZ) Ocean: t cx vay ma`
+[05:19:42]: [Say] (KU_MflE4_vZ) Ocean: rang' thoi
+[05:20:01]: [Say] (KU_MflE4_vZ) Ocean: ong di kiem thit quai ve t nau do hoi mau cho
+[05:20:05]: [Say] (KU_MflE4_vZ) Ocean: hoac la cau ca' cx dc
+[05:20:45]: [Say] (KU_UnXy3wBQ) NEYUGN: ai biet chester o dau ko
+[05:20:54]: [Say] (KU_MflE4_vZ) Ocean: farm nay
+[05:21:23]: [Say] (KU_UnXy3wBQ) NEYUGN: dau
+[05:23:55]: [Say] (KU_iC59_xkK) Bo: nguyen
+[05:23:59]: [Say] (KU_iC59_xkK) Bo: quay lai dap nhen
+[05:24:05]: [Say] (KU_UnXy3wBQ) NEYUGN: ke no
+[05:24:09]: [Say] (KU_UnXy3wBQ) NEYUGN: cho tho dap
+[05:25:06]: [Death Announcement] Bo was killed by Spider Warrior. He became a spooky ghost!
+[05:25:09]: [Say] (KU_MflE4_vZ) Ocean: hmm
+[05:25:11]: [Say] (KU_iC59_xkK) Bo: dm lah
+[05:25:18]: [Say] (KU_iC59_xkK) Bo: lag deo chay ra duoc
+[05:25:27]: [Say] (KU_iC59_xkK) Bo: giu F no cung deo dap
+[05:25:27]: [Resurrect Announcement] Bo was resurrected by NEYUGN.
+[05:25:34]: [Say] (KU_iC59_xkK) Bo: dm
+[05:25:48]: [Say] (KU_MflE4_vZ) Ocean: ve lam` nong
+[05:25:56]: [Say] (KU_MflE4_vZ) Ocean: vs hoc cach trnag tri nha nao`
+[05:25:59]: [Say] (KU_MflE4_vZ) Ocean: =))
+[05:26:10]: [Say] (KU_iC59_xkK) Bo: cau vl
+[05:26:15]: [Say] (KU_UnXy3wBQ) NEYUGN:  I have 13 monster meats.
+[05:27:15]: [Say] (KU_iC59_xkK) Bo: t ghet game -_-
+[05:27:22]: [Say] (KU_MflE4_vZ) Ocean: cax
+[05:27:26]: [Say] (KU_MflE4_vZ) Ocean: ghet thang monT ay
+[05:27:30]: [Say] (KU_MflE4_vZ) Ocean: de server o mY
+[05:27:31]: [Say] (KU_MflE4_vZ) Ocean: =))
+[05:27:34]: [Say] (KU_iC59_xkK) Bo: di ra khoi dam nhen 1 doan, luc sau no lai tele ve cho cu
+[05:27:54]: [Say] (KU_MflE4_vZ) Ocean:  We have a turkey dinner in this ice box.
+[05:28:10]: [Say] (KU_MflE4_vZ) Ocean: clgt
+[05:28:20]: [Say] (KU_MflE4_vZ) Ocean: spiderqueen o nha nay Nguyen
+[05:28:21]: [Say] (KU_MflE4_vZ) Ocean: cuu
+[05:28:27]: [Say] (KU_iC59_xkK) Bo: de t
+[05:28:44]: [Say] (KU_UnXy3wBQ) NEYUGN: goi lon ra
+[05:28:48]: [Say] (KU_UnXy3wBQ) NEYUGN: lag
+[05:28:54]: [Say] (KU_UnXy3wBQ) NEYUGN: dm
+[05:29:39]: [Say] (KU_iC59_xkK) Bo: de yen
+[05:29:43]: [Say] (KU_UnXy3wBQ) NEYUGN: lag cai ma suyt chet
+[05:29:43]: [Say] (KU_iC59_xkK) Bo: t dan ra day day
+[05:30:10]: [Say] (KU_MflE4_vZ) Ocean: guard pig khoe? day
+[05:30:23]: [Say] (KU_MflE4_vZ) Ocean: nhung gap bearger nat ca? pigtourch =))
+[05:30:27]: [Say] (KU_UnXy3wBQ) NEYUGN: trau vl y
+[05:30:34]: [Say] (KU_iC59_xkK) Bo: ak, t di tim con bearger
+[05:30:41]: [Say] (KU_UnXy3wBQ) NEYUGN: co 22 thit quai ne
+[05:31:06]: [Say] (KU_MflE4_vZ) Ocean: hmm
+[05:31:08]: [Say] (KU_MflE4_vZ) Ocean: nghi?
+[05:31:12]: [Say] (KU_MflE4_vZ) Ocean: co gi chieu mai pha' tiep
+[05:31:14]: [Say] (KU_MflE4_vZ) Ocean: =))
+[05:31:17]: [Say] (KU_MflE4_vZ) Ocean: toi den mang nhu kec
+[05:31:20]: [Say] (KU_MflE4_vZ) Ocean: chieu choi ngon vl
+[05:31:24]: [Say] (KU_iC59_xkK) Bo: kiem visa t dua server ve singapore
+[05:31:33]: [Say] (KU_MflE4_vZ) Ocean: deo co
+[05:31:34]: [Say] (KU_iC59_xkK) Bo: gt ca ngay hom nay nhu kec
+[05:31:34]: [Say] (KU_MflE4_vZ) Ocean: ahihi
+[05:31:38]: [Say] (KU_UnXy3wBQ) NEYUGN: m lam lay cai'
+[05:31:41]: [Say] (KU_UnXy3wBQ) NEYUGN: t ko co'
+[05:31:53]: [Leave Announcement] Ocean
+[05:34:17]: [Say] (KU_iC59_xkK) Bo: hom nay mang nhw loz ay
+[05:34:23]: [Say] (KU_UnXy3wBQ) NEYUGN: um
+[05:34:28]: [Say] (KU_iC59_xkK) Bo: reboot thu cai router xem sao
+[05:34:39]: [Say] (KU_UnXy3wBQ) NEYUGN: t thu nha t roi van the
+[05:34:40]: [Leave Announcement] Bo
+[05:42:18]: [Join Announcement] Bo
+[05:54:36]: [Death Announcement] NEYUGN was killed by Starvation. She became a spooky ghost!
+[05:54:55]: [Say] (KU_UnXy3wBQ) NEYUGN: sao t lai chet nhi
+[05:55:26]: [Say] (KU_iC59_xkK) Bo: lai day
+[05:55:29]: [Say] (KU_iC59_xkK) Bo: co do hs
+[05:55:33]: [Say] (KU_UnXy3wBQ) NEYUGN: ok
+[05:56:20]: [Say] (KU_UnXy3wBQ) NEYUGN: lag
+[05:56:27]: [Resurrect Announcement] NEYUGN was resurrected by Life Giving Amulet.
+[05:57:40]: [Say] (KU_UnXy3wBQ) NEYUGN: ?
+[06:03:49]: [Leave Announcement] NEYUGN
+[06:03:49]: [Leave Announcement] Bo
+[06:05:25]: [Join Announcement] Bo
+[06:05:58]: [Leave Announcement] Bo
+[06:11:24]: [Join Announcement] Bo
+[06:18:20]: [Leave Announcement] Bo
+[06:28:44]: [Join Announcement] NEYUGN
+[06:32:46]: [Leave Announcement] NEYUGN

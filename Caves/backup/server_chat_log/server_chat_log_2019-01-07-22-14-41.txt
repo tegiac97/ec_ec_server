@@ -1,0 +1,47 @@
+[00:01:08]: [Join Announcement] Monster
+[00:01:37]: [Join Announcement] Bo
+[00:01:47]: [Leave Announcement] Monster
+[00:02:12]: [Join Announcement] M0wX
+[00:02:15]: [Join Announcement] Monster
+[00:09:14]: [Join Announcement] Ocean
+[00:09:23]: [Say] (KU_MflE4_vZ) Ocean: hmm
+[00:09:27]: [Say] (KU_MflE4_vZ) Ocean: deo ai xay nha luon
+[00:09:30]: [Say] (KU_MflE4_vZ) Ocean: deo hieu kieu gi
+[00:09:31]: [Say] (KU_MflE4_vZ) Ocean: =))
+[00:09:39]: [Say] (KU_MflE4_vZ) Ocean: dua gear day nao`
+[00:10:00]: [Say] (KU_2DNgIhao) Monster:  I have 18 meats.
+[00:10:05]: [Say] (KU_MflE4_vZ) Ocean: i need gear
+[00:10:07]: [Say] (KU_MflE4_vZ) Ocean: fuck u
+[00:10:10]: [Say] (KU_2DNgIhao) Monster: dat' bo di ocean
+[00:10:16]: [Say] (KU_2DNgIhao) Monster: con` 1 con cuoi cung
+[00:10:20]: [Say] (KU_2DNgIhao) Monster: k t xien day =))
+[00:10:23]: [Say] (KU_MflE4_vZ) Ocean: cac
+[00:10:36]: [Say] (KU_MflE4_vZ) Ocean: deo ai dap gear that ak
+[00:10:43]: [Say] (KU_2DNgIhao) Monster: thang mox dap gear ma
+[00:11:23]: [Say] (KU_2DNgIhao) Monster:  I have 18 meats.
+[00:11:50]: [Say] (KU_MflE4_vZ) Ocean: xay birdcage di
+[00:11:52]: [Say] (KU_MflE4_vZ) Ocean: xay bua` de
+[00:12:00]: [Say] (KU_MflE4_vZ) Ocean: tam thoi` xay du? song da~
+[00:12:06]: [Say] (KU_MflE4_vZ) Ocean: nam sau xay dep
+[00:12:07]: [Say] (KU_MflE4_vZ) Ocean: =))
+[00:12:28]: [Say] (KU_2DNgIhao) Monster: =))
+[00:12:39]: [Say] (KU_MflE4_vZ) Ocean: mno~
+[00:12:45]: [Say] (KU_MflE4_vZ) Ocean: m co mang dc gear ve day k
+[00:12:58]: [Say] (KU_MflE4_vZ) Ocean: hay  t phai tu tay di dap
+[00:14:06]: [Say] (KU_2DNgIhao) Monster: k vao discord a
+[00:14:12]: [Say] (KU_MflE4_vZ) Ocean: chua vao`
+[00:14:32]: [Say] (KU_iC59_xkK) Bo:  (Hunger: 61/300) Wolfgang has hole in belly.
+[00:15:06]: [Say] (KU_MflE4_vZ) Ocean:  I have 2 rocks.
+[00:15:30]: [Say] (KU_iC59_rSB) M0wX:  I have 5 nightmare fuels.
+[00:17:16]: [Say] (KU_2DNgIhao) Monster:  I have 7 meats.
+[00:17:35]: [Say] (KU_2DNgIhao) Monster:  I have 22 silks.
+[00:18:59]: [Say] (KU_MflE4_vZ) Ocean:  Can someone make me a bucket-o-poop? I would need a science machine for it.
+[00:19:24]: [Leave Announcement] Ocean
+[00:22:13]: [Say] (KU_2DNgIhao) Monster:  I have 30 saplings.
+[00:27:52]: [Say] (KU_2DNgIhao) Monster:  I have a glommer's flower.
+[00:37:56]: [Say] (KU_iC59_rSB) M0wX:  I have a forest mushrooms.
+[00:38:10]: [Say] (KU_2DNgIhao) Monster:  We need more mad scientist lab.
+[00:39:33]: [Leave Announcement] Bo
+[00:39:33]: [Leave Announcement] M0wX
+[00:39:46]: [Leave Announcement] Monster
+[00:41:19]: [Join Announcement] Bo

@@ -1,0 +1,2542 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 35%
+	Available Physical Memory: 10445m/16304m
+	Available Page File: 13837m/22704m
+	Available Virtual Memory: 3994m/4095m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 11m
+	Working Set Size: 11m
+	Quota Peak Page Pool Usage: 194k
+	Quota Page Pool Usage: 194k
+	Quota Peak Non Paged Pool Usage:14k
+	Quota Non Paged Pool Usage: 14k
+	Page File Usage: 3m
+	Peak Page File Usage: 3m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/Cluster_1/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 298000
+[00:00:00]: Current time: Wed Jan 09 11:31:02 2019
+
+[00:00:00]: Don't Starve Together: 298000 WIN32
+[00:00:00]: Build Date: 3814
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -skip_update_server_mods -cluster Cluster_1 -shard Master 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (7088)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: ProfileIndex:3.99
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Platform: 1
+[00:00:00]: THREAD - started 'Ping Job Thread' (15688)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application F:\steam game\steamapps\common\Don't Starve Together Dedicated Server\bin\dontstarve_dedicated_server_nullrenderer.exe is enabled in the firewall.
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/Cluster_1/blocklist.txt (Failure)
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/Cluster_1/adminlist.txt (Failure)
+[00:00:00]: THREAD - started 'StreamInput' (18456)
+[00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/Cluster_1/whitelist.txt (Failure)
+[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/Cluster_1/cluster_token.txt
+[00:00:00]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Enterprise
+    version                   10.0.17134
+    architecture              64-bit
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  6
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      AMD Ryzen 5 1600X Six-Core Processor           
+    manufacturer              AuthenticAMD
+    clockSpeed                3600
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    name                      NVIDIA GeForce GTX 1080 Ti
+    driverDate                20181211000000.000000-000
+    megsOfRam                 4095
+    refreshRate               60
+    videoModeDescription      1920 x 1080 x 4294967296 colors
+    driverVersion             25.21.14.1735
+
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:00]:   taskgrouplist:	default	Together	
+[00:00:00]:   taskgrouplist:	classic	Classic	
+[00:00:00]:   taskgrouplist:	cave_default	Underground	
+[00:00:00]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:00]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:00]: running main.lua
+	
+[00:00:00]: loaded modindex	
+[00:00:00]: WARNING: icon paths for mod workshop-1474293089 (Lazy pick up items) are not valid. Got icon_atlas="auto_stack.xml" and icon="auto_stack.tex".
+Please ensure that these point to valid files in your mod folder, or else comment out those lines from your modinfo.lua.	
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:01]: modoverrides.lua enabling workshop-1474293089	
+[00:00:01]: modoverrides.lua enabling workshop-501385076	
+[00:00:01]: modoverrides.lua enabling workshop-925172054	
+[00:00:01]: modoverrides.lua enabling workshop-378160973	
+[00:00:01]: modoverrides.lua enabling workshop-1422039508	
+[00:00:01]: modoverrides.lua enabling workshop-375850593	
+[00:00:01]: modoverrides.lua enabling workshop-942328680	
+[00:00:01]: modoverrides.lua enabling workshop-362175979	
+[00:00:01]: modoverrides.lua enabling workshop-379707873	
+[00:00:01]: modoverrides.lua enabling workshop-356930882	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1422039508	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1474293089	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-356930882	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-379707873	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-925172054	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-942328680	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1422039508_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1474293089	
+[00:00:01]: Overriding mod workshop-1474293089's option auto_stack with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-925172054	
+[00:00:01]: Overriding mod workshop-925172054's option TAB with value 1	
+[00:00:01]: Overriding mod workshop-925172054's option ganjabush_rate with value 1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1422039508	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option SeedPacketRecipeDifficulty with value 3	
+[00:00:01]: Overriding mod workshop-1422039508's option CropGrowthTime with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option SoilCycles with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option CropWitherTime with value 240	
+[00:00:01]: Overriding mod workshop-1422039508's option NumberofHarvests with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option SeedPacketRecipe with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option NumberofCropsPerHarvest with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option FoodSettings with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option CropWitherability with value 1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-942328680	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option batwing with value true	
+[00:00:01]: Overriding mod workshop-942328680's option dig with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fish with value true	
+[00:00:01]: Overriding mod workshop-942328680's option livinglog with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cutgrass with value true	
+[00:00:01]: Overriding mod workshop-942328680's option attacked with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cutreeds with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pond with value true	
+[00:00:01]: Overriding mod workshop-942328680's option twigs with value true	
+[00:00:01]: Overriding mod workshop-942328680's option berries_juicy with value true	
+[00:00:01]: Overriding mod workshop-942328680's option start_message with value 2	
+[00:00:01]: Overriding mod workshop-942328680's option houndstooth with value true	
+[00:00:01]: Overriding mod workshop-942328680's option batcave with value true	
+[00:00:01]: Overriding mod workshop-942328680's option tallbirdegg with value true	
+[00:00:01]: Overriding mod workshop-942328680's option deerclops_eyeball with value true	
+[00:00:01]: Overriding mod workshop-942328680's option attack with value true	
+[00:00:01]: Overriding mod workshop-942328680's option campfire with value true	
+[00:00:01]: Overriding mod workshop-942328680's option coontail with value true	
+[00:00:01]: Overriding mod workshop-942328680's option berries with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pigskin with value true	
+[00:00:01]: Overriding mod workshop-942328680's option hungry_attack with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pitchfork with value true	
+[00:00:01]: Overriding mod workshop-942328680's option harvest with value true	
+[00:00:01]: Overriding mod workshop-942328680's option walrus_camp with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fertilize with value true	
+[00:00:01]: Overriding mod workshop-942328680's option amulet with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cave_banana with value true	
+[00:00:01]: Overriding mod workshop-942328680's option armorsnurtleshell with value true	
+[00:00:01]: Overriding mod workshop-942328680's option skeleton_player with value true	
+[00:00:01]: Overriding mod workshop-942328680's option shovel with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fireflies with value true	
+[00:00:01]: Overriding mod workshop-942328680's option walrus_tusk with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cave_banana_cooked with value true	
+[00:00:01]: Overriding mod workshop-942328680's option penalty_divide with value 2	
+[00:00:01]: Overriding mod workshop-942328680's option molehill with value true	
+[00:00:01]: Overriding mod workshop-942328680's option lightbulb with value true	
+[00:00:01]: Overriding mod workshop-942328680's option level_up_rate with value 1.5	
+[00:00:01]: Overriding mod workshop-942328680's option firepit with value true	
+[00:00:01]: Overriding mod workshop-942328680's option self_cannibalism with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:01]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-379707873	
+[00:00:01]: Overriding mod workshop-379707873's option PigtorchArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option BrokenPseudoscienceStation with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option MermArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option SpiderArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option ClockworkArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option BeeArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option TentacleArena with value normal	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-356930882	
+[00:00:01]: Overriding mod workshop-356930882's option uses with value 10000000	
+[00:00:01]: Overriding mod workshop-356930882's option uses2 with value 10000000	
+[00:00:01]: Loading mod: workshop-1422039508 (Gorge Crops!) Version:2.5.1	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1474293089_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1474293089	
+[00:00:01]: Overriding mod workshop-1474293089's option auto_stack with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-925172054	
+[00:00:01]: Overriding mod workshop-925172054's option TAB with value 1	
+[00:00:01]: Overriding mod workshop-925172054's option ganjabush_rate with value 1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1422039508	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option SeedPacketRecipeDifficulty with value 3	
+[00:00:01]: Overriding mod workshop-1422039508's option CropGrowthTime with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option SoilCycles with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option CropWitherTime with value 240	
+[00:00:01]: Overriding mod workshop-1422039508's option NumberofHarvests with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option SeedPacketRecipe with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option NumberofCropsPerHarvest with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option FoodSettings with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option CropWitherability with value 1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-942328680	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option batwing with value true	
+[00:00:01]: Overriding mod workshop-942328680's option dig with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fish with value true	
+[00:00:01]: Overriding mod workshop-942328680's option livinglog with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cutgrass with value true	
+[00:00:01]: Overriding mod workshop-942328680's option attacked with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cutreeds with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pond with value true	
+[00:00:01]: Overriding mod workshop-942328680's option twigs with value true	
+[00:00:01]: Overriding mod workshop-942328680's option berries_juicy with value true	
+[00:00:01]: Overriding mod workshop-942328680's option start_message with value 2	
+[00:00:01]: Overriding mod workshop-942328680's option houndstooth with value true	
+[00:00:01]: Overriding mod workshop-942328680's option batcave with value true	
+[00:00:01]: Overriding mod workshop-942328680's option tallbirdegg with value true	
+[00:00:01]: Overriding mod workshop-942328680's option deerclops_eyeball with value true	
+[00:00:01]: Overriding mod workshop-942328680's option attack with value true	
+[00:00:01]: Overriding mod workshop-942328680's option campfire with value true	
+[00:00:01]: Overriding mod workshop-942328680's option coontail with value true	
+[00:00:01]: Overriding mod workshop-942328680's option berries with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pigskin with value true	
+[00:00:01]: Overriding mod workshop-942328680's option hungry_attack with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pitchfork with value true	
+[00:00:01]: Overriding mod workshop-942328680's option harvest with value true	
+[00:00:01]: Overriding mod workshop-942328680's option walrus_camp with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fertilize with value true	
+[00:00:01]: Overriding mod workshop-942328680's option amulet with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cave_banana with value true	
+[00:00:01]: Overriding mod workshop-942328680's option armorsnurtleshell with value true	
+[00:00:01]: Overriding mod workshop-942328680's option skeleton_player with value true	
+[00:00:01]: Overriding mod workshop-942328680's option shovel with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fireflies with value true	
+[00:00:01]: Overriding mod workshop-942328680's option walrus_tusk with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cave_banana_cooked with value true	
+[00:00:01]: Overriding mod workshop-942328680's option penalty_divide with value 2	
+[00:00:01]: Overriding mod workshop-942328680's option molehill with value true	
+[00:00:01]: Overriding mod workshop-942328680's option lightbulb with value true	
+[00:00:01]: Overriding mod workshop-942328680's option level_up_rate with value 1.5	
+[00:00:01]: Overriding mod workshop-942328680's option firepit with value true	
+[00:00:01]: Overriding mod workshop-942328680's option self_cannibalism with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:01]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-379707873	
+[00:00:01]: Overriding mod workshop-379707873's option PigtorchArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option BrokenPseudoscienceStation with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option MermArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option SpiderArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option ClockworkArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option BeeArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option TentacleArena with value normal	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-356930882	
+[00:00:01]: Overriding mod workshop-356930882's option uses with value 10000000	
+[00:00:01]: Overriding mod workshop-356930882's option uses2 with value 10000000	
+[00:00:01]: Loading mod: workshop-1474293089 (Lazy pick up items) Version:1.0.1	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-356930882_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1474293089	
+[00:00:01]: Overriding mod workshop-1474293089's option auto_stack with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-925172054	
+[00:00:01]: Overriding mod workshop-925172054's option TAB with value 1	
+[00:00:01]: Overriding mod workshop-925172054's option ganjabush_rate with value 1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1422039508	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option SeedPacketRecipeDifficulty with value 3	
+[00:00:01]: Overriding mod workshop-1422039508's option CropGrowthTime with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option SoilCycles with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option CropWitherTime with value 240	
+[00:00:01]: Overriding mod workshop-1422039508's option NumberofHarvests with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option SeedPacketRecipe with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option NumberofCropsPerHarvest with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option FoodSettings with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option CropWitherability with value 1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-942328680	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option batwing with value true	
+[00:00:01]: Overriding mod workshop-942328680's option dig with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fish with value true	
+[00:00:01]: Overriding mod workshop-942328680's option livinglog with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cutgrass with value true	
+[00:00:01]: Overriding mod workshop-942328680's option attacked with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cutreeds with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pond with value true	
+[00:00:01]: Overriding mod workshop-942328680's option twigs with value true	
+[00:00:01]: Overriding mod workshop-942328680's option berries_juicy with value true	
+[00:00:01]: Overriding mod workshop-942328680's option start_message with value 2	
+[00:00:01]: Overriding mod workshop-942328680's option houndstooth with value true	
+[00:00:01]: Overriding mod workshop-942328680's option batcave with value true	
+[00:00:01]: Overriding mod workshop-942328680's option tallbirdegg with value true	
+[00:00:01]: Overriding mod workshop-942328680's option deerclops_eyeball with value true	
+[00:00:01]: Overriding mod workshop-942328680's option attack with value true	
+[00:00:01]: Overriding mod workshop-942328680's option campfire with value true	
+[00:00:01]: Overriding mod workshop-942328680's option coontail with value true	
+[00:00:01]: Overriding mod workshop-942328680's option berries with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pigskin with value true	
+[00:00:01]: Overriding mod workshop-942328680's option hungry_attack with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pitchfork with value true	
+[00:00:01]: Overriding mod workshop-942328680's option harvest with value true	
+[00:00:01]: Overriding mod workshop-942328680's option walrus_camp with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fertilize with value true	
+[00:00:01]: Overriding mod workshop-942328680's option amulet with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cave_banana with value true	
+[00:00:01]: Overriding mod workshop-942328680's option armorsnurtleshell with value true	
+[00:00:01]: Overriding mod workshop-942328680's option skeleton_player with value true	
+[00:00:01]: Overriding mod workshop-942328680's option shovel with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fireflies with value true	
+[00:00:01]: Overriding mod workshop-942328680's option walrus_tusk with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cave_banana_cooked with value true	
+[00:00:01]: Overriding mod workshop-942328680's option penalty_divide with value 2	
+[00:00:01]: Overriding mod workshop-942328680's option molehill with value true	
+[00:00:01]: Overriding mod workshop-942328680's option lightbulb with value true	
+[00:00:01]: Overriding mod workshop-942328680's option level_up_rate with value 1.5	
+[00:00:01]: Overriding mod workshop-942328680's option firepit with value true	
+[00:00:01]: Overriding mod workshop-942328680's option self_cannibalism with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:01]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-379707873	
+[00:00:01]: Overriding mod workshop-379707873's option PigtorchArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option BrokenPseudoscienceStation with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option MermArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option SpiderArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option ClockworkArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option BeeArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option TentacleArena with value normal	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-356930882	
+[00:00:01]: Overriding mod workshop-356930882's option uses with value 10000000	
+[00:00:01]: Overriding mod workshop-356930882's option uses2 with value 10000000	
+[00:00:01]: Loading mod: workshop-356930882 (Infinite Tent (and Siesta) Uses ) Version:1.7.1	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-362175979_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1474293089	
+[00:00:01]: Overriding mod workshop-1474293089's option auto_stack with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-925172054	
+[00:00:01]: Overriding mod workshop-925172054's option TAB with value 1	
+[00:00:01]: Overriding mod workshop-925172054's option ganjabush_rate with value 1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1422039508	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option SeedPacketRecipeDifficulty with value 3	
+[00:00:01]: Overriding mod workshop-1422039508's option CropGrowthTime with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option SoilCycles with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option CropWitherTime with value 240	
+[00:00:01]: Overriding mod workshop-1422039508's option NumberofHarvests with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option SeedPacketRecipe with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option NumberofCropsPerHarvest with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option FoodSettings with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option CropWitherability with value 1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-942328680	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option batwing with value true	
+[00:00:01]: Overriding mod workshop-942328680's option dig with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fish with value true	
+[00:00:01]: Overriding mod workshop-942328680's option livinglog with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cutgrass with value true	
+[00:00:01]: Overriding mod workshop-942328680's option attacked with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cutreeds with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pond with value true	
+[00:00:01]: Overriding mod workshop-942328680's option twigs with value true	
+[00:00:01]: Overriding mod workshop-942328680's option berries_juicy with value true	
+[00:00:01]: Overriding mod workshop-942328680's option start_message with value 2	
+[00:00:01]: Overriding mod workshop-942328680's option houndstooth with value true	
+[00:00:01]: Overriding mod workshop-942328680's option batcave with value true	
+[00:00:01]: Overriding mod workshop-942328680's option tallbirdegg with value true	
+[00:00:01]: Overriding mod workshop-942328680's option deerclops_eyeball with value true	
+[00:00:01]: Overriding mod workshop-942328680's option attack with value true	
+[00:00:01]: Overriding mod workshop-942328680's option campfire with value true	
+[00:00:01]: Overriding mod workshop-942328680's option coontail with value true	
+[00:00:01]: Overriding mod workshop-942328680's option berries with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pigskin with value true	
+[00:00:01]: Overriding mod workshop-942328680's option hungry_attack with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pitchfork with value true	
+[00:00:01]: Overriding mod workshop-942328680's option harvest with value true	
+[00:00:01]: Overriding mod workshop-942328680's option walrus_camp with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fertilize with value true	
+[00:00:01]: Overriding mod workshop-942328680's option amulet with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cave_banana with value true	
+[00:00:01]: Overriding mod workshop-942328680's option armorsnurtleshell with value true	
+[00:00:01]: Overriding mod workshop-942328680's option skeleton_player with value true	
+[00:00:01]: Overriding mod workshop-942328680's option shovel with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fireflies with value true	
+[00:00:01]: Overriding mod workshop-942328680's option walrus_tusk with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cave_banana_cooked with value true	
+[00:00:01]: Overriding mod workshop-942328680's option penalty_divide with value 2	
+[00:00:01]: Overriding mod workshop-942328680's option molehill with value true	
+[00:00:01]: Overriding mod workshop-942328680's option lightbulb with value true	
+[00:00:01]: Overriding mod workshop-942328680's option level_up_rate with value 1.5	
+[00:00:01]: Overriding mod workshop-942328680's option firepit with value true	
+[00:00:01]: Overriding mod workshop-942328680's option self_cannibalism with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:01]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-379707873	
+[00:00:01]: Overriding mod workshop-379707873's option PigtorchArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option BrokenPseudoscienceStation with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option MermArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option SpiderArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option ClockworkArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option BeeArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option TentacleArena with value normal	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-356930882	
+[00:00:01]: Overriding mod workshop-356930882's option uses with value 10000000	
+[00:00:01]: Overriding mod workshop-356930882's option uses2 with value 10000000	
+[00:00:01]: Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-375850593_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1474293089	
+[00:00:01]: Overriding mod workshop-1474293089's option auto_stack with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-925172054	
+[00:00:01]: Overriding mod workshop-925172054's option TAB with value 1	
+[00:00:01]: Overriding mod workshop-925172054's option ganjabush_rate with value 1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1422039508	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option SeedPacketRecipeDifficulty with value 3	
+[00:00:01]: Overriding mod workshop-1422039508's option CropGrowthTime with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option SoilCycles with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option CropWitherTime with value 240	
+[00:00:01]: Overriding mod workshop-1422039508's option NumberofHarvests with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option SeedPacketRecipe with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option NumberofCropsPerHarvest with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option FoodSettings with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option CropWitherability with value 1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-942328680	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option batwing with value true	
+[00:00:01]: Overriding mod workshop-942328680's option dig with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fish with value true	
+[00:00:01]: Overriding mod workshop-942328680's option livinglog with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cutgrass with value true	
+[00:00:01]: Overriding mod workshop-942328680's option attacked with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cutreeds with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pond with value true	
+[00:00:01]: Overriding mod workshop-942328680's option twigs with value true	
+[00:00:01]: Overriding mod workshop-942328680's option berries_juicy with value true	
+[00:00:01]: Overriding mod workshop-942328680's option start_message with value 2	
+[00:00:01]: Overriding mod workshop-942328680's option houndstooth with value true	
+[00:00:01]: Overriding mod workshop-942328680's option batcave with value true	
+[00:00:01]: Overriding mod workshop-942328680's option tallbirdegg with value true	
+[00:00:01]: Overriding mod workshop-942328680's option deerclops_eyeball with value true	
+[00:00:01]: Overriding mod workshop-942328680's option attack with value true	
+[00:00:01]: Overriding mod workshop-942328680's option campfire with value true	
+[00:00:01]: Overriding mod workshop-942328680's option coontail with value true	
+[00:00:01]: Overriding mod workshop-942328680's option berries with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pigskin with value true	
+[00:00:01]: Overriding mod workshop-942328680's option hungry_attack with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pitchfork with value true	
+[00:00:01]: Overriding mod workshop-942328680's option harvest with value true	
+[00:00:01]: Overriding mod workshop-942328680's option walrus_camp with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fertilize with value true	
+[00:00:01]: Overriding mod workshop-942328680's option amulet with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cave_banana with value true	
+[00:00:01]: Overriding mod workshop-942328680's option armorsnurtleshell with value true	
+[00:00:01]: Overriding mod workshop-942328680's option skeleton_player with value true	
+[00:00:01]: Overriding mod workshop-942328680's option shovel with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fireflies with value true	
+[00:00:01]: Overriding mod workshop-942328680's option walrus_tusk with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cave_banana_cooked with value true	
+[00:00:01]: Overriding mod workshop-942328680's option penalty_divide with value 2	
+[00:00:01]: Overriding mod workshop-942328680's option molehill with value true	
+[00:00:01]: Overriding mod workshop-942328680's option lightbulb with value true	
+[00:00:01]: Overriding mod workshop-942328680's option level_up_rate with value 1.5	
+[00:00:01]: Overriding mod workshop-942328680's option firepit with value true	
+[00:00:01]: Overriding mod workshop-942328680's option self_cannibalism with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:01]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-379707873	
+[00:00:01]: Overriding mod workshop-379707873's option PigtorchArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option BrokenPseudoscienceStation with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option MermArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option SpiderArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option ClockworkArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option BeeArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option TentacleArena with value normal	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-356930882	
+[00:00:01]: Overriding mod workshop-356930882's option uses with value 10000000	
+[00:00:01]: Overriding mod workshop-356930882's option uses2 with value 10000000	
+[00:00:01]: Loading mod: workshop-375850593 (Extra Equip Slots) Version:1.8.0	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-378160973_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1474293089	
+[00:00:01]: Overriding mod workshop-1474293089's option auto_stack with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-925172054	
+[00:00:01]: Overriding mod workshop-925172054's option TAB with value 1	
+[00:00:01]: Overriding mod workshop-925172054's option ganjabush_rate with value 1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1422039508	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option SeedPacketRecipeDifficulty with value 3	
+[00:00:01]: Overriding mod workshop-1422039508's option CropGrowthTime with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option SoilCycles with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option CropWitherTime with value 240	
+[00:00:01]: Overriding mod workshop-1422039508's option NumberofHarvests with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option SeedPacketRecipe with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option NumberofCropsPerHarvest with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option FoodSettings with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option CropWitherability with value 1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-942328680	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option batwing with value true	
+[00:00:01]: Overriding mod workshop-942328680's option dig with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fish with value true	
+[00:00:01]: Overriding mod workshop-942328680's option livinglog with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cutgrass with value true	
+[00:00:01]: Overriding mod workshop-942328680's option attacked with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cutreeds with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pond with value true	
+[00:00:01]: Overriding mod workshop-942328680's option twigs with value true	
+[00:00:01]: Overriding mod workshop-942328680's option berries_juicy with value true	
+[00:00:01]: Overriding mod workshop-942328680's option start_message with value 2	
+[00:00:01]: Overriding mod workshop-942328680's option houndstooth with value true	
+[00:00:01]: Overriding mod workshop-942328680's option batcave with value true	
+[00:00:01]: Overriding mod workshop-942328680's option tallbirdegg with value true	
+[00:00:01]: Overriding mod workshop-942328680's option deerclops_eyeball with value true	
+[00:00:01]: Overriding mod workshop-942328680's option attack with value true	
+[00:00:01]: Overriding mod workshop-942328680's option campfire with value true	
+[00:00:01]: Overriding mod workshop-942328680's option coontail with value true	
+[00:00:01]: Overriding mod workshop-942328680's option berries with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pigskin with value true	
+[00:00:01]: Overriding mod workshop-942328680's option hungry_attack with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pitchfork with value true	
+[00:00:01]: Overriding mod workshop-942328680's option harvest with value true	
+[00:00:01]: Overriding mod workshop-942328680's option walrus_camp with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fertilize with value true	
+[00:00:01]: Overriding mod workshop-942328680's option amulet with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cave_banana with value true	
+[00:00:01]: Overriding mod workshop-942328680's option armorsnurtleshell with value true	
+[00:00:01]: Overriding mod workshop-942328680's option skeleton_player with value true	
+[00:00:01]: Overriding mod workshop-942328680's option shovel with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fireflies with value true	
+[00:00:01]: Overriding mod workshop-942328680's option walrus_tusk with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cave_banana_cooked with value true	
+[00:00:01]: Overriding mod workshop-942328680's option penalty_divide with value 2	
+[00:00:01]: Overriding mod workshop-942328680's option molehill with value true	
+[00:00:01]: Overriding mod workshop-942328680's option lightbulb with value true	
+[00:00:01]: Overriding mod workshop-942328680's option level_up_rate with value 1.5	
+[00:00:01]: Overriding mod workshop-942328680's option firepit with value true	
+[00:00:01]: Overriding mod workshop-942328680's option self_cannibalism with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:01]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-379707873	
+[00:00:01]: Overriding mod workshop-379707873's option PigtorchArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option BrokenPseudoscienceStation with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option MermArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option SpiderArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option ClockworkArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option BeeArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option TentacleArena with value normal	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-356930882	
+[00:00:01]: Overriding mod workshop-356930882's option uses with value 10000000	
+[00:00:01]: Overriding mod workshop-356930882's option uses2 with value 10000000	
+[00:00:01]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-379707873_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1474293089	
+[00:00:01]: Overriding mod workshop-1474293089's option auto_stack with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-925172054	
+[00:00:01]: Overriding mod workshop-925172054's option TAB with value 1	
+[00:00:01]: Overriding mod workshop-925172054's option ganjabush_rate with value 1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1422039508	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option SeedPacketRecipeDifficulty with value 3	
+[00:00:01]: Overriding mod workshop-1422039508's option CropGrowthTime with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option SoilCycles with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option CropWitherTime with value 240	
+[00:00:01]: Overriding mod workshop-1422039508's option NumberofHarvests with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option SeedPacketRecipe with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option NumberofCropsPerHarvest with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option FoodSettings with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option CropWitherability with value 1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-942328680	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option batwing with value true	
+[00:00:01]: Overriding mod workshop-942328680's option dig with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fish with value true	
+[00:00:01]: Overriding mod workshop-942328680's option livinglog with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cutgrass with value true	
+[00:00:01]: Overriding mod workshop-942328680's option attacked with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cutreeds with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pond with value true	
+[00:00:01]: Overriding mod workshop-942328680's option twigs with value true	
+[00:00:01]: Overriding mod workshop-942328680's option berries_juicy with value true	
+[00:00:01]: Overriding mod workshop-942328680's option start_message with value 2	
+[00:00:01]: Overriding mod workshop-942328680's option houndstooth with value true	
+[00:00:01]: Overriding mod workshop-942328680's option batcave with value true	
+[00:00:01]: Overriding mod workshop-942328680's option tallbirdegg with value true	
+[00:00:01]: Overriding mod workshop-942328680's option deerclops_eyeball with value true	
+[00:00:01]: Overriding mod workshop-942328680's option attack with value true	
+[00:00:01]: Overriding mod workshop-942328680's option campfire with value true	
+[00:00:01]: Overriding mod workshop-942328680's option coontail with value true	
+[00:00:01]: Overriding mod workshop-942328680's option berries with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pigskin with value true	
+[00:00:01]: Overriding mod workshop-942328680's option hungry_attack with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pitchfork with value true	
+[00:00:01]: Overriding mod workshop-942328680's option harvest with value true	
+[00:00:01]: Overriding mod workshop-942328680's option walrus_camp with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fertilize with value true	
+[00:00:01]: Overriding mod workshop-942328680's option amulet with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cave_banana with value true	
+[00:00:01]: Overriding mod workshop-942328680's option armorsnurtleshell with value true	
+[00:00:01]: Overriding mod workshop-942328680's option skeleton_player with value true	
+[00:00:01]: Overriding mod workshop-942328680's option shovel with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fireflies with value true	
+[00:00:01]: Overriding mod workshop-942328680's option walrus_tusk with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cave_banana_cooked with value true	
+[00:00:01]: Overriding mod workshop-942328680's option penalty_divide with value 2	
+[00:00:01]: Overriding mod workshop-942328680's option molehill with value true	
+[00:00:01]: Overriding mod workshop-942328680's option lightbulb with value true	
+[00:00:01]: Overriding mod workshop-942328680's option level_up_rate with value 1.5	
+[00:00:01]: Overriding mod workshop-942328680's option firepit with value true	
+[00:00:01]: Overriding mod workshop-942328680's option self_cannibalism with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:01]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-379707873	
+[00:00:01]: Overriding mod workshop-379707873's option PigtorchArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option BrokenPseudoscienceStation with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option MermArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option SpiderArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option ClockworkArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option BeeArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option TentacleArena with value normal	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-356930882	
+[00:00:01]: Overriding mod workshop-356930882's option uses with value 10000000	
+[00:00:01]: Overriding mod workshop-356930882's option uses2 with value 10000000	
+[00:00:01]: Loading mod: workshop-379707873 (The Arena) Version:0.8	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-501385076_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1474293089	
+[00:00:01]: Overriding mod workshop-1474293089's option auto_stack with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-925172054	
+[00:00:01]: Overriding mod workshop-925172054's option TAB with value 1	
+[00:00:01]: Overriding mod workshop-925172054's option ganjabush_rate with value 1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1422039508	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option SeedPacketRecipeDifficulty with value 3	
+[00:00:01]: Overriding mod workshop-1422039508's option CropGrowthTime with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option SoilCycles with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option CropWitherTime with value 240	
+[00:00:01]: Overriding mod workshop-1422039508's option NumberofHarvests with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option SeedPacketRecipe with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option NumberofCropsPerHarvest with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option FoodSettings with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option CropWitherability with value 1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-942328680	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option batwing with value true	
+[00:00:01]: Overriding mod workshop-942328680's option dig with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fish with value true	
+[00:00:01]: Overriding mod workshop-942328680's option livinglog with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cutgrass with value true	
+[00:00:01]: Overriding mod workshop-942328680's option attacked with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cutreeds with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pond with value true	
+[00:00:01]: Overriding mod workshop-942328680's option twigs with value true	
+[00:00:01]: Overriding mod workshop-942328680's option berries_juicy with value true	
+[00:00:01]: Overriding mod workshop-942328680's option start_message with value 2	
+[00:00:01]: Overriding mod workshop-942328680's option houndstooth with value true	
+[00:00:01]: Overriding mod workshop-942328680's option batcave with value true	
+[00:00:01]: Overriding mod workshop-942328680's option tallbirdegg with value true	
+[00:00:01]: Overriding mod workshop-942328680's option deerclops_eyeball with value true	
+[00:00:01]: Overriding mod workshop-942328680's option attack with value true	
+[00:00:01]: Overriding mod workshop-942328680's option campfire with value true	
+[00:00:01]: Overriding mod workshop-942328680's option coontail with value true	
+[00:00:01]: Overriding mod workshop-942328680's option berries with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pigskin with value true	
+[00:00:01]: Overriding mod workshop-942328680's option hungry_attack with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pitchfork with value true	
+[00:00:01]: Overriding mod workshop-942328680's option harvest with value true	
+[00:00:01]: Overriding mod workshop-942328680's option walrus_camp with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fertilize with value true	
+[00:00:01]: Overriding mod workshop-942328680's option amulet with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cave_banana with value true	
+[00:00:01]: Overriding mod workshop-942328680's option armorsnurtleshell with value true	
+[00:00:01]: Overriding mod workshop-942328680's option skeleton_player with value true	
+[00:00:01]: Overriding mod workshop-942328680's option shovel with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fireflies with value true	
+[00:00:01]: Overriding mod workshop-942328680's option walrus_tusk with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cave_banana_cooked with value true	
+[00:00:01]: Overriding mod workshop-942328680's option penalty_divide with value 2	
+[00:00:01]: Overriding mod workshop-942328680's option molehill with value true	
+[00:00:01]: Overriding mod workshop-942328680's option lightbulb with value true	
+[00:00:01]: Overriding mod workshop-942328680's option level_up_rate with value 1.5	
+[00:00:01]: Overriding mod workshop-942328680's option firepit with value true	
+[00:00:01]: Overriding mod workshop-942328680's option self_cannibalism with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:01]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-379707873	
+[00:00:01]: Overriding mod workshop-379707873's option PigtorchArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option BrokenPseudoscienceStation with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option MermArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option SpiderArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option ClockworkArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option BeeArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option TentacleArena with value normal	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-356930882	
+[00:00:01]: Overriding mod workshop-356930882's option uses with value 10000000	
+[00:00:01]: Overriding mod workshop-356930882's option uses2 with value 10000000	
+[00:00:01]: Loading mod: workshop-501385076 (Quick Pick) Version:1.0.1	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-925172054_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1474293089	
+[00:00:01]: Overriding mod workshop-1474293089's option auto_stack with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-925172054	
+[00:00:01]: Overriding mod workshop-925172054's option TAB with value 1	
+[00:00:01]: Overriding mod workshop-925172054's option ganjabush_rate with value 1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1422039508	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option SeedPacketRecipeDifficulty with value 3	
+[00:00:01]: Overriding mod workshop-1422039508's option CropGrowthTime with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option SoilCycles with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option CropWitherTime with value 240	
+[00:00:01]: Overriding mod workshop-1422039508's option NumberofHarvests with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option SeedPacketRecipe with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option NumberofCropsPerHarvest with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option FoodSettings with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option CropWitherability with value 1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-942328680	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option batwing with value true	
+[00:00:01]: Overriding mod workshop-942328680's option dig with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fish with value true	
+[00:00:01]: Overriding mod workshop-942328680's option livinglog with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cutgrass with value true	
+[00:00:01]: Overriding mod workshop-942328680's option attacked with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cutreeds with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pond with value true	
+[00:00:01]: Overriding mod workshop-942328680's option twigs with value true	
+[00:00:01]: Overriding mod workshop-942328680's option berries_juicy with value true	
+[00:00:01]: Overriding mod workshop-942328680's option start_message with value 2	
+[00:00:01]: Overriding mod workshop-942328680's option houndstooth with value true	
+[00:00:01]: Overriding mod workshop-942328680's option batcave with value true	
+[00:00:01]: Overriding mod workshop-942328680's option tallbirdegg with value true	
+[00:00:01]: Overriding mod workshop-942328680's option deerclops_eyeball with value true	
+[00:00:01]: Overriding mod workshop-942328680's option attack with value true	
+[00:00:01]: Overriding mod workshop-942328680's option campfire with value true	
+[00:00:01]: Overriding mod workshop-942328680's option coontail with value true	
+[00:00:01]: Overriding mod workshop-942328680's option berries with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pigskin with value true	
+[00:00:01]: Overriding mod workshop-942328680's option hungry_attack with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pitchfork with value true	
+[00:00:01]: Overriding mod workshop-942328680's option harvest with value true	
+[00:00:01]: Overriding mod workshop-942328680's option walrus_camp with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fertilize with value true	
+[00:00:01]: Overriding mod workshop-942328680's option amulet with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cave_banana with value true	
+[00:00:01]: Overriding mod workshop-942328680's option armorsnurtleshell with value true	
+[00:00:01]: Overriding mod workshop-942328680's option skeleton_player with value true	
+[00:00:01]: Overriding mod workshop-942328680's option shovel with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fireflies with value true	
+[00:00:01]: Overriding mod workshop-942328680's option walrus_tusk with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cave_banana_cooked with value true	
+[00:00:01]: Overriding mod workshop-942328680's option penalty_divide with value 2	
+[00:00:01]: Overriding mod workshop-942328680's option molehill with value true	
+[00:00:01]: Overriding mod workshop-942328680's option lightbulb with value true	
+[00:00:01]: Overriding mod workshop-942328680's option level_up_rate with value 1.5	
+[00:00:01]: Overriding mod workshop-942328680's option firepit with value true	
+[00:00:01]: Overriding mod workshop-942328680's option self_cannibalism with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:01]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-379707873	
+[00:00:01]: Overriding mod workshop-379707873's option PigtorchArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option BrokenPseudoscienceStation with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option MermArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option SpiderArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option ClockworkArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option BeeArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option TentacleArena with value normal	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-356930882	
+[00:00:01]: Overriding mod workshop-356930882's option uses with value 10000000	
+[00:00:01]: Overriding mod workshop-356930882's option uses2 with value 10000000	
+[00:00:01]: Loading mod: workshop-925172054 (Ganja) Version:1.1	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-942328680_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1474293089	
+[00:00:01]: Overriding mod workshop-1474293089's option auto_stack with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-925172054	
+[00:00:01]: Overriding mod workshop-925172054's option TAB with value 1	
+[00:00:01]: Overriding mod workshop-925172054's option ganjabush_rate with value 1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:01]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:01]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:01]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:01]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1422039508	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option SeedPacketRecipeDifficulty with value 3	
+[00:00:01]: Overriding mod workshop-1422039508's option CropGrowthTime with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option SoilCycles with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option CropWitherTime with value 240	
+[00:00:01]: Overriding mod workshop-1422039508's option NumberofHarvests with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option SeedPacketRecipe with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option NumberofCropsPerHarvest with value 1	
+[00:00:01]: Overriding mod workshop-1422039508's option FoodSettings with value 0	
+[00:00:01]: Overriding mod workshop-1422039508's option CropWitherability with value 1	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-942328680	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:01]: Overriding mod workshop-942328680's option batwing with value true	
+[00:00:01]: Overriding mod workshop-942328680's option dig with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fish with value true	
+[00:00:01]: Overriding mod workshop-942328680's option livinglog with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cutgrass with value true	
+[00:00:01]: Overriding mod workshop-942328680's option attacked with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cutreeds with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pond with value true	
+[00:00:01]: Overriding mod workshop-942328680's option twigs with value true	
+[00:00:01]: Overriding mod workshop-942328680's option berries_juicy with value true	
+[00:00:01]: Overriding mod workshop-942328680's option start_message with value 2	
+[00:00:01]: Overriding mod workshop-942328680's option houndstooth with value true	
+[00:00:01]: Overriding mod workshop-942328680's option batcave with value true	
+[00:00:01]: Overriding mod workshop-942328680's option tallbirdegg with value true	
+[00:00:01]: Overriding mod workshop-942328680's option deerclops_eyeball with value true	
+[00:00:01]: Overriding mod workshop-942328680's option attack with value true	
+[00:00:01]: Overriding mod workshop-942328680's option campfire with value true	
+[00:00:01]: Overriding mod workshop-942328680's option coontail with value true	
+[00:00:01]: Overriding mod workshop-942328680's option berries with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pigskin with value true	
+[00:00:01]: Overriding mod workshop-942328680's option hungry_attack with value true	
+[00:00:01]: Overriding mod workshop-942328680's option pitchfork with value true	
+[00:00:01]: Overriding mod workshop-942328680's option harvest with value true	
+[00:00:01]: Overriding mod workshop-942328680's option walrus_camp with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fertilize with value true	
+[00:00:01]: Overriding mod workshop-942328680's option amulet with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cave_banana with value true	
+[00:00:01]: Overriding mod workshop-942328680's option armorsnurtleshell with value true	
+[00:00:01]: Overriding mod workshop-942328680's option skeleton_player with value true	
+[00:00:01]: Overriding mod workshop-942328680's option shovel with value true	
+[00:00:01]: Overriding mod workshop-942328680's option fireflies with value true	
+[00:00:01]: Overriding mod workshop-942328680's option walrus_tusk with value true	
+[00:00:01]: Overriding mod workshop-942328680's option cave_banana_cooked with value true	
+[00:00:01]: Overriding mod workshop-942328680's option penalty_divide with value 2	
+[00:00:01]: Overriding mod workshop-942328680's option molehill with value true	
+[00:00:01]: Overriding mod workshop-942328680's option lightbulb with value true	
+[00:00:01]: Overriding mod workshop-942328680's option level_up_rate with value 1.5	
+[00:00:01]: Overriding mod workshop-942328680's option firepit with value true	
+[00:00:01]: Overriding mod workshop-942328680's option self_cannibalism with value true	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:01]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-379707873	
+[00:00:01]: Overriding mod workshop-379707873's option PigtorchArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option BrokenPseudoscienceStation with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option MermArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option SpiderArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option ClockworkArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option BeeArena with value normal	
+[00:00:01]: Overriding mod workshop-379707873's option TentacleArena with value normal	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-356930882	
+[00:00:01]: Overriding mod workshop-356930882's option uses with value 10000000	
+[00:00:01]: Overriding mod workshop-356930882's option uses2 with value 10000000	
+[00:00:01]: Loading mod: workshop-942328680 (DsMMO) Version:1.2.5	
+[00:00:01]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-375850593 (Extra Equip Slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-362175979 (Wormhole Marks)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-379707873 (The Arena)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-379707873 (The Arena)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-501385076 (Quick Pick)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-501385076 (Quick Pick)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-501385076 (Quick Pick)	Loading modmain.lua	
+[00:00:01]: Mod: workshop-1474293089 (Lazy pick up items)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-1474293089 (Lazy pick up items)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-1474293089 (Lazy pick up items)	Loading modmain.lua	
+[00:00:01]: modimport: ../mods/workshop-1474293089/scripts/stack.lua	
+[00:00:01]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Loading modmain.lua	
+[00:00:01]: Mod: workshop-1422039508 (Gorge Crops!)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-1422039508 (Gorge Crops!)	Loading modmain.lua	
+[00:00:03]: Warning: function Recipe in modmain is deprecated, please use AddRecipe	
+[00:00:03]: Warning: function Recipe in modmain is deprecated, please use AddRecipe	
+[00:00:03]: Warning: function Recipe in modmain is deprecated, please use AddRecipe	
+[00:00:03]: Warning: function Recipe in modmain is deprecated, please use AddRecipe	
+[00:00:03]: Mod: workshop-925172054 (Ganja)	Loading modworldgenmain.lua	
+[00:00:03]: Spawned Ganja Bush in Biomes	
+[00:00:03]: Mod: workshop-925172054 (Ganja)	Loading modmain.lua	
+[00:00:03]: modimport: ../mods/workshop-925172054/scripts/utils/recipes.lua	
+[00:00:03]: modimport: ../mods/workshop-925172054/scripts/utils/toke.lua	
+[00:00:03]: WARNING: Positional Action parameters are deprecated. Please pass action a table instead.	
+[00:00:03]: Action defined at 	../mods/workshop-925172054/scripts/utils/toke.lua:26 in (local) result (main) <0-0>	
+[00:00:03]: modimport: ../mods/workshop-925172054/scripts/utils/speeches.lua	
+[00:00:03]: modimport: ../mods/workshop-925172054/scripts/utils/meatrack_anim.lua	
+[00:00:03]: Mod: workshop-942328680 (DsMMO)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-942328680 (DsMMO)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-942328680 (DsMMO)	Loading modmain.lua	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:03]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1422039508	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1474293089	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-356930882	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-379707873	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-925172054	
+[00:00:03]: ModIndex:GetModsToLoad inserting moddir, 	workshop-942328680	
+[00:00:03]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:04]: LOADING LUA SUCCESS
+[00:00:04]: Registering mod namespace "dsmmo"
+[00:00:04]: Registering mod namespace "workshop-378160973"
+[00:00:04]: PlayerDeaths could not load morgue	
+[00:00:04]: PlayerHistory could not load player_history	
+[00:00:04]: ServerPreferences could not load server_preferences	
+[00:00:04]: bloom_enabled	false	
+[00:00:04]: loaded saveindex	
+[00:00:04]: OnFilesLoaded()	
+[00:00:04]: OnUpdatePurchaseStateComplete	
+[00:00:04]: Klump load on boot started.	
+[00:00:04]: Klump files loaded: 	0	
+[00:00:06]: Mod: workshop-375850593 (Extra Equip Slots)	Registering prefabs	
+[00:00:06]: Mod: workshop-375850593 (Extra Equip Slots)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
+[00:00:06]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-379707873 (The Arena)	Registering prefabs	
+[00:00:06]: Mod: workshop-379707873 (The Arena)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-501385076 (Quick Pick)	Registering prefabs	
+[00:00:06]: Mod: workshop-501385076 (Quick Pick)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-1474293089 (Lazy pick up items)	Registering prefabs	
+[00:00:06]: Mod: workshop-1474293089 (Lazy pick up items)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Registering prefabs	
+[00:00:06]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	Registering prefabs	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	  Registering prefab file: prefabs/extra_plantables	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    wheat_seeds	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    potato_seeds	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    tomato_seeds	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    onion_seeds	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    turnip_seeds	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    garlic_seeds	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    wheat	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    potato	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    tomato	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    onion	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    turnip	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    garlic	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    wheat_cooked	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    potato_cooked	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    tomato_cooked	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    onion_cooked	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    turnip_cooked	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    garlic_cooked	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	  Registering prefab file: prefabs/veg_garden_useable	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    veg_garden_rocks	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    veg_garden_useable	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    veg_garden_useable_placer	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	  Registering prefab file: prefabs/hoe	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    hoe	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	  Registering prefab file: prefabs/seed_packet	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    seed_packet	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	  Registering prefab file: prefabs/flour	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    flour	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	  Registering prefab file: prefabs/mealingstone	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    mealingstone	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    mealingstone_placer	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	  Registering prefab file: prefabs/turnip_sugar	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    turnip_sugar	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	  Registering prefab file: prefabs/newfoods	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    bread	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    candied_potato	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    meat_cake	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    pom_puff	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    stew	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    tomato_soup	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    turnip_soup	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	  Registering prefab file: prefabs/mushroomstump	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    mushroomstump	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	  Registering prefab file: prefabs/new_mushrooms	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    forest_mushrooms	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    forest_mushrooms_cooked	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	  Registering prefab file: prefabs/veg_garden_plant	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    soil	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    soil_front	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	    newplants	
+[00:00:06]: Mod: workshop-1422039508 (Gorge Crops!)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	Registering prefabs	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/ganjabush_sapling	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	    ganjabush_sapling	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/ganjabush_small	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	    ganjabush_small	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/ganjabush_med	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	    ganjabush_med	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/ganjabush_full	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	    ganjabush_full	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/ganjabush_old	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	    ganjabush_old	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/ganja	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	    ganja	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	    ganja_dried	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/ganja_seeds	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	    ganja_seeds	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	    ganja_seeds_placer	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/joint	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	    joint	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/woodenpipe	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	    woodenpipe	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/goldenpipe	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	    goldenpipe	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/poopcloud	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	    poopcloud	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/tuskpipe	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	    tuskpipe	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/hash	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	    hash	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/chillum	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	    chillum	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/cigarette	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	    cigarette	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/hashroll	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	    hashroll	
+[00:00:06]: Mod: workshop-925172054 (Ganja)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-942328680 (DsMMO)	Registering prefabs	
+[00:00:06]: Mod: workshop-942328680 (DsMMO)	  Registering default mod prefab	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:06]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:06]: 	Load FE	
+[00:00:07]: 	Load FE: done	
+[00:00:07]: THREAD - started 'FilesExistAsyncThread' (8796)
+[00:00:07]: FilesExistAsyncThread started (19677 files)...
+[00:00:07]: ModIndex: Load sequence finished successfully.	
+[00:00:07]: Reset() returning
+[00:00:08]: ... FilesExistAsyncThread complete
+[00:00:09]: [200] Account Communication Success (6)
+[00:00:09]: Received (KU_2DNgIhao) from TokenPurpose
+[00:00:09]: Starting Dedicated Server Game	
+[00:00:09]: Network tick rate: U=15(2), D=0
+[00:00:09]: About to start a server with the following settings:
+[00:00:09]:   Dedicated: true
+[00:00:09]:   Online: true
+[00:00:09]:   Passworded: true
+[00:00:09]:   ServerPort: 10999
+[00:00:09]:   SteamAuthPort: 8766
+[00:00:09]:   SteamMasterServerPort: 27016
+[00:00:09]:   ClanID: false
+[00:00:09]:   ClanOnly: false
+[00:00:09]:   ClanAdmin: false
+[00:00:09]:   LanOnly: false
+[00:00:09]:   FriendsOnly: false
+[00:00:09]:   EnableAutosaver: true
+[00:00:09]:   EncodeUserPath: true
+[00:00:09]:   PVP: false
+[00:00:09]:   MaxPlayers: 6
+[00:00:09]:   GameMode: endless
+[00:00:09]:   OverridenDNS: 
+[00:00:09]:   PauseWhenEmpty: true
+[00:00:09]:   IdleTimeout: 1800s
+[00:00:09]:   VoteEnabled: true
+[00:00:09]:   InternetBroadcasting: true
+[00:00:09]:   Intent: madness
+[00:00:09]: [Warning] Could not confirm port 10999 is open in the firewall. 
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-1474293089	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-362175979	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-1422039508	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-379707873	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-925172054	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-375850593	
+[00:00:09]: Online Server Started on port: 10999
+[00:00:09]: Collecting garbage...
+[00:00:09]: lua_gc took 0.03 seconds
+[00:00:09]: ~ShardLuaProxy()
+[00:00:09]: ~cEventLeaderboardProxy()
+[00:00:09]: ~ItemServerLuaProxy()
+[00:00:09]: ~InventoryLuaProxy()
+[00:00:09]: ~NetworkLuaProxy()
+[00:00:09]: ~SimLuaProxy()
+[00:00:09]: lua_close took 0.04 seconds
+[00:00:09]: ReleaseAll
+[00:00:09]: ReleaseAll Finished
+[00:00:09]: cGame::StartPlaying
+[00:00:09]: LOADING LUA
+[00:00:09]: DoLuaFile scripts/main.lua
+[00:00:09]: DoLuaFile loading buffer scripts/main.lua
+[00:00:09]:   taskgrouplist:	default	Together	
+[00:00:09]:   taskgrouplist:	classic	Classic	
+[00:00:09]:   taskgrouplist:	cave_default	Underground	
+[00:00:09]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:09]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:09]: running main.lua
+	
+[00:00:09]: unloading prefabs for mod MOD_workshop-375850593	
+[00:00:09]: unloading prefabs for mod MOD_workshop-362175979	
+[00:00:09]: unloading prefabs for mod MOD_workshop-379707873	
+[00:00:09]: unloading prefabs for mod MOD_workshop-501385076	
+[00:00:09]: unloading prefabs for mod MOD_workshop-1474293089	
+[00:00:09]: unloading prefabs for mod MOD_workshop-356930882	
+[00:00:09]: unloading prefabs for mod MOD_workshop-1422039508	
+[00:00:09]: unloading prefabs for mod MOD_workshop-925172054	
+[00:00:09]: unloading prefabs for mod MOD_workshop-942328680	
+[00:00:09]: unloading prefabs for mod MOD_workshop-378160973	
+[00:00:09]: loaded modindex	
+[00:00:09]: WARNING: icon paths for mod workshop-1474293089 (Lazy pick up items) are not valid. Got icon_atlas="auto_stack.xml" and icon="auto_stack.tex".
+Please ensure that these point to valid files in your mod folder, or else comment out those lines from your modinfo.lua.	
+[00:00:09]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:09]: modoverrides.lua enabling workshop-1474293089	
+[00:00:09]: modoverrides.lua enabling workshop-501385076	
+[00:00:09]: modoverrides.lua enabling workshop-925172054	
+[00:00:09]: modoverrides.lua enabling workshop-378160973	
+[00:00:09]: modoverrides.lua enabling workshop-1422039508	
+[00:00:09]: modoverrides.lua enabling workshop-375850593	
+[00:00:09]: modoverrides.lua enabling workshop-942328680	
+[00:00:09]: modoverrides.lua enabling workshop-362175979	
+[00:00:09]: modoverrides.lua enabling workshop-379707873	
+[00:00:09]: modoverrides.lua enabling workshop-356930882	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1422039508	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1474293089	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-356930882	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-379707873	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-925172054	
+[00:00:09]: ModIndex:GetModsToLoad inserting moddir, 	workshop-942328680	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-1422039508	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1474293089	
+[00:00:09]: Overriding mod workshop-1474293089's option auto_stack with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-925172054	
+[00:00:09]: Overriding mod workshop-925172054's option TAB with value 1	
+[00:00:09]: Overriding mod workshop-925172054's option ganjabush_rate with value 1	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:09]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1422039508	
+[00:00:09]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option SeedPacketRecipeDifficulty with value 3	
+[00:00:09]: Overriding mod workshop-1422039508's option CropGrowthTime with value 1	
+[00:00:09]: Overriding mod workshop-1422039508's option SoilCycles with value 1	
+[00:00:09]: Overriding mod workshop-1422039508's option CropWitherTime with value 240	
+[00:00:09]: Overriding mod workshop-1422039508's option NumberofHarvests with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option SeedPacketRecipe with value 1	
+[00:00:09]: Overriding mod workshop-1422039508's option NumberofCropsPerHarvest with value 1	
+[00:00:09]: Overriding mod workshop-1422039508's option FoodSettings with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option CropWitherability with value 1	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-942328680	
+[00:00:09]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:09]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:09]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:09]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:09]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:09]: Overriding mod workshop-942328680's option batwing with value true	
+[00:00:09]: Overriding mod workshop-942328680's option dig with value true	
+[00:00:09]: Overriding mod workshop-942328680's option fish with value true	
+[00:00:09]: Overriding mod workshop-942328680's option livinglog with value true	
+[00:00:09]: Overriding mod workshop-942328680's option cutgrass with value true	
+[00:00:09]: Overriding mod workshop-942328680's option attacked with value true	
+[00:00:09]: Overriding mod workshop-942328680's option cutreeds with value true	
+[00:00:09]: Overriding mod workshop-942328680's option pond with value true	
+[00:00:09]: Overriding mod workshop-942328680's option twigs with value true	
+[00:00:09]: Overriding mod workshop-942328680's option berries_juicy with value true	
+[00:00:09]: Overriding mod workshop-942328680's option start_message with value 2	
+[00:00:09]: Overriding mod workshop-942328680's option houndstooth with value true	
+[00:00:09]: Overriding mod workshop-942328680's option batcave with value true	
+[00:00:09]: Overriding mod workshop-942328680's option tallbirdegg with value true	
+[00:00:09]: Overriding mod workshop-942328680's option deerclops_eyeball with value true	
+[00:00:09]: Overriding mod workshop-942328680's option attack with value true	
+[00:00:09]: Overriding mod workshop-942328680's option campfire with value true	
+[00:00:09]: Overriding mod workshop-942328680's option coontail with value true	
+[00:00:09]: Overriding mod workshop-942328680's option berries with value true	
+[00:00:09]: Overriding mod workshop-942328680's option pigskin with value true	
+[00:00:09]: Overriding mod workshop-942328680's option hungry_attack with value true	
+[00:00:09]: Overriding mod workshop-942328680's option pitchfork with value true	
+[00:00:09]: Overriding mod workshop-942328680's option harvest with value true	
+[00:00:09]: Overriding mod workshop-942328680's option walrus_camp with value true	
+[00:00:09]: Overriding mod workshop-942328680's option fertilize with value true	
+[00:00:09]: Overriding mod workshop-942328680's option amulet with value true	
+[00:00:09]: Overriding mod workshop-942328680's option cave_banana with value true	
+[00:00:09]: Overriding mod workshop-942328680's option armorsnurtleshell with value true	
+[00:00:09]: Overriding mod workshop-942328680's option skeleton_player with value true	
+[00:00:09]: Overriding mod workshop-942328680's option shovel with value true	
+[00:00:09]: Overriding mod workshop-942328680's option fireflies with value true	
+[00:00:09]: Overriding mod workshop-942328680's option walrus_tusk with value true	
+[00:00:09]: Overriding mod workshop-942328680's option cave_banana_cooked with value true	
+[00:00:09]: Overriding mod workshop-942328680's option penalty_divide with value 2	
+[00:00:09]: Overriding mod workshop-942328680's option molehill with value true	
+[00:00:09]: Overriding mod workshop-942328680's option lightbulb with value true	
+[00:00:09]: Overriding mod workshop-942328680's option level_up_rate with value 1.5	
+[00:00:09]: Overriding mod workshop-942328680's option firepit with value true	
+[00:00:09]: Overriding mod workshop-942328680's option self_cannibalism with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:09]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-379707873	
+[00:00:09]: Overriding mod workshop-379707873's option PigtorchArena with value normal	
+[00:00:09]: Overriding mod workshop-379707873's option BrokenPseudoscienceStation with value normal	
+[00:00:09]: Overriding mod workshop-379707873's option MermArena with value normal	
+[00:00:09]: Overriding mod workshop-379707873's option SpiderArena with value normal	
+[00:00:09]: Overriding mod workshop-379707873's option ClockworkArena with value normal	
+[00:00:09]: Overriding mod workshop-379707873's option BeeArena with value normal	
+[00:00:09]: Overriding mod workshop-379707873's option TentacleArena with value normal	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-356930882	
+[00:00:09]: Overriding mod workshop-356930882's option uses with value 10000000	
+[00:00:09]: Overriding mod workshop-356930882's option uses2 with value 10000000	
+[00:00:09]: Loading mod: workshop-1422039508 (Gorge Crops!) Version:2.5.1	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-1474293089	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1474293089	
+[00:00:09]: Overriding mod workshop-1474293089's option auto_stack with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-925172054	
+[00:00:09]: Overriding mod workshop-925172054's option TAB with value 1	
+[00:00:09]: Overriding mod workshop-925172054's option ganjabush_rate with value 1	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:09]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1422039508	
+[00:00:09]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option SeedPacketRecipeDifficulty with value 3	
+[00:00:09]: Overriding mod workshop-1422039508's option CropGrowthTime with value 1	
+[00:00:09]: Overriding mod workshop-1422039508's option SoilCycles with value 1	
+[00:00:09]: Overriding mod workshop-1422039508's option CropWitherTime with value 240	
+[00:00:09]: Overriding mod workshop-1422039508's option NumberofHarvests with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option SeedPacketRecipe with value 1	
+[00:00:09]: Overriding mod workshop-1422039508's option NumberofCropsPerHarvest with value 1	
+[00:00:09]: Overriding mod workshop-1422039508's option FoodSettings with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option CropWitherability with value 1	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-942328680	
+[00:00:09]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:09]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:09]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:09]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:09]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:09]: Overriding mod workshop-942328680's option batwing with value true	
+[00:00:09]: Overriding mod workshop-942328680's option dig with value true	
+[00:00:09]: Overriding mod workshop-942328680's option fish with value true	
+[00:00:09]: Overriding mod workshop-942328680's option livinglog with value true	
+[00:00:09]: Overriding mod workshop-942328680's option cutgrass with value true	
+[00:00:09]: Overriding mod workshop-942328680's option attacked with value true	
+[00:00:09]: Overriding mod workshop-942328680's option cutreeds with value true	
+[00:00:09]: Overriding mod workshop-942328680's option pond with value true	
+[00:00:09]: Overriding mod workshop-942328680's option twigs with value true	
+[00:00:09]: Overriding mod workshop-942328680's option berries_juicy with value true	
+[00:00:09]: Overriding mod workshop-942328680's option start_message with value 2	
+[00:00:09]: Overriding mod workshop-942328680's option houndstooth with value true	
+[00:00:09]: Overriding mod workshop-942328680's option batcave with value true	
+[00:00:09]: Overriding mod workshop-942328680's option tallbirdegg with value true	
+[00:00:09]: Overriding mod workshop-942328680's option deerclops_eyeball with value true	
+[00:00:09]: Overriding mod workshop-942328680's option attack with value true	
+[00:00:09]: Overriding mod workshop-942328680's option campfire with value true	
+[00:00:09]: Overriding mod workshop-942328680's option coontail with value true	
+[00:00:09]: Overriding mod workshop-942328680's option berries with value true	
+[00:00:09]: Overriding mod workshop-942328680's option pigskin with value true	
+[00:00:09]: Overriding mod workshop-942328680's option hungry_attack with value true	
+[00:00:09]: Overriding mod workshop-942328680's option pitchfork with value true	
+[00:00:09]: Overriding mod workshop-942328680's option harvest with value true	
+[00:00:09]: Overriding mod workshop-942328680's option walrus_camp with value true	
+[00:00:09]: Overriding mod workshop-942328680's option fertilize with value true	
+[00:00:09]: Overriding mod workshop-942328680's option amulet with value true	
+[00:00:09]: Overriding mod workshop-942328680's option cave_banana with value true	
+[00:00:09]: Overriding mod workshop-942328680's option armorsnurtleshell with value true	
+[00:00:09]: Overriding mod workshop-942328680's option skeleton_player with value true	
+[00:00:09]: Overriding mod workshop-942328680's option shovel with value true	
+[00:00:09]: Overriding mod workshop-942328680's option fireflies with value true	
+[00:00:09]: Overriding mod workshop-942328680's option walrus_tusk with value true	
+[00:00:09]: Overriding mod workshop-942328680's option cave_banana_cooked with value true	
+[00:00:09]: Overriding mod workshop-942328680's option penalty_divide with value 2	
+[00:00:09]: Overriding mod workshop-942328680's option molehill with value true	
+[00:00:09]: Overriding mod workshop-942328680's option lightbulb with value true	
+[00:00:09]: Overriding mod workshop-942328680's option level_up_rate with value 1.5	
+[00:00:09]: Overriding mod workshop-942328680's option firepit with value true	
+[00:00:09]: Overriding mod workshop-942328680's option self_cannibalism with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:09]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-379707873	
+[00:00:09]: Overriding mod workshop-379707873's option PigtorchArena with value normal	
+[00:00:09]: Overriding mod workshop-379707873's option BrokenPseudoscienceStation with value normal	
+[00:00:09]: Overriding mod workshop-379707873's option MermArena with value normal	
+[00:00:09]: Overriding mod workshop-379707873's option SpiderArena with value normal	
+[00:00:09]: Overriding mod workshop-379707873's option ClockworkArena with value normal	
+[00:00:09]: Overriding mod workshop-379707873's option BeeArena with value normal	
+[00:00:09]: Overriding mod workshop-379707873's option TentacleArena with value normal	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-356930882	
+[00:00:09]: Overriding mod workshop-356930882's option uses with value 10000000	
+[00:00:09]: Overriding mod workshop-356930882's option uses2 with value 10000000	
+[00:00:09]: Loading mod: workshop-1474293089 (Lazy pick up items) Version:1.0.1	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-356930882	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1474293089	
+[00:00:09]: Overriding mod workshop-1474293089's option auto_stack with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-925172054	
+[00:00:09]: Overriding mod workshop-925172054's option TAB with value 1	
+[00:00:09]: Overriding mod workshop-925172054's option ganjabush_rate with value 1	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:09]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1422039508	
+[00:00:09]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option SeedPacketRecipeDifficulty with value 3	
+[00:00:09]: Overriding mod workshop-1422039508's option CropGrowthTime with value 1	
+[00:00:09]: Overriding mod workshop-1422039508's option SoilCycles with value 1	
+[00:00:09]: Overriding mod workshop-1422039508's option CropWitherTime with value 240	
+[00:00:09]: Overriding mod workshop-1422039508's option NumberofHarvests with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option SeedPacketRecipe with value 1	
+[00:00:09]: Overriding mod workshop-1422039508's option NumberofCropsPerHarvest with value 1	
+[00:00:09]: Overriding mod workshop-1422039508's option FoodSettings with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option CropWitherability with value 1	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-942328680	
+[00:00:09]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:09]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:09]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:09]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:09]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:09]: Overriding mod workshop-942328680's option batwing with value true	
+[00:00:09]: Overriding mod workshop-942328680's option dig with value true	
+[00:00:09]: Overriding mod workshop-942328680's option fish with value true	
+[00:00:09]: Overriding mod workshop-942328680's option livinglog with value true	
+[00:00:09]: Overriding mod workshop-942328680's option cutgrass with value true	
+[00:00:09]: Overriding mod workshop-942328680's option attacked with value true	
+[00:00:09]: Overriding mod workshop-942328680's option cutreeds with value true	
+[00:00:09]: Overriding mod workshop-942328680's option pond with value true	
+[00:00:09]: Overriding mod workshop-942328680's option twigs with value true	
+[00:00:09]: Overriding mod workshop-942328680's option berries_juicy with value true	
+[00:00:09]: Overriding mod workshop-942328680's option start_message with value 2	
+[00:00:09]: Overriding mod workshop-942328680's option houndstooth with value true	
+[00:00:09]: Overriding mod workshop-942328680's option batcave with value true	
+[00:00:09]: Overriding mod workshop-942328680's option tallbirdegg with value true	
+[00:00:09]: Overriding mod workshop-942328680's option deerclops_eyeball with value true	
+[00:00:09]: Overriding mod workshop-942328680's option attack with value true	
+[00:00:09]: Overriding mod workshop-942328680's option campfire with value true	
+[00:00:09]: Overriding mod workshop-942328680's option coontail with value true	
+[00:00:09]: Overriding mod workshop-942328680's option berries with value true	
+[00:00:09]: Overriding mod workshop-942328680's option pigskin with value true	
+[00:00:09]: Overriding mod workshop-942328680's option hungry_attack with value true	
+[00:00:09]: Overriding mod workshop-942328680's option pitchfork with value true	
+[00:00:09]: Overriding mod workshop-942328680's option harvest with value true	
+[00:00:09]: Overriding mod workshop-942328680's option walrus_camp with value true	
+[00:00:09]: Overriding mod workshop-942328680's option fertilize with value true	
+[00:00:09]: Overriding mod workshop-942328680's option amulet with value true	
+[00:00:09]: Overriding mod workshop-942328680's option cave_banana with value true	
+[00:00:09]: Overriding mod workshop-942328680's option armorsnurtleshell with value true	
+[00:00:09]: Overriding mod workshop-942328680's option skeleton_player with value true	
+[00:00:09]: Overriding mod workshop-942328680's option shovel with value true	
+[00:00:09]: Overriding mod workshop-942328680's option fireflies with value true	
+[00:00:09]: Overriding mod workshop-942328680's option walrus_tusk with value true	
+[00:00:09]: Overriding mod workshop-942328680's option cave_banana_cooked with value true	
+[00:00:09]: Overriding mod workshop-942328680's option penalty_divide with value 2	
+[00:00:09]: Overriding mod workshop-942328680's option molehill with value true	
+[00:00:09]: Overriding mod workshop-942328680's option lightbulb with value true	
+[00:00:09]: Overriding mod workshop-942328680's option level_up_rate with value 1.5	
+[00:00:09]: Overriding mod workshop-942328680's option firepit with value true	
+[00:00:09]: Overriding mod workshop-942328680's option self_cannibalism with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:09]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-379707873	
+[00:00:09]: Overriding mod workshop-379707873's option PigtorchArena with value normal	
+[00:00:09]: Overriding mod workshop-379707873's option BrokenPseudoscienceStation with value normal	
+[00:00:09]: Overriding mod workshop-379707873's option MermArena with value normal	
+[00:00:09]: Overriding mod workshop-379707873's option SpiderArena with value normal	
+[00:00:09]: Overriding mod workshop-379707873's option ClockworkArena with value normal	
+[00:00:09]: Overriding mod workshop-379707873's option BeeArena with value normal	
+[00:00:09]: Overriding mod workshop-379707873's option TentacleArena with value normal	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-356930882	
+[00:00:09]: Overriding mod workshop-356930882's option uses with value 10000000	
+[00:00:09]: Overriding mod workshop-356930882's option uses2 with value 10000000	
+[00:00:09]: Loading mod: workshop-356930882 (Infinite Tent (and Siesta) Uses ) Version:1.7.1	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-362175979	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1474293089	
+[00:00:09]: Overriding mod workshop-1474293089's option auto_stack with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-925172054	
+[00:00:09]: Overriding mod workshop-925172054's option TAB with value 1	
+[00:00:09]: Overriding mod workshop-925172054's option ganjabush_rate with value 1	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:09]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1422039508	
+[00:00:09]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option SeedPacketRecipeDifficulty with value 3	
+[00:00:09]: Overriding mod workshop-1422039508's option CropGrowthTime with value 1	
+[00:00:09]: Overriding mod workshop-1422039508's option SoilCycles with value 1	
+[00:00:09]: Overriding mod workshop-1422039508's option CropWitherTime with value 240	
+[00:00:09]: Overriding mod workshop-1422039508's option NumberofHarvests with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option SeedPacketRecipe with value 1	
+[00:00:09]: Overriding mod workshop-1422039508's option NumberofCropsPerHarvest with value 1	
+[00:00:09]: Overriding mod workshop-1422039508's option FoodSettings with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option CropWitherability with value 1	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-942328680	
+[00:00:09]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:09]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:09]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:09]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:09]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:09]: Overriding mod workshop-942328680's option batwing with value true	
+[00:00:09]: Overriding mod workshop-942328680's option dig with value true	
+[00:00:09]: Overriding mod workshop-942328680's option fish with value true	
+[00:00:09]: Overriding mod workshop-942328680's option livinglog with value true	
+[00:00:09]: Overriding mod workshop-942328680's option cutgrass with value true	
+[00:00:09]: Overriding mod workshop-942328680's option attacked with value true	
+[00:00:09]: Overriding mod workshop-942328680's option cutreeds with value true	
+[00:00:09]: Overriding mod workshop-942328680's option pond with value true	
+[00:00:09]: Overriding mod workshop-942328680's option twigs with value true	
+[00:00:09]: Overriding mod workshop-942328680's option berries_juicy with value true	
+[00:00:09]: Overriding mod workshop-942328680's option start_message with value 2	
+[00:00:09]: Overriding mod workshop-942328680's option houndstooth with value true	
+[00:00:09]: Overriding mod workshop-942328680's option batcave with value true	
+[00:00:09]: Overriding mod workshop-942328680's option tallbirdegg with value true	
+[00:00:09]: Overriding mod workshop-942328680's option deerclops_eyeball with value true	
+[00:00:09]: Overriding mod workshop-942328680's option attack with value true	
+[00:00:09]: Overriding mod workshop-942328680's option campfire with value true	
+[00:00:09]: Overriding mod workshop-942328680's option coontail with value true	
+[00:00:09]: Overriding mod workshop-942328680's option berries with value true	
+[00:00:09]: Overriding mod workshop-942328680's option pigskin with value true	
+[00:00:09]: Overriding mod workshop-942328680's option hungry_attack with value true	
+[00:00:09]: Overriding mod workshop-942328680's option pitchfork with value true	
+[00:00:09]: Overriding mod workshop-942328680's option harvest with value true	
+[00:00:09]: Overriding mod workshop-942328680's option walrus_camp with value true	
+[00:00:09]: Overriding mod workshop-942328680's option fertilize with value true	
+[00:00:09]: Overriding mod workshop-942328680's option amulet with value true	
+[00:00:09]: Overriding mod workshop-942328680's option cave_banana with value true	
+[00:00:09]: Overriding mod workshop-942328680's option armorsnurtleshell with value true	
+[00:00:09]: Overriding mod workshop-942328680's option skeleton_player with value true	
+[00:00:09]: Overriding mod workshop-942328680's option shovel with value true	
+[00:00:09]: Overriding mod workshop-942328680's option fireflies with value true	
+[00:00:09]: Overriding mod workshop-942328680's option walrus_tusk with value true	
+[00:00:09]: Overriding mod workshop-942328680's option cave_banana_cooked with value true	
+[00:00:09]: Overriding mod workshop-942328680's option penalty_divide with value 2	
+[00:00:09]: Overriding mod workshop-942328680's option molehill with value true	
+[00:00:09]: Overriding mod workshop-942328680's option lightbulb with value true	
+[00:00:09]: Overriding mod workshop-942328680's option level_up_rate with value 1.5	
+[00:00:09]: Overriding mod workshop-942328680's option firepit with value true	
+[00:00:09]: Overriding mod workshop-942328680's option self_cannibalism with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:09]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-379707873	
+[00:00:09]: Overriding mod workshop-379707873's option PigtorchArena with value normal	
+[00:00:09]: Overriding mod workshop-379707873's option BrokenPseudoscienceStation with value normal	
+[00:00:09]: Overriding mod workshop-379707873's option MermArena with value normal	
+[00:00:09]: Overriding mod workshop-379707873's option SpiderArena with value normal	
+[00:00:09]: Overriding mod workshop-379707873's option ClockworkArena with value normal	
+[00:00:09]: Overriding mod workshop-379707873's option BeeArena with value normal	
+[00:00:09]: Overriding mod workshop-379707873's option TentacleArena with value normal	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-356930882	
+[00:00:09]: Overriding mod workshop-356930882's option uses with value 10000000	
+[00:00:09]: Overriding mod workshop-356930882's option uses2 with value 10000000	
+[00:00:09]: Loading mod: workshop-362175979 (Wormhole Marks) Version:1.4.5	
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-375850593	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1474293089	
+[00:00:09]: Overriding mod workshop-1474293089's option auto_stack with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-925172054	
+[00:00:09]: Overriding mod workshop-925172054's option TAB with value 1	
+[00:00:09]: Overriding mod workshop-925172054's option ganjabush_rate with value 1	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:09]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:09]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:09]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:09]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-1422039508	
+[00:00:09]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option SeedPacketRecipeDifficulty with value 3	
+[00:00:09]: Overriding mod workshop-1422039508's option CropGrowthTime with value 1	
+[00:00:09]: Overriding mod workshop-1422039508's option SoilCycles with value 1	
+[00:00:09]: Overriding mod workshop-1422039508's option CropWitherTime with value 240	
+[00:00:09]: Overriding mod workshop-1422039508's option NumberofHarvests with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option SeedPacketRecipe with value 1	
+[00:00:09]: Overriding mod workshop-1422039508's option NumberofCropsPerHarvest with value 1	
+[00:00:09]: Overriding mod workshop-1422039508's option FoodSettings with value 0	
+[00:00:09]: Overriding mod workshop-1422039508's option CropWitherability with value 1	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-942328680	
+[00:00:09]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:09]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:09]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:09]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:09]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:09]: Overriding mod workshop-942328680's option batwing with value true	
+[00:00:09]: Overriding mod workshop-942328680's option dig with value true	
+[00:00:09]: Overriding mod workshop-942328680's option fish with value true	
+[00:00:09]: Overriding mod workshop-942328680's option livinglog with value true	
+[00:00:09]: Overriding mod workshop-942328680's option cutgrass with value true	
+[00:00:09]: Overriding mod workshop-942328680's option attacked with value true	
+[00:00:09]: Overriding mod workshop-942328680's option cutreeds with value true	
+[00:00:09]: Overriding mod workshop-942328680's option pond with value true	
+[00:00:09]: Overriding mod workshop-942328680's option twigs with value true	
+[00:00:09]: Overriding mod workshop-942328680's option berries_juicy with value true	
+[00:00:09]: Overriding mod workshop-942328680's option start_message with value 2	
+[00:00:09]: Overriding mod workshop-942328680's option houndstooth with value true	
+[00:00:09]: Overriding mod workshop-942328680's option batcave with value true	
+[00:00:09]: Overriding mod workshop-942328680's option tallbirdegg with value true	
+[00:00:09]: Overriding mod workshop-942328680's option deerclops_eyeball with value true	
+[00:00:09]: Overriding mod workshop-942328680's option attack with value true	
+[00:00:09]: Overriding mod workshop-942328680's option campfire with value true	
+[00:00:09]: Overriding mod workshop-942328680's option coontail with value true	
+[00:00:09]: Overriding mod workshop-942328680's option berries with value true	
+[00:00:09]: Overriding mod workshop-942328680's option pigskin with value true	
+[00:00:09]: Overriding mod workshop-942328680's option hungry_attack with value true	
+[00:00:09]: Overriding mod workshop-942328680's option pitchfork with value true	
+[00:00:09]: Overriding mod workshop-942328680's option harvest with value true	
+[00:00:09]: Overriding mod workshop-942328680's option walrus_camp with value true	
+[00:00:09]: Overriding mod workshop-942328680's option fertilize with value true	
+[00:00:09]: Overriding mod workshop-942328680's option amulet with value true	
+[00:00:09]: Overriding mod workshop-942328680's option cave_banana with value true	
+[00:00:09]: Overriding mod workshop-942328680's option armorsnurtleshell with value true	
+[00:00:09]: Overriding mod workshop-942328680's option skeleton_player with value true	
+[00:00:09]: Overriding mod workshop-942328680's option shovel with value true	
+[00:00:09]: Overriding mod workshop-942328680's option fireflies with value true	
+[00:00:09]: Overriding mod workshop-942328680's option walrus_tusk with value true	
+[00:00:09]: Overriding mod workshop-942328680's option cave_banana_cooked with value true	
+[00:00:09]: Overriding mod workshop-942328680's option penalty_divide with value 2	
+[00:00:09]: Overriding mod workshop-942328680's option molehill with value true	
+[00:00:09]: Overriding mod workshop-942328680's option lightbulb with value true	
+[00:00:09]: Overriding mod workshop-942328680's option level_up_rate with value 1.5	
+[00:00:09]: Overriding mod workshop-942328680's option firepit with value true	
+[00:00:09]: Overriding mod workshop-942328680's option self_cannibalism with value true	
+[00:00:09]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:10]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-379707873	
+[00:00:10]: Overriding mod workshop-379707873's option PigtorchArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option BrokenPseudoscienceStation with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option MermArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option SpiderArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option ClockworkArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option BeeArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option TentacleArena with value normal	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-356930882	
+[00:00:10]: Overriding mod workshop-356930882's option uses with value 10000000	
+[00:00:10]: Overriding mod workshop-356930882's option uses2 with value 10000000	
+[00:00:10]: Loading mod: workshop-375850593 (Extra Equip Slots) Version:1.8.0	
+[00:00:10]: Could not load mod_config_data/modconfiguration_workshop-378160973	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-1474293089	
+[00:00:10]: Overriding mod workshop-1474293089's option auto_stack with value true	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-925172054	
+[00:00:10]: Overriding mod workshop-925172054's option TAB with value 1	
+[00:00:10]: Overriding mod workshop-925172054's option ganjabush_rate with value 1	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:10]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:10]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:10]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:10]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:10]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:10]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:10]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-1422039508	
+[00:00:10]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option SeedPacketRecipeDifficulty with value 3	
+[00:00:10]: Overriding mod workshop-1422039508's option CropGrowthTime with value 1	
+[00:00:10]: Overriding mod workshop-1422039508's option SoilCycles with value 1	
+[00:00:10]: Overriding mod workshop-1422039508's option CropWitherTime with value 240	
+[00:00:10]: Overriding mod workshop-1422039508's option NumberofHarvests with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option SeedPacketRecipe with value 1	
+[00:00:10]: Overriding mod workshop-1422039508's option NumberofCropsPerHarvest with value 1	
+[00:00:10]: Overriding mod workshop-1422039508's option FoodSettings with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option CropWitherability with value 1	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-942328680	
+[00:00:10]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:10]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:10]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:10]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:10]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:10]: Overriding mod workshop-942328680's option batwing with value true	
+[00:00:10]: Overriding mod workshop-942328680's option dig with value true	
+[00:00:10]: Overriding mod workshop-942328680's option fish with value true	
+[00:00:10]: Overriding mod workshop-942328680's option livinglog with value true	
+[00:00:10]: Overriding mod workshop-942328680's option cutgrass with value true	
+[00:00:10]: Overriding mod workshop-942328680's option attacked with value true	
+[00:00:10]: Overriding mod workshop-942328680's option cutreeds with value true	
+[00:00:10]: Overriding mod workshop-942328680's option pond with value true	
+[00:00:10]: Overriding mod workshop-942328680's option twigs with value true	
+[00:00:10]: Overriding mod workshop-942328680's option berries_juicy with value true	
+[00:00:10]: Overriding mod workshop-942328680's option start_message with value 2	
+[00:00:10]: Overriding mod workshop-942328680's option houndstooth with value true	
+[00:00:10]: Overriding mod workshop-942328680's option batcave with value true	
+[00:00:10]: Overriding mod workshop-942328680's option tallbirdegg with value true	
+[00:00:10]: Overriding mod workshop-942328680's option deerclops_eyeball with value true	
+[00:00:10]: Overriding mod workshop-942328680's option attack with value true	
+[00:00:10]: Overriding mod workshop-942328680's option campfire with value true	
+[00:00:10]: Overriding mod workshop-942328680's option coontail with value true	
+[00:00:10]: Overriding mod workshop-942328680's option berries with value true	
+[00:00:10]: Overriding mod workshop-942328680's option pigskin with value true	
+[00:00:10]: Overriding mod workshop-942328680's option hungry_attack with value true	
+[00:00:10]: Overriding mod workshop-942328680's option pitchfork with value true	
+[00:00:10]: Overriding mod workshop-942328680's option harvest with value true	
+[00:00:10]: Overriding mod workshop-942328680's option walrus_camp with value true	
+[00:00:10]: Overriding mod workshop-942328680's option fertilize with value true	
+[00:00:10]: Overriding mod workshop-942328680's option amulet with value true	
+[00:00:10]: Overriding mod workshop-942328680's option cave_banana with value true	
+[00:00:10]: Overriding mod workshop-942328680's option armorsnurtleshell with value true	
+[00:00:10]: Overriding mod workshop-942328680's option skeleton_player with value true	
+[00:00:10]: Overriding mod workshop-942328680's option shovel with value true	
+[00:00:10]: Overriding mod workshop-942328680's option fireflies with value true	
+[00:00:10]: Overriding mod workshop-942328680's option walrus_tusk with value true	
+[00:00:10]: Overriding mod workshop-942328680's option cave_banana_cooked with value true	
+[00:00:10]: Overriding mod workshop-942328680's option penalty_divide with value 2	
+[00:00:10]: Overriding mod workshop-942328680's option molehill with value true	
+[00:00:10]: Overriding mod workshop-942328680's option lightbulb with value true	
+[00:00:10]: Overriding mod workshop-942328680's option level_up_rate with value 1.5	
+[00:00:10]: Overriding mod workshop-942328680's option firepit with value true	
+[00:00:10]: Overriding mod workshop-942328680's option self_cannibalism with value true	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:10]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-379707873	
+[00:00:10]: Overriding mod workshop-379707873's option PigtorchArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option BrokenPseudoscienceStation with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option MermArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option SpiderArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option ClockworkArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option BeeArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option TentacleArena with value normal	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-356930882	
+[00:00:10]: Overriding mod workshop-356930882's option uses with value 10000000	
+[00:00:10]: Overriding mod workshop-356930882's option uses2 with value 10000000	
+[00:00:10]: Loading mod: workshop-378160973 (Global Positions) Version:1.7.3	
+[00:00:10]: Could not load mod_config_data/modconfiguration_workshop-379707873	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-1474293089	
+[00:00:10]: Overriding mod workshop-1474293089's option auto_stack with value true	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-925172054	
+[00:00:10]: Overriding mod workshop-925172054's option TAB with value 1	
+[00:00:10]: Overriding mod workshop-925172054's option ganjabush_rate with value 1	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:10]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:10]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:10]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:10]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:10]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:10]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:10]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-1422039508	
+[00:00:10]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option SeedPacketRecipeDifficulty with value 3	
+[00:00:10]: Overriding mod workshop-1422039508's option CropGrowthTime with value 1	
+[00:00:10]: Overriding mod workshop-1422039508's option SoilCycles with value 1	
+[00:00:10]: Overriding mod workshop-1422039508's option CropWitherTime with value 240	
+[00:00:10]: Overriding mod workshop-1422039508's option NumberofHarvests with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option SeedPacketRecipe with value 1	
+[00:00:10]: Overriding mod workshop-1422039508's option NumberofCropsPerHarvest with value 1	
+[00:00:10]: Overriding mod workshop-1422039508's option FoodSettings with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option CropWitherability with value 1	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-942328680	
+[00:00:10]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:10]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:10]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:10]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:10]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:10]: Overriding mod workshop-942328680's option batwing with value true	
+[00:00:10]: Overriding mod workshop-942328680's option dig with value true	
+[00:00:10]: Overriding mod workshop-942328680's option fish with value true	
+[00:00:10]: Overriding mod workshop-942328680's option livinglog with value true	
+[00:00:10]: Overriding mod workshop-942328680's option cutgrass with value true	
+[00:00:10]: Overriding mod workshop-942328680's option attacked with value true	
+[00:00:10]: Overriding mod workshop-942328680's option cutreeds with value true	
+[00:00:10]: Overriding mod workshop-942328680's option pond with value true	
+[00:00:10]: Overriding mod workshop-942328680's option twigs with value true	
+[00:00:10]: Overriding mod workshop-942328680's option berries_juicy with value true	
+[00:00:10]: Overriding mod workshop-942328680's option start_message with value 2	
+[00:00:10]: Overriding mod workshop-942328680's option houndstooth with value true	
+[00:00:10]: Overriding mod workshop-942328680's option batcave with value true	
+[00:00:10]: Overriding mod workshop-942328680's option tallbirdegg with value true	
+[00:00:10]: Overriding mod workshop-942328680's option deerclops_eyeball with value true	
+[00:00:10]: Overriding mod workshop-942328680's option attack with value true	
+[00:00:10]: Overriding mod workshop-942328680's option campfire with value true	
+[00:00:10]: Overriding mod workshop-942328680's option coontail with value true	
+[00:00:10]: Overriding mod workshop-942328680's option berries with value true	
+[00:00:10]: Overriding mod workshop-942328680's option pigskin with value true	
+[00:00:10]: Overriding mod workshop-942328680's option hungry_attack with value true	
+[00:00:10]: Overriding mod workshop-942328680's option pitchfork with value true	
+[00:00:10]: Overriding mod workshop-942328680's option harvest with value true	
+[00:00:10]: Overriding mod workshop-942328680's option walrus_camp with value true	
+[00:00:10]: Overriding mod workshop-942328680's option fertilize with value true	
+[00:00:10]: Overriding mod workshop-942328680's option amulet with value true	
+[00:00:10]: Overriding mod workshop-942328680's option cave_banana with value true	
+[00:00:10]: Overriding mod workshop-942328680's option armorsnurtleshell with value true	
+[00:00:10]: Overriding mod workshop-942328680's option skeleton_player with value true	
+[00:00:10]: Overriding mod workshop-942328680's option shovel with value true	
+[00:00:10]: Overriding mod workshop-942328680's option fireflies with value true	
+[00:00:10]: Overriding mod workshop-942328680's option walrus_tusk with value true	
+[00:00:10]: Overriding mod workshop-942328680's option cave_banana_cooked with value true	
+[00:00:10]: Overriding mod workshop-942328680's option penalty_divide with value 2	
+[00:00:10]: Overriding mod workshop-942328680's option molehill with value true	
+[00:00:10]: Overriding mod workshop-942328680's option lightbulb with value true	
+[00:00:10]: Overriding mod workshop-942328680's option level_up_rate with value 1.5	
+[00:00:10]: Overriding mod workshop-942328680's option firepit with value true	
+[00:00:10]: Overriding mod workshop-942328680's option self_cannibalism with value true	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:10]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-379707873	
+[00:00:10]: Overriding mod workshop-379707873's option PigtorchArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option BrokenPseudoscienceStation with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option MermArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option SpiderArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option ClockworkArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option BeeArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option TentacleArena with value normal	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-356930882	
+[00:00:10]: Overriding mod workshop-356930882's option uses with value 10000000	
+[00:00:10]: Overriding mod workshop-356930882's option uses2 with value 10000000	
+[00:00:10]: Loading mod: workshop-379707873 (The Arena) Version:0.8	
+[00:00:10]: Could not load mod_config_data/modconfiguration_workshop-501385076	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-1474293089	
+[00:00:10]: Overriding mod workshop-1474293089's option auto_stack with value true	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-925172054	
+[00:00:10]: Overriding mod workshop-925172054's option TAB with value 1	
+[00:00:10]: Overriding mod workshop-925172054's option ganjabush_rate with value 1	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:10]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:10]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:10]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:10]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:10]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:10]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:10]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-1422039508	
+[00:00:10]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option SeedPacketRecipeDifficulty with value 3	
+[00:00:10]: Overriding mod workshop-1422039508's option CropGrowthTime with value 1	
+[00:00:10]: Overriding mod workshop-1422039508's option SoilCycles with value 1	
+[00:00:10]: Overriding mod workshop-1422039508's option CropWitherTime with value 240	
+[00:00:10]: Overriding mod workshop-1422039508's option NumberofHarvests with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option SeedPacketRecipe with value 1	
+[00:00:10]: Overriding mod workshop-1422039508's option NumberofCropsPerHarvest with value 1	
+[00:00:10]: Overriding mod workshop-1422039508's option FoodSettings with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option CropWitherability with value 1	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-942328680	
+[00:00:10]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:10]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:10]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:10]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:10]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:10]: Overriding mod workshop-942328680's option batwing with value true	
+[00:00:10]: Overriding mod workshop-942328680's option dig with value true	
+[00:00:10]: Overriding mod workshop-942328680's option fish with value true	
+[00:00:10]: Overriding mod workshop-942328680's option livinglog with value true	
+[00:00:10]: Overriding mod workshop-942328680's option cutgrass with value true	
+[00:00:10]: Overriding mod workshop-942328680's option attacked with value true	
+[00:00:10]: Overriding mod workshop-942328680's option cutreeds with value true	
+[00:00:10]: Overriding mod workshop-942328680's option pond with value true	
+[00:00:10]: Overriding mod workshop-942328680's option twigs with value true	
+[00:00:10]: Overriding mod workshop-942328680's option berries_juicy with value true	
+[00:00:10]: Overriding mod workshop-942328680's option start_message with value 2	
+[00:00:10]: Overriding mod workshop-942328680's option houndstooth with value true	
+[00:00:10]: Overriding mod workshop-942328680's option batcave with value true	
+[00:00:10]: Overriding mod workshop-942328680's option tallbirdegg with value true	
+[00:00:10]: Overriding mod workshop-942328680's option deerclops_eyeball with value true	
+[00:00:10]: Overriding mod workshop-942328680's option attack with value true	
+[00:00:10]: Overriding mod workshop-942328680's option campfire with value true	
+[00:00:10]: Overriding mod workshop-942328680's option coontail with value true	
+[00:00:10]: Overriding mod workshop-942328680's option berries with value true	
+[00:00:10]: Overriding mod workshop-942328680's option pigskin with value true	
+[00:00:10]: Overriding mod workshop-942328680's option hungry_attack with value true	
+[00:00:10]: Overriding mod workshop-942328680's option pitchfork with value true	
+[00:00:10]: Overriding mod workshop-942328680's option harvest with value true	
+[00:00:10]: Overriding mod workshop-942328680's option walrus_camp with value true	
+[00:00:10]: Overriding mod workshop-942328680's option fertilize with value true	
+[00:00:10]: Overriding mod workshop-942328680's option amulet with value true	
+[00:00:10]: Overriding mod workshop-942328680's option cave_banana with value true	
+[00:00:10]: Overriding mod workshop-942328680's option armorsnurtleshell with value true	
+[00:00:10]: Overriding mod workshop-942328680's option skeleton_player with value true	
+[00:00:10]: Overriding mod workshop-942328680's option shovel with value true	
+[00:00:10]: Overriding mod workshop-942328680's option fireflies with value true	
+[00:00:10]: Overriding mod workshop-942328680's option walrus_tusk with value true	
+[00:00:10]: Overriding mod workshop-942328680's option cave_banana_cooked with value true	
+[00:00:10]: Overriding mod workshop-942328680's option penalty_divide with value 2	
+[00:00:10]: Overriding mod workshop-942328680's option molehill with value true	
+[00:00:10]: Overriding mod workshop-942328680's option lightbulb with value true	
+[00:00:10]: Overriding mod workshop-942328680's option level_up_rate with value 1.5	
+[00:00:10]: Overriding mod workshop-942328680's option firepit with value true	
+[00:00:10]: Overriding mod workshop-942328680's option self_cannibalism with value true	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:10]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-379707873	
+[00:00:10]: Overriding mod workshop-379707873's option PigtorchArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option BrokenPseudoscienceStation with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option MermArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option SpiderArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option ClockworkArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option BeeArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option TentacleArena with value normal	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-356930882	
+[00:00:10]: Overriding mod workshop-356930882's option uses with value 10000000	
+[00:00:10]: Overriding mod workshop-356930882's option uses2 with value 10000000	
+[00:00:10]: Loading mod: workshop-501385076 (Quick Pick) Version:1.0.1	
+[00:00:10]: Could not load mod_config_data/modconfiguration_workshop-925172054	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-1474293089	
+[00:00:10]: Overriding mod workshop-1474293089's option auto_stack with value true	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-925172054	
+[00:00:10]: Overriding mod workshop-925172054's option TAB with value 1	
+[00:00:10]: Overriding mod workshop-925172054's option ganjabush_rate with value 1	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:10]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:10]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:10]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:10]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:10]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:10]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:10]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-1422039508	
+[00:00:10]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option SeedPacketRecipeDifficulty with value 3	
+[00:00:10]: Overriding mod workshop-1422039508's option CropGrowthTime with value 1	
+[00:00:10]: Overriding mod workshop-1422039508's option SoilCycles with value 1	
+[00:00:10]: Overriding mod workshop-1422039508's option CropWitherTime with value 240	
+[00:00:10]: Overriding mod workshop-1422039508's option NumberofHarvests with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option SeedPacketRecipe with value 1	
+[00:00:10]: Overriding mod workshop-1422039508's option NumberofCropsPerHarvest with value 1	
+[00:00:10]: Overriding mod workshop-1422039508's option FoodSettings with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option CropWitherability with value 1	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-942328680	
+[00:00:10]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:10]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:10]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:10]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:10]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:10]: Overriding mod workshop-942328680's option batwing with value true	
+[00:00:10]: Overriding mod workshop-942328680's option dig with value true	
+[00:00:10]: Overriding mod workshop-942328680's option fish with value true	
+[00:00:10]: Overriding mod workshop-942328680's option livinglog with value true	
+[00:00:10]: Overriding mod workshop-942328680's option cutgrass with value true	
+[00:00:10]: Overriding mod workshop-942328680's option attacked with value true	
+[00:00:10]: Overriding mod workshop-942328680's option cutreeds with value true	
+[00:00:10]: Overriding mod workshop-942328680's option pond with value true	
+[00:00:10]: Overriding mod workshop-942328680's option twigs with value true	
+[00:00:10]: Overriding mod workshop-942328680's option berries_juicy with value true	
+[00:00:10]: Overriding mod workshop-942328680's option start_message with value 2	
+[00:00:10]: Overriding mod workshop-942328680's option houndstooth with value true	
+[00:00:10]: Overriding mod workshop-942328680's option batcave with value true	
+[00:00:10]: Overriding mod workshop-942328680's option tallbirdegg with value true	
+[00:00:10]: Overriding mod workshop-942328680's option deerclops_eyeball with value true	
+[00:00:10]: Overriding mod workshop-942328680's option attack with value true	
+[00:00:10]: Overriding mod workshop-942328680's option campfire with value true	
+[00:00:10]: Overriding mod workshop-942328680's option coontail with value true	
+[00:00:10]: Overriding mod workshop-942328680's option berries with value true	
+[00:00:10]: Overriding mod workshop-942328680's option pigskin with value true	
+[00:00:10]: Overriding mod workshop-942328680's option hungry_attack with value true	
+[00:00:10]: Overriding mod workshop-942328680's option pitchfork with value true	
+[00:00:10]: Overriding mod workshop-942328680's option harvest with value true	
+[00:00:10]: Overriding mod workshop-942328680's option walrus_camp with value true	
+[00:00:10]: Overriding mod workshop-942328680's option fertilize with value true	
+[00:00:10]: Overriding mod workshop-942328680's option amulet with value true	
+[00:00:10]: Overriding mod workshop-942328680's option cave_banana with value true	
+[00:00:10]: Overriding mod workshop-942328680's option armorsnurtleshell with value true	
+[00:00:10]: Overriding mod workshop-942328680's option skeleton_player with value true	
+[00:00:10]: Overriding mod workshop-942328680's option shovel with value true	
+[00:00:10]: Overriding mod workshop-942328680's option fireflies with value true	
+[00:00:10]: Overriding mod workshop-942328680's option walrus_tusk with value true	
+[00:00:10]: Overriding mod workshop-942328680's option cave_banana_cooked with value true	
+[00:00:10]: Overriding mod workshop-942328680's option penalty_divide with value 2	
+[00:00:10]: Overriding mod workshop-942328680's option molehill with value true	
+[00:00:10]: Overriding mod workshop-942328680's option lightbulb with value true	
+[00:00:10]: Overriding mod workshop-942328680's option level_up_rate with value 1.5	
+[00:00:10]: Overriding mod workshop-942328680's option firepit with value true	
+[00:00:10]: Overriding mod workshop-942328680's option self_cannibalism with value true	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:10]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-379707873	
+[00:00:10]: Overriding mod workshop-379707873's option PigtorchArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option BrokenPseudoscienceStation with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option MermArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option SpiderArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option ClockworkArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option BeeArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option TentacleArena with value normal	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-356930882	
+[00:00:10]: Overriding mod workshop-356930882's option uses with value 10000000	
+[00:00:10]: Overriding mod workshop-356930882's option uses2 with value 10000000	
+[00:00:10]: Loading mod: workshop-925172054 (Ganja) Version:1.1	
+[00:00:10]: Could not load mod_config_data/modconfiguration_workshop-942328680	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-1474293089	
+[00:00:10]: Overriding mod workshop-1474293089's option auto_stack with value true	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-501385076	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-925172054	
+[00:00:10]: Overriding mod workshop-925172054's option TAB with value 1	
+[00:00:10]: Overriding mod workshop-925172054's option ganjabush_rate with value 1	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-378160973	
+[00:00:10]: Overriding mod workshop-378160973's option FIREOPTIONS with value 2	
+[00:00:10]: Overriding mod workshop-378160973's option SHOWFIREICONS with value true	
+[00:00:10]: Overriding mod workshop-378160973's option SHAREMINIMAPPROGRESS with value true	
+[00:00:10]: Overriding mod workshop-378160973's option SHOWPLAYERICONS with value true	
+[00:00:10]: Overriding mod workshop-378160973's option OVERRIDEMODE with value false	
+[00:00:10]: Overriding mod workshop-378160973's option SHOWPLAYERSOPTIONS with value 2	
+[00:00:10]: Overriding mod workshop-378160973's option ENABLEPINGS with value true	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-1422039508	
+[00:00:10]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option  with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option SeedPacketRecipeDifficulty with value 3	
+[00:00:10]: Overriding mod workshop-1422039508's option CropGrowthTime with value 1	
+[00:00:10]: Overriding mod workshop-1422039508's option SoilCycles with value 1	
+[00:00:10]: Overriding mod workshop-1422039508's option CropWitherTime with value 240	
+[00:00:10]: Overriding mod workshop-1422039508's option NumberofHarvests with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option SeedPacketRecipe with value 1	
+[00:00:10]: Overriding mod workshop-1422039508's option NumberofCropsPerHarvest with value 1	
+[00:00:10]: Overriding mod workshop-1422039508's option FoodSettings with value 0	
+[00:00:10]: Overriding mod workshop-1422039508's option CropWitherability with value 1	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-375850593	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-942328680	
+[00:00:10]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:10]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:10]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:10]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:10]: Overriding mod workshop-942328680's option  with value 0	
+[00:00:10]: Overriding mod workshop-942328680's option batwing with value true	
+[00:00:10]: Overriding mod workshop-942328680's option dig with value true	
+[00:00:10]: Overriding mod workshop-942328680's option fish with value true	
+[00:00:10]: Overriding mod workshop-942328680's option livinglog with value true	
+[00:00:10]: Overriding mod workshop-942328680's option cutgrass with value true	
+[00:00:10]: Overriding mod workshop-942328680's option attacked with value true	
+[00:00:10]: Overriding mod workshop-942328680's option cutreeds with value true	
+[00:00:10]: Overriding mod workshop-942328680's option pond with value true	
+[00:00:10]: Overriding mod workshop-942328680's option twigs with value true	
+[00:00:10]: Overriding mod workshop-942328680's option berries_juicy with value true	
+[00:00:10]: Overriding mod workshop-942328680's option start_message with value 2	
+[00:00:10]: Overriding mod workshop-942328680's option houndstooth with value true	
+[00:00:10]: Overriding mod workshop-942328680's option batcave with value true	
+[00:00:10]: Overriding mod workshop-942328680's option tallbirdegg with value true	
+[00:00:10]: Overriding mod workshop-942328680's option deerclops_eyeball with value true	
+[00:00:10]: Overriding mod workshop-942328680's option attack with value true	
+[00:00:10]: Overriding mod workshop-942328680's option campfire with value true	
+[00:00:10]: Overriding mod workshop-942328680's option coontail with value true	
+[00:00:10]: Overriding mod workshop-942328680's option berries with value true	
+[00:00:10]: Overriding mod workshop-942328680's option pigskin with value true	
+[00:00:10]: Overriding mod workshop-942328680's option hungry_attack with value true	
+[00:00:10]: Overriding mod workshop-942328680's option pitchfork with value true	
+[00:00:10]: Overriding mod workshop-942328680's option harvest with value true	
+[00:00:10]: Overriding mod workshop-942328680's option walrus_camp with value true	
+[00:00:10]: Overriding mod workshop-942328680's option fertilize with value true	
+[00:00:10]: Overriding mod workshop-942328680's option amulet with value true	
+[00:00:10]: Overriding mod workshop-942328680's option cave_banana with value true	
+[00:00:10]: Overriding mod workshop-942328680's option armorsnurtleshell with value true	
+[00:00:10]: Overriding mod workshop-942328680's option skeleton_player with value true	
+[00:00:10]: Overriding mod workshop-942328680's option shovel with value true	
+[00:00:10]: Overriding mod workshop-942328680's option fireflies with value true	
+[00:00:10]: Overriding mod workshop-942328680's option walrus_tusk with value true	
+[00:00:10]: Overriding mod workshop-942328680's option cave_banana_cooked with value true	
+[00:00:10]: Overriding mod workshop-942328680's option penalty_divide with value 2	
+[00:00:10]: Overriding mod workshop-942328680's option molehill with value true	
+[00:00:10]: Overriding mod workshop-942328680's option lightbulb with value true	
+[00:00:10]: Overriding mod workshop-942328680's option level_up_rate with value 1.5	
+[00:00:10]: Overriding mod workshop-942328680's option firepit with value true	
+[00:00:10]: Overriding mod workshop-942328680's option self_cannibalism with value true	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-362175979	
+[00:00:10]: Overriding mod workshop-362175979's option Draw over FoW with value disabled	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-379707873	
+[00:00:10]: Overriding mod workshop-379707873's option PigtorchArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option BrokenPseudoscienceStation with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option MermArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option SpiderArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option ClockworkArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option BeeArena with value normal	
+[00:00:10]: Overriding mod workshop-379707873's option TentacleArena with value normal	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-356930882	
+[00:00:10]: Overriding mod workshop-356930882's option uses with value 10000000	
+[00:00:10]: Overriding mod workshop-356930882's option uses2 with value 10000000	
+[00:00:10]: Loading mod: workshop-942328680 (DsMMO) Version:1.2.5	
+[00:00:10]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modworldgenmain.lua	
+[00:00:10]: Mod: workshop-375850593 (Extra Equip Slots)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:10]: Mod: workshop-375850593 (Extra Equip Slots)	Loading modmain.lua	
+[00:00:10]: Mod: workshop-362175979 (Wormhole Marks)	Loading modworldgenmain.lua	
+[00:00:10]: Mod: workshop-362175979 (Wormhole Marks)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:10]: Mod: workshop-362175979 (Wormhole Marks)	Loading modmain.lua	
+[00:00:10]: Mod: workshop-379707873 (The Arena)	Loading modworldgenmain.lua	
+[00:00:10]: Mod: workshop-379707873 (The Arena)	Loading modmain.lua	
+[00:00:10]: Mod: workshop-501385076 (Quick Pick)	Loading modworldgenmain.lua	
+[00:00:10]: Mod: workshop-501385076 (Quick Pick)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:10]: Mod: workshop-501385076 (Quick Pick)	Loading modmain.lua	
+[00:00:10]: Mod: workshop-1474293089 (Lazy pick up items)	Loading modworldgenmain.lua	
+[00:00:10]: Mod: workshop-1474293089 (Lazy pick up items)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:10]: Mod: workshop-1474293089 (Lazy pick up items)	Loading modmain.lua	
+[00:00:10]: modimport: ../mods/workshop-1474293089/scripts/stack.lua	
+[00:00:10]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Loading modworldgenmain.lua	
+[00:00:10]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:10]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Loading modmain.lua	
+[00:00:10]: Mod: workshop-1422039508 (Gorge Crops!)	Loading modworldgenmain.lua	
+[00:00:10]: Mod: workshop-1422039508 (Gorge Crops!)	Loading modmain.lua	
+[00:00:10]: Warning: function Recipe in modmain is deprecated, please use AddRecipe	
+[00:00:10]: Warning: function Recipe in modmain is deprecated, please use AddRecipe	
+[00:00:10]: Warning: function Recipe in modmain is deprecated, please use AddRecipe	
+[00:00:10]: Warning: function Recipe in modmain is deprecated, please use AddRecipe	
+[00:00:10]: Mod: workshop-925172054 (Ganja)	Loading modworldgenmain.lua	
+[00:00:10]: Spawned Ganja Bush in Biomes	
+[00:00:10]: Mod: workshop-925172054 (Ganja)	Loading modmain.lua	
+[00:00:10]: modimport: ../mods/workshop-925172054/scripts/utils/recipes.lua	
+[00:00:10]: modimport: ../mods/workshop-925172054/scripts/utils/toke.lua	
+[00:00:10]: WARNING: Positional Action parameters are deprecated. Please pass action a table instead.	
+[00:00:10]: Action defined at 	../mods/workshop-925172054/scripts/utils/toke.lua:26 in (local) result (main) <0-0>	
+[00:00:10]: modimport: ../mods/workshop-925172054/scripts/utils/speeches.lua	
+[00:00:10]: modimport: ../mods/workshop-925172054/scripts/utils/meatrack_anim.lua	
+[00:00:10]: Mod: workshop-942328680 (DsMMO)	Loading modworldgenmain.lua	
+[00:00:10]: Mod: workshop-942328680 (DsMMO)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:10]: Mod: workshop-942328680 (DsMMO)	Loading modmain.lua	
+[00:00:10]: Mod: workshop-378160973 (Global Positions)	Loading modworldgenmain.lua	
+[00:00:10]: Mod: workshop-378160973 (Global Positions)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:10]: Mod: workshop-378160973 (Global Positions)	Loading modmain.lua	
+[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1422039508	
+[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1474293089	
+[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-356930882	
+[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-362175979	
+[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-375850593	
+[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-378160973	
+[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-379707873	
+[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-501385076	
+[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-925172054	
+[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-942328680	
+[00:00:10]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:10]: LOADING LUA SUCCESS
+[00:00:10]: Registering mod namespace "dsmmo"
+[00:00:10]: Registering mod namespace "workshop-378160973"
+[00:00:10]: PlayerDeaths could not load morgue	
+[00:00:10]: PlayerHistory could not load player_history	
+[00:00:10]: ServerPreferences could not load server_preferences	
+[00:00:10]: bloom_enabled	false	
+[00:00:10]: loaded saveindex	
+[00:00:10]: OnFilesLoaded()	
+[00:00:10]: OnUpdatePurchaseStateComplete	
+[00:00:10]: Loading world: session/626A6AAF4ED6B18C/0000000113	
+[00:00:11]: Save file is at version 4.77	
+[00:00:11]: Klump load on boot started.	
+[00:00:11]: Klump files loaded: 	0	
+[00:00:11]: 	Unload FE	
+[00:00:11]: 	Unload FE done	
+[00:00:12]: Mod: workshop-375850593 (Extra Equip Slots)	Registering prefabs	
+[00:00:12]: Mod: workshop-375850593 (Extra Equip Slots)	  Registering default mod prefab	
+[00:00:12]: Mod: workshop-362175979 (Wormhole Marks)	Registering prefabs	
+[00:00:12]: Mod: workshop-362175979 (Wormhole Marks)	  Registering default mod prefab	
+[00:00:12]: Mod: workshop-379707873 (The Arena)	Registering prefabs	
+[00:00:12]: Mod: workshop-379707873 (The Arena)	  Registering default mod prefab	
+[00:00:12]: Mod: workshop-501385076 (Quick Pick)	Registering prefabs	
+[00:00:12]: Mod: workshop-501385076 (Quick Pick)	  Registering default mod prefab	
+[00:00:12]: Mod: workshop-1474293089 (Lazy pick up items)	Registering prefabs	
+[00:00:12]: Mod: workshop-1474293089 (Lazy pick up items)	  Registering default mod prefab	
+[00:00:12]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	Registering prefabs	
+[00:00:12]: Mod: workshop-356930882 (Infinite Tent (and Siesta) Uses )	  Registering default mod prefab	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	Registering prefabs	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	  Registering prefab file: prefabs/extra_plantables	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    wheat_seeds	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    potato_seeds	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    tomato_seeds	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    onion_seeds	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    turnip_seeds	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    garlic_seeds	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    wheat	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    potato	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    tomato	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    onion	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    turnip	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    garlic	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    wheat_cooked	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    potato_cooked	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    tomato_cooked	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    onion_cooked	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    turnip_cooked	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    garlic_cooked	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	  Registering prefab file: prefabs/veg_garden_useable	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    veg_garden_rocks	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    veg_garden_useable	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    veg_garden_useable_placer	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	  Registering prefab file: prefabs/hoe	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    hoe	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	  Registering prefab file: prefabs/seed_packet	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    seed_packet	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	  Registering prefab file: prefabs/flour	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    flour	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	  Registering prefab file: prefabs/mealingstone	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    mealingstone	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    mealingstone_placer	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	  Registering prefab file: prefabs/turnip_sugar	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    turnip_sugar	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	  Registering prefab file: prefabs/newfoods	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    bread	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    candied_potato	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    meat_cake	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    pom_puff	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    stew	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    tomato_soup	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    turnip_soup	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	  Registering prefab file: prefabs/mushroomstump	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    mushroomstump	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	  Registering prefab file: prefabs/new_mushrooms	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    forest_mushrooms	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    forest_mushrooms_cooked	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	  Registering prefab file: prefabs/veg_garden_plant	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    soil	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    soil_front	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	    newplants	
+[00:00:12]: Mod: workshop-1422039508 (Gorge Crops!)	  Registering default mod prefab	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	Registering prefabs	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/ganjabush_sapling	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	    ganjabush_sapling	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/ganjabush_small	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	    ganjabush_small	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/ganjabush_med	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	    ganjabush_med	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/ganjabush_full	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	    ganjabush_full	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/ganjabush_old	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	    ganjabush_old	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/ganja	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	    ganja	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	    ganja_dried	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/ganja_seeds	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	    ganja_seeds	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	    ganja_seeds_placer	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/joint	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	    joint	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/woodenpipe	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	    woodenpipe	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/goldenpipe	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	    goldenpipe	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/poopcloud	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	    poopcloud	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/tuskpipe	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	    tuskpipe	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/hash	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	    hash	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/chillum	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	    chillum	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/cigarette	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	    cigarette	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	  Registering prefab file: prefabs/hashroll	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	    hashroll	
+[00:00:12]: Mod: workshop-925172054 (Ganja)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-942328680 (DsMMO)	Registering prefabs	
+[00:00:13]: Mod: workshop-942328680 (DsMMO)	  Registering default mod prefab	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	Registering prefabs	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalposition_classified	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    globalposition_classified	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/smoketrail	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    smoketrail	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/globalmapicon_noproxy	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    globalmapicon_noproxy	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/worldmapexplorer	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    worldmapexplorer	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering prefab file: prefabs/pings	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    ping_generic	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    ping_omw	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    ping_danger	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    ping_explore	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	    ping_gohere	
+[00:00:13]: Mod: workshop-378160973 (Global Positions)	  Registering default mod prefab	
+[00:00:13]: 	LOAD BE	
+[00:00:15]: 	LOAD BE: done	
+[00:00:15]: Begin Session: 626A6AAF4ED6B18C
+[00:00:15]: saving to server_temp/server_save	
+[00:00:15]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_1.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_2.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_3.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_4.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_5.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_6.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_7.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_8.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_9.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_10.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_11.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_12.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_13.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_14.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_15.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_16.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_17.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_18.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_19.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_20.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_21.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-362175979/images/mark_22.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-925172054/minimap/ganjabush.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/campfire.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_generic.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_gohere.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_explore.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_danger.xml )
+[00:00:15]: MiniMapComponent::AddAtlas( ../mods/workshop-378160973/minimap/ping_omw.xml )
+[00:00:15]: Loading 12 new character(s)	
+[00:00:16]: Total 12 character(s) loaded	
+[00:00:16]: Loading Nav Grid	
+[00:00:16]: setting 	summerlength	15	
+[00:00:16]: setting 	isnightmaredawn	false	
+[00:00:16]: setting 	elapseddaysinseason	14	
+[00:00:16]: setting 	isfullmoon	false	
+[00:00:16]: setting 	moisture	1359.2039794922	
+[00:00:16]: setting 	springlength	20	
+[00:00:16]: setting 	isnightmarewild	false	
+[00:00:16]: setting 	moonphase	half	
+[00:00:16]: setting 	precipitationrate	0	
+[00:00:16]: setting 	iswet	false	
+[00:00:16]: setting 	isnewmoon	false	
+[00:00:16]: setting 	iswinter	true	
+[00:00:16]: setting 	israining	false	
+[00:00:16]: setting 	isnightmarewarn	false	
+[00:00:16]: setting 	precipitation	none	
+[00:00:16]: setting 	cavephase	dusk	
+[00:00:16]: setting 	moistureceil	2390.5222167969	
+[00:00:16]: setting 	isday	false	
+[00:00:16]: setting 	iscaveday	false	
+[00:00:16]: setting 	season	winter	
+[00:00:16]: setting 	timeinphase	0.06783684624566	
+[00:00:16]: setting 	temperature	-1.340696209455	
+[00:00:16]: setting 	isnightmarecalm	false	
+[00:00:16]: setting 	isnight	false	
+[00:00:16]: setting 	isdusk	true	
+[00:00:16]: setting 	iscavedusk	true	
+[00:00:16]: setting 	isautumn	false	
+[00:00:16]: setting 	issnowing	false	
+[00:00:16]: setting 	iswaxingmoon	true	
+[00:00:16]: setting 	pop	0.25985461415685	
+[00:00:16]: setting 	snowlevel	0	
+[00:00:16]: setting 	issnowcovered	false	
+[00:00:16]: setting 	autumnlength	20	
+[00:00:16]: setting 	phase	dusk	
+[00:00:16]: setting 	nightmaretime	0	
+[00:00:16]: setting 	winterlength	15	
+[00:00:16]: setting 	isspring	false	
+[00:00:16]: setting 	nightmarephase	none	
+[00:00:16]: setting 	remainingdaysinseason	1	
+[00:00:16]: setting 	cycles	104	
+[00:00:16]: setting 	iscavenight	false	
+[00:00:16]: setting 	nightmaretimeinphase	0	
+[00:00:16]: setting 	wetness	0	
+[00:00:16]: setting 	time	0.33793881734212	
+[00:00:16]: setting 	issummer	false	
+[00:00:16]: OVERRIDE: setting	disease_delay	to	none	
+[00:00:24]: Reconstructing topology	
+[00:00:24]: 	...Sorting points	
+[00:00:24]: 	...Sorting edges	
+[00:00:24]: 	...Connecting nodes	
+[00:00:24]: 	...Validating connections	
+[00:00:24]: 	...Housekeeping	
+[00:00:24]: 	...Done!	
+[00:00:24]: 1 uploads added to server. From server_temp
+[00:00:24]: About to start a shard with these settings:
+[00:00:24]:   ShardName: [SHDMASTER]
+[00:00:24]:   ShardID: 1
+[00:00:24]:   ShardRole: MASTER
+[00:00:24]:   MasterHost: (null)
+[00:00:24]:   MasterBind: 127.0.0.1
+[00:00:24]:   MasterPort: 10888
+[00:00:24]: [Shard] Starting master server
+[00:00:24]: [Warning] Could not confirm port 10888 is open in the firewall. 
+[00:00:24]: [Shard] Shard server started on port: 10888
+[00:00:24]: Telling Client our new session identifier: 626A6AAF4ED6B18C
+[00:00:24]: [DsMMO] indexing touchstones	
+[00:00:24]: ModIndex: Load sequence finished successfully.	
+[00:00:24]: Reset() returning
+[00:00:24]: [Steam] SteamGameServer_Init(8766, 10999, 27016)
+[00:00:24]: [Steam] SteamGameServer_Init success
+[00:00:25]: Validating portal[4] <-> 1046393593[4] (inactive)	
+[00:00:25]: Validating portal[1] <-> 1046393593[1] (inactive)	
+[00:00:25]: Validating portal[7] <-> 1046393593[7] (inactive)	
+[00:00:25]: Validating portal[6] <-> 1046393593[6] (inactive)	
+[00:00:25]: Validating portal[9] <-> 1046393593[9] (inactive)	
+[00:00:25]: Validating portal[5] <-> 1046393593[5] (inactive)	
+[00:00:25]: Validating portal[8] <-> 1046393593[8] (inactive)	
+[00:00:25]: Validating portal[10] <-> 1046393593[10] (inactive)	
+[00:00:25]: Validating portal[2] <-> 1046393593[2] (inactive)	
+[00:00:25]: Validating portal[3] <-> 1046393593[3] (inactive)	
+[00:00:25]: Sim paused
+[00:00:25]: Gameserver logged on to Steam, assigned SteamID [A:1:3789271042:11745]
+[00:00:27]: Best lobby region is aws/US (ping 99)
+[00:00:27]: Registering master server in US lobby
+[00:00:27]: [Shard] Slave Caves(1046393593) connected: [LAN] 127.0.0.1
+[00:00:28]: [Shard] Slave Caves(1046393593) ready!
+[00:00:28]: World 1046393593 is now connected	
+[00:00:28]: Validating portal[4] <-> 1046393593[4] (active)	
+[00:00:28]: Validating portal[1] <-> 1046393593[1] (disabled)	
+[00:00:28]: Validating portal[7] <-> 1046393593[7] (disabled)	
+[00:00:28]: Validating portal[6] <-> 1046393593[6] (disabled)	
+[00:00:28]: Validating portal[9] <-> 1046393593[9] (active)	
+[00:00:28]: Validating portal[5] <-> 1046393593[5] (disabled)	
+[00:00:28]: Validating portal[8] <-> 1046393593[8] (disabled)	
+[00:00:28]: Validating portal[10] <-> 1046393593[10] (active)	
+[00:00:28]: Validating portal[2] <-> 1046393593[2] (disabled)	
+[00:00:28]: Validating portal[3] <-> 1046393593[3] (active)	
+[00:00:35]: New incoming connection 10.0.0.4|57024 <5465433837906252404>
+[00:00:35]: Client connected from [LAN] 10.0.0.4|57024 <5465433837906252404>
+[00:00:35]: ValidateGameSessionToken pgs-usc^KU_2DNgIhao^DontStarveTogether^LuuQc7IuE5EHtaN4Pn4avg7ZLm+d/fsNXiFaghmUB9c= for <5465433837906252404>
+[00:00:35]: Client authenticated: (KU_2DNgIhao) Monster
+[00:00:35]: [Steam] Authenticated host '76561198040701853'
+[00:00:35]: LOCAL_SKIN_DLC_GRANTING reading bits in DeserializeUnverifiedInventory unread bits 8
+[00:00:36]: There is no active event to validate against.
+[00:00:36]: [Shard] Read save location file for (KU_2DNgIhao)
+[00:00:37]: Registering master server in US lobby
+[00:00:46]: Resuming user: session/626A6AAF4ED6B18C/A7G8QNL4LE9I/0000000113
+[00:00:46]: [DsMMO] Implementing settings	
+[00:00:46]: [DsMMO] Creating level up index	
+[00:00:46]: Spawning player at: [Load] (151.94, 0.00, 123.88)	
+[00:00:46]: Sim unpaused
+[00:00:47]: Registering master server in US lobby
+[00:00:49]: [DsMMO/Monster] Client-mod enabled	
+[00:00:49]: [DsMMO/Monster] Client-mod is setup	
+[00:01:22]: [Steam] SendUserDisconnect for '76561198040701853'
+[00:01:22]: [Shard] (KU_2DNgIhao) disconnected from [SHDMASTER](1)
+[00:01:22]: Registering master server in US lobby
+[00:01:22]: Serializing user: session/626A6AAF4ED6B18C/A7G8QNL4LE9I/0000000114
+[00:01:22]: Sim paused
+[00:02:40]: Serializing world: session/626A6AAF4ED6B18C/0000000114
+[00:02:40]: Truncating to snapshot #114...
+[00:02:40]:  - session/626A6AAF4ED6B18C/0000000108
+[00:02:40]:  - session/626A6AAF4ED6B18C/A7G8QNL4LE9I/0000000081
+[00:02:40]:  - session/626A6AAF4ED6B18C/A7JR31U0V8MQ/0000000108
+[00:02:40]:  - session/626A6AAF4ED6B18C/A7LGO54VVESK/0000000108
+[00:02:40]:    4 file(s) removed
+[00:02:40]: Removing server from US lobby
+[00:02:40]: [Shard] Stopping shard mode
+[00:02:41]: Collecting garbage...
+[00:02:41]: lua_gc took 0.35 seconds
+[00:02:41]: ~ShardLuaProxy()
+[00:02:41]: ~cEventLeaderboardProxy()
+[00:02:41]: ~ItemServerLuaProxy()
+[00:02:41]: ~InventoryLuaProxy()
+[00:02:41]: ~NetworkLuaProxy()
+[00:02:41]: ~SimLuaProxy()
+[00:02:42]: lua_close took 0.46 seconds
+[00:02:42]: CurlRequestManager::ClientThread::Main() complete
+[00:02:42]: HttpClient2 discarded 1 callbacks.
+[00:02:42]: Shutting down

@@ -1,0 +1,127 @@
+[00:01:54]: [Join Announcement] Monster
+[00:09:08]: [Join Announcement] M0wX
+[00:09:19]: [Death Announcement] M0wX was killed by Terrorbeak. They became a spooky ghost!
+[00:09:23]: [Say] (KU_2DNgIhao) Monster: o ?
+[00:09:52]: [Say] (KU_iC59_rSB) M0wX: e roll lai cai
+[00:10:24]: [Vote Announcement] rollback passed
+[00:10:24]: [Say] (KU_iC59_rSB) M0wX:  (Hunger: 100/150) FUEL STATUS: HIGH
+[00:10:42]: [Leave Announcement] Monster
+[00:11:25]: [Join Announcement] Monster
+[00:17:29]: [Say] (KU_2DNgIhao) Monster:  I have a twigs.
+[00:20:08]: [Leave Announcement] M0wX
+[00:24:59]: [Join Announcement] M0wX
+[00:25:20]: [Say] (KU_2DNgIhao) Monster: BO THIT RA NHA
+[00:25:24]: [Say] (KU_2DNgIhao) Monster: DANG CO THO?
+[00:25:49]: [Say] (KU_2DNgIhao) Monster: T DAP 2 LANG THO? R =))
+[00:25:50]: [Say] (KU_2DNgIhao) Monster:  I have 34 bunny puffs.
+[00:25:59]: [Say] (KU_iC59_rSB) M0wX: why?
+[00:26:04]: [Say] (KU_iC59_rSB) M0wX: sao k de farm thit
+[00:26:06]: [Say] (KU_2DNgIhao) Monster: LEN TREN KIA XAY
+[00:26:16]: [Say] (KU_iC59_rSB) M0wX: farm xong het he thi dap
+[00:26:18]: [Say] (KU_iC59_rSB) M0wX: gg boy
+[00:26:35]: [Say] (KU_2DNgIhao) Monster:  We have 25 pierogis in this hutch.
+[00:27:01]: [Say] (KU_iC59_rSB) M0wX: cho ti t out co vc
+[00:27:03]: [Say] (KU_2DNgIhao) Monster: OK
+[00:27:12]: [Leave Announcement] M0wX
+[00:27:21]: [Leave Announcement] Monster
+[02:27:27]: [Join Announcement] Bo
+[02:36:13]: [Leave Announcement] Bo
+[02:48:50]: [Join Announcement] M0wX
+[02:50:52]: [Leave Announcement] M0wX
+[02:51:52]: [Join Announcement] Bo
+[03:10:17]: [Roll Announcement] (KU_iC59_xkK) Bo 6 (1-100)
+[03:10:48]: [Leave Announcement] Bo
+[03:11:55]: [Join Announcement] Bo
+[03:14:10]: [Resurrect Announcement] Bo was resurrected by Touch Stone.
+[03:15:29]: [Death Announcement] Bo was killed by Darkness. He became a spooky ghost!
+[03:25:43]: [Resurrect Announcement] Bo was resurrected by Florid Postern.
+[03:27:37]: [Death Announcement] Bo was killed by Sinkhole. He became a spooky ghost!
+[03:29:44]: [Leave Announcement] Bo
+[03:30:32]: [Leave Announcement] NEYUGN
+[03:31:21]: [Join Announcement] Bo
+[03:32:53]: [Join Announcement] NEYUGN
+[03:37:12]: [Leave Announcement] NEYUGN
+[03:38:41]: [Leave Announcement] Bo
+[03:40:15]: [Join Announcement] NEYUGN
+[03:41:12]: [Say] (KU_UnXy3wBQ) NEYUGN: dau roi
+[03:42:25]: [Join Announcement] Bo
+[03:42:40]: [Resurrect Announcement] Bo was resurrected by NEYUGN.
+[03:42:45]: [Say] (KU_UnXy3wBQ) NEYUGN: co berry ko
+[03:42:48]: [Death Announcement] NEYUGN was killed by Darkness. She became a spooky ghost!
+[03:42:55]: [Say] (KU_UnXy3wBQ) NEYUGN: dm
+[03:43:05]: [Say] (KU_iC59_xkK) Bo: doi reroll di
+[03:43:11]: [Whisper] (KU_UnXy3wBQ) NEYUGN: oke
+[03:43:14]: [Say] (KU_iC59_xkK) Bo: deo song lay lat kieu nay duoc dau
+[03:43:23]: [Leave Announcement] NEYUGN
+[03:43:42]: [Leave Announcement] Bo
+[03:46:48]: [Join Announcement] Monster
+[03:47:36]: [Vote Announcement] rollback passed
+[04:02:33]: [Join Announcement] M0wX
+[04:02:58]: [Say] (KU_2DNgIhao) Monster: t de cai ruong de trung bay` a
+[04:03:02]: [Say] (KU_2DNgIhao) Monster: vut ra ngoai het the
+[04:04:27]: [Say] (KU_2DNgIhao) Monster: mox
+[04:04:34]: [Say] (KU_2DNgIhao) Monster: o duoi nhat it' bong' nhe'
+[04:20:12]: [Death Announcement] M0wX was killed by Terrorbeak. They became a spooky ghost!
+[04:20:17]: [Say] (KU_2DNgIhao) Monster: ?
+[04:20:22]: [Say] (KU_iC59_rSB) M0wX: dcm lag
+[04:20:28]: [Say] (KU_iC59_rSB) M0wX: do lom
+[04:20:31]: [Resurrect Announcement] M0wX was resurrected by Shenanigans.
+[04:20:42]: [Say] (KU_iC59_rSB) M0wX: m dien a
+[04:20:44]: [Death Announcement] M0wX was killed by Darkness. They became a spooky ghost!
+[04:20:48]: [Say] (KU_iC59_rSB) M0wX: hoi sinh lam cdg
+[04:20:57]: [Say] (KU_iC59_rSB) M0wX: mat mot dong lv cua t
+[04:20:59]: [Say] (KU_iC59_rSB) M0wX: fuck
+[04:21:04]: [Say] (KU_2DNgIhao) Monster: o
+[04:21:15]: [Say] (KU_iC59_rSB) M0wX: mat sach lv
+[04:21:17]: [Say] (KU_iC59_rSB) M0wX: dcm
+[04:21:21]: [Say] (KU_2DNgIhao) Monster: nay mat r
+[04:21:23]: [Say] (KU_2DNgIhao) Monster: chet mat het ma
+[04:21:28]: [Say] (KU_iC59_rSB) M0wX: mat co 1 nua
+[04:21:37]: [Resurrect Announcement] M0wX was resurrected by Shenanigans.
+[04:21:39]: [Say] (KU_iC59_rSB) M0wX: tu nhien thanh mat het
+[04:22:18]: [Say] (KU_2DNgIhao) Monster: thoi cho it gear den bu` =))
+[04:22:46]: [Say] (KU_2DNgIhao) Monster: cho day =))s
+[04:23:17]: [Say] (KU_2DNgIhao) Monster: va? bo` k
+[04:23:47]: [Say] (KU_2DNgIhao) Monster: o
+[04:23:51]: [Say] (KU_2DNgIhao) Monster: sao no lai di theo m
+[04:23:55]: [Say] (KU_2DNgIhao) Monster: dfug
+[04:26:45]: [Say] (KU_2DNgIhao) Monster: e
+[04:26:48]: [Say] (KU_2DNgIhao) Monster: con cuoi cung do
+[04:26:50]: [Say] (KU_2DNgIhao) Monster: =))
+[04:27:03]: [Say] (KU_2DNgIhao) Monster: ke di
+[04:27:07]: [Say] (KU_2DNgIhao) Monster: tha no =))s
+[04:27:21]: [Say] (KU_iC59_rSB) M0wX: con 1 dan ma
+[04:27:32]: [Say] (KU_2DNgIhao) Monster:  (Hunger: 0/120) I'll starve without some meat!
+[04:27:55]: [Say] (KU_2DNgIhao) Monster:  I have 34 pig skins.
+[04:28:35]: [Say] (KU_2DNgIhao) Monster: xay cho no' cai chuong di mox
+[04:28:48]: [Say] (KU_2DNgIhao) Monster: t di xay nha tho?
+[04:29:05]: [Say] (KU_2DNgIhao) Monster: xay tuong da' y'
+[04:29:42]: [Say] (KU_2DNgIhao) Monster:  We have 34 pig skins in this chest.
+[04:30:13]: [Say] (KU_iC59_rSB) M0wX:  I'll make a stone wall.
+[04:30:17]: [Say] (KU_iC59_rSB) M0wX: cai nay a?
+[04:30:20]: [Say] (KU_2DNgIhao) Monster: o`
+[04:36:29]: [Say] (KU_iC59_rSB) M0wX: may cai van go dau r?
+[04:36:35]: [Say] (KU_2DNgIhao) Monster: t xay nha tho het r
+[04:36:38]: [Say] (KU_2DNgIhao) Monster: tu lam di :v
+[04:36:41]: [Say] (KU_2DNgIhao) Monster: go nhieu ma
+[04:39:01]: [Say] (KU_2DNgIhao) Monster: e
+[04:39:03]: [Say] (KU_2DNgIhao) Monster: =))
+[04:39:14]: [Say] (KU_iC59_rSB) M0wX: fuck
+[04:39:20]: [Say] (KU_2DNgIhao) Monster: de lam mu bo
+[04:39:21]: [Say] (KU_iC59_rSB) M0wX: t xien chet me m h
+[04:39:36]: [Say] (KU_2DNgIhao) Monster:  I have a beefalo hat with 100% durability.
+[04:40:03]: [Say] (KU_iC59_rSB) M0wX: cho no an cai gi?
+[04:40:10]: [Say] (KU_2DNgIhao) Monster: co?
+[04:40:13]: [Say] (KU_2DNgIhao) Monster: hoac twig
+[04:40:35]: [Say] (KU_iC59_rSB) M0wX: co dc dau?
+[04:40:52]: [Say] (KU_2DNgIhao) Monster: k m lai cai sung bo thoi cho no le
+[04:40:59]: [Say] (KU_2DNgIhao) Monster: k thao mu bo ra
+[04:41:04]: [Say] (KU_2DNgIhao) Monster: cho no' di'
+[04:41:30]: [Say] (KU_2DNgIhao) Monster: danh lam j
+[04:43:35]: [Say] (KU_iC59_rSB) M0wX: dat tam
+[04:43:40]: [Say] (KU_iC59_rSB) M0wX: xay cua ben kia sau
+[04:43:47]: [Say] (KU_2DNgIhao) Monster: o
+[04:43:49]: [Say] (KU_iC59_rSB) M0wX: t di hoc da
+[04:43:51]: [Say] (KU_2DNgIhao) Monster: ok
+[04:44:04]: [Leave Announcement] M0wX
+[04:45:22]: [Leave Announcement] Monster

@@ -1,0 +1,4 @@
+[00:00:42]: [Join Announcement] Monster
+[00:00:53]: [Death Announcement] Monster was killed by Bunnyman. She became a spooky ghost!
+[00:01:01]: [Vote Announcement] rollback passed
+[00:20:18]: [Leave Announcement] Monster

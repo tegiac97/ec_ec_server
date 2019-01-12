@@ -1,0 +1,250 @@
+[00:14:20]: [Join Announcement] Bo
+[00:33:19]: [Join Announcement] Monster
+[00:34:43]: [Say] (KU_2DNgIhao) Monster: day la ai
+[00:34:49]: [Say] (KU_2DNgIhao) Monster: ta o dau day
+[00:41:04]: [Say] (KU_2DNgIhao) Monster:  I have 25 silks.
+[00:48:52]: [Say] (KU_2DNgIhao) Monster:  I have 29 carrots.
+[00:48:53]: [Say] (KU_2DNgIhao) Monster:  I have 9 meats.
+[00:49:22]: [Say] (KU_2DNgIhao) Monster: soi
+[00:49:28]: [Say] (KU_2DNgIhao) Monster:  I need 2 more rocks to make a battle helm.
+[00:49:35]: [Say] (KU_2DNgIhao) Monster: co rock k
+[00:49:41]: [Say] (KU_iC59_xkK) Bo: khong
+[00:49:48]: [Say] (KU_2DNgIhao) Monster: an lz r
+[00:50:57]: [Say] (KU_2DNgIhao) Monster: clear
+[00:50:59]: [Say] (KU_2DNgIhao) Monster:  I have 10 monster meats.
+[00:55:07]: [Say] (KU_2DNgIhao) Monster:  We have 5 pierogis in this ice box.
+[00:55:37]: [Say] (KU_2DNgIhao) Monster: co bong den k
+[00:55:39]: [Say] (KU_2DNgIhao) Monster:  I have a lantern with  8% durability.
+[01:00:02]: [Say] (KU_2DNgIhao) Monster: o nay trang tron
+[01:00:09]: [Say] (KU_2DNgIhao) Monster: lo giet het heo r =))
+[01:00:14]: [Say] (KU_iC59_xkK) Bo: =))))
+[01:00:44]: [Say] (KU_2DNgIhao) Monster: m di dao berry ve di bo`
+[01:00:48]: [Say] (KU_2DNgIhao) Monster: chay quanh lam deo j
+[01:00:55]: [Say] (KU_iC59_xkK) Bo: nha het go roi'
+[01:01:00]: [Say] (KU_iC59_xkK) Bo: chat it go da
+[01:10:26]: [Say] (KU_2DNgIhao) Monster: =))
+[01:10:39]: [Say] (KU_iC59_xkK) Bo: t di an da
+[01:10:54]: [Say] (KU_2DNgIhao) Monster: =))
+[01:10:57]: [Say] (KU_2DNgIhao) Monster: hay k =))
+[01:11:09]: [Leave Announcement] Bo
+[01:17:16]: [Join Announcement] M0wX
+[01:17:45]: [Say] (KU_iC59_rSB) M0wX: vua mua vua bao cat???
+[01:17:53]: [Say] (KU_2DNgIhao) Monster: cai dit me=))
+[01:17:56]: [Say] (KU_2DNgIhao) Monster: lai cay
+[01:18:00]: [Say] (KU_2DNgIhao) Monster: lai chay r
+[01:18:04]: [Say] (KU_2DNgIhao) Monster: =))) sam set
+[01:18:07]: [Say] (KU_2DNgIhao) Monster: du ma =\))
+[01:19:33]: [Say] (KU_2DNgIhao) Monster: chay nua r ==))
+[01:19:38]: [Say] (KU_2DNgIhao) Monster: qua ngay roll =))
+[01:19:45]: [Vote Announcement] rollback passed
+[01:26:31]: [Say] (KU_iC59_rSB) M0wX: co mod gi?
+[01:26:40]: [Say] (KU_2DNgIhao) Monster: doan xem
+[01:26:41]: [Say] (KU_2DNgIhao) Monster: :v
+[01:26:51]: [Say] (KU_iC59_rSB) M0wX: ...
+[01:26:55]: [Say] (KU_2DNgIhao) Monster: =))
+[01:27:01]: [Say] (KU_iC59_rSB) M0wX: m ranh vl
+[01:27:29]: [Say] (KU_iC59_rSB) M0wX:  (Health: 245/267) CHASSIS STATUS: CRACK DETECTED
+[01:27:33]: [Say] (KU_iC59_rSB) M0wX: dcm be tha
+[01:27:48]: [Say] (KU_iC59_rSB) M0wX: t can 7 gear r hay sao ay
+[01:27:54]: [Say] (KU_2DNgIhao) Monster: ai bik
+[01:28:00]: [Say] (KU_2DNgIhao) Monster: mau max hinh nhu 400
+[01:28:14]: [Say] (KU_2DNgIhao) Monster: ua ma k thay mua ech nhi?
+[01:28:20]: [Say] (KU_2DNgIhao) Monster: t nho co de mua ech ma
+[01:30:07]: [Say] (KU_2DNgIhao) Monster: e ra bon phan giup t voi
+[01:30:16]: [Say] (KU_iC59_rSB) M0wX:  (Hunger: 5/174) FUEL STATUS: CRITICAL
+[01:30:39]: [Say] (KU_2DNgIhao) Monster: an ger di
+[01:30:47]: [Say] (KU_iC59_rSB) M0wX: m hack
+[01:30:50]: [Say] (KU_2DNgIhao) Monster: k
+[01:30:54]: [Say] (KU_2DNgIhao) Monster: t dao som h
+[01:30:57]: [Say] (KU_2DNgIhao) Monster: hack cc
+[01:31:31]: [Say] (KU_2DNgIhao) Monster: thay con chester thanh ma k =))
+[01:31:34]: [Say] (KU_2DNgIhao) Monster: hack c :))
+[01:32:14]: [Say] (KU_iC59_rSB) M0wX:  I have a dragon fruit.
+[01:32:23]: [Say] (KU_iC59_rSB) M0wX: =))
+[01:32:29]: [Say] (KU_iC59_rSB) M0wX: fuck hack vl
+[01:32:29]: [Say] (KU_2DNgIhao) Monster: t eo an dc
+[01:32:55]: [Say] (KU_iC59_rSB) M0wX:  I have 2 corns.
+[01:33:00]: [Say] (KU_iC59_rSB) M0wX: hack vcl dme
+[01:33:12]: [Say] (KU_2DNgIhao) Monster: lam thanh long di
+[01:33:29]: [Say] (KU_iC59_rSB) M0wX:  I have 2 dragon fruit seeds.
+[01:33:30]: [Say] (KU_iC59_rSB) M0wX:  I have a bucket-o-poop with 30% durability.
+[01:33:42]: [Say] (KU_iC59_rSB) M0wX: lam them xo phan di
+[01:33:51]: [Say] (KU_2DNgIhao) Monster: kiem phan di =))
+[01:33:58]: [Say] (KU_2DNgIhao) Monster: het phan voi xuong r
+[01:34:06]: [Say] (KU_iC59_rSB) M0wX:  I have 3 manures.
+[01:34:13]: [Say] (KU_2DNgIhao) Monster: dua 3 cuc day
+[01:34:16]: [Say] (KU_2DNgIhao) Monster: vua du
+[01:34:25]: [Say] (KU_2DNgIhao) Monster:  I need 4 more logs to make a bucket-o-poop.
+[01:35:09]: [Say] (KU_2DNgIhao) Monster: o
+[01:35:12]: [Say] (KU_2DNgIhao) Monster: vooi kia
+[01:35:16]: [Say] (KU_2DNgIhao) Monster: xien
+[01:35:17]: [Say] (KU_iC59_rSB) M0wX: xien k?
+[01:35:18]: [Say] (KU_2DNgIhao) Monster: =))
+[01:35:20]: [Say] (KU_2DNgIhao) Monster: doi ti
+[01:35:24]: [Say] (KU_2DNgIhao) Monster: co cai phi tieu
+[01:35:33]: [Say] (KU_iC59_rSB) M0wX:  I have 3 dragon fruits.
+[01:35:35]: [Say] (KU_2DNgIhao) Monster:  (Hunger: 0/120) I'll starve without some meat!
+[01:35:54]: [Say] (KU_2DNgIhao) Monster:  I have a blow dart.
+[01:36:45]: [Say] (KU_2DNgIhao) Monster:  I have 8 meats.
+[01:36:48]: [Say] (KU_2DNgIhao) Monster: phe =))
+[01:36:58]: [Say] (KU_iC59_rSB) M0wX: t xin cai voi thoi
+[01:37:12]: [Say] (KU_iC59_rSB) M0wX:  I have 6 dragon fruit seeds.
+[01:37:35]: [Say] (KU_2DNgIhao) Monster:  I need 2 more bucket-o-poops to make a vegetable garden.
+[01:37:38]: [Say] (KU_2DNgIhao) Monster:  I need 4 more guanos to make a vegetable garden.
+[01:37:43]: [Say] (KU_2DNgIhao) Monster: hmm
+[01:37:49]: [Say] (KU_iC59_rSB) M0wX:  I have a bucket-o-poop with 20% durability.
+[01:37:54]: [Say] (KU_iC59_rSB) M0wX: cai nay dung dc k?
+[01:37:55]: [Say] (KU_2DNgIhao) Monster: con 10% de lai
+[01:39:04]: [Say] (KU_2DNgIhao) Monster: a du
+[01:39:08]: [Say] (KU_iC59_rSB) M0wX:  (Hunger: 0/174) FUEL STATUS: CRITICAL
+[01:39:10]: [Say] (KU_2DNgIhao) Monster: phan chim cung dc ne =))
+[01:39:15]: [Say] (KU_2DNgIhao) Monster:  I have a guano.
+[01:39:21]: [Say] (KU_2DNgIhao) Monster: =))
+[01:39:24]: [Say] (KU_2DNgIhao) Monster: dit =))
+[01:39:37]: [Say] (KU_iC59_rSB) M0wX:  I have 5 dragon fruit seeds.
+[01:39:50]: [Say] (KU_2DNgIhao) Monster:  I have 3 guanos.
+[01:39:53]: [Say] (KU_2DNgIhao) Monster: =))
+[01:40:13]: [Say] (KU_iC59_rSB) M0wX:  I need 2 more beefalo wools to make a puffy vest.
+[01:40:23]: [Say] (KU_2DNgIhao) Monster: con seed thuong k
+[01:40:29]: [Say] (KU_iC59_rSB) M0wX: nope
+[01:40:32]: [Join Announcement] Bo
+[01:40:33]: [Say] (KU_iC59_rSB) M0wX: cho rung co
+[01:40:33]: [Say] (KU_2DNgIhao) Monster: dua t lam phan chim =+))
+[01:41:35]: [Say] (KU_iC59_rSB) M0wX: no cha ra cgi ca la tdn?
+[01:41:41]: [Say] (KU_2DNgIhao) Monster: cuc cut be' ti =))
+[01:41:52]: [Say] (KU_iC59_rSB) M0wX: do
+[01:41:54]: [Say] (KU_2DNgIhao) Monster: hinh nhu 2 seed ms dc
+[01:41:57]: [Say] (KU_iC59_rSB) M0wX: co ra cgi dau?
+[01:42:16]: [Say] (KU_iC59_rSB) M0wX:  I have a guano.
+[01:42:25]: [Say] (KU_2DNgIhao) Monster:  I have 5 guanos.
+[01:42:28]: [Say] (KU_2DNgIhao) Monster: ngon :V :V
+[01:43:05]: [Say] (KU_2DNgIhao) Monster: co phan k
+[01:43:06]: [Say] (KU_iC59_rSB) M0wX: nhay ntn?
+[01:43:19]: [Say] (KU_iC59_rSB) M0wX: nhay ma
+[01:43:24]: [Say] (KU_2DNgIhao) Monster: click chuot phai vao nguoi
+[01:43:30]: [Say] (KU_2DNgIhao) Monster: =))
+[01:44:25]: [Say] (KU_iC59_rSB) M0wX: t thay con ngong r day
+[01:44:27]: [Say] (KU_iC59_rSB) M0wX: xien k?
+[01:44:34]: [Say] (KU_2DNgIhao) Monster: dau
+[01:44:48]: [Say] (KU_2DNgIhao) Monster: doi cho gi nua =))
+[01:44:50]: [Say] (KU_2DNgIhao) Monster: dap
+[01:48:07]: [Say] (KU_2DNgIhao) Monster: e =))
+[01:48:10]: [Say] (KU_2DNgIhao) Monster: lai day
+[01:48:12]: [Say] (KU_2DNgIhao) Monster: =))
+[01:48:19]: [Say] (KU_iC59_rSB) M0wX: 3 doi day, dme
+[01:48:36]: [Say] (KU_2DNgIhao) Monster: u cant see me =))
+[01:49:17]: [Say] (KU_2DNgIhao) Monster: a
+[01:49:23]: [Say] (KU_2DNgIhao) Monster: cai nao con it % k xai
+[01:49:28]: [Say] (KU_2DNgIhao) Monster: thi vut vo dong lua nhe
+[01:49:36]: [Say] (KU_iC59_rSB) M0wX: lam them tu lanh di
+[01:49:42]: [Say] (KU_iC59_rSB) M0wX: cai gi it %?
+[01:49:54]: [Say] (KU_2DNgIhao) Monster: vi du nhu mu giap do y'
+[01:49:58]: [Say] (KU_2DNgIhao) Monster: de bot rac
+[01:50:49]: [Say] (KU_2DNgIhao) Monster: soi
+[01:51:23]: [Say] (KU_2DNgIhao) Monster: a du
+[01:51:28]: [Say] (KU_2DNgIhao) Monster: mua ech kia
+[01:51:33]: [Say] (KU_2DNgIhao) Monster: chay di=))
+[01:51:48]: [Death Announcement] Bo was killed by Hound. He became a spooky ghost!
+[01:52:01]: [Say] (KU_iC59_xkK) Bo: vl duong cut
+[01:52:27]: [Say] (KU_2DNgIhao) Monster: chay di mo
+[01:52:48]: [Say] (KU_iC59_rSB) M0wX: fy
+[01:52:49]: [Say] (KU_2DNgIhao) Monster: nay biet the de boss vit lai
+[01:52:53]: [Say] (KU_2DNgIhao) Monster: la co do an r =))
+[01:53:12]: [Say] (KU_2DNgIhao) Monster: dung danh no
+[01:53:15]: [Say] (KU_2DNgIhao) Monster: ech hoi dongs
+[01:53:43]: [Say] (KU_2DNgIhao) Monster: bo chet r a =))
+[01:53:55]: [Say] (KU_iC59_xkK) Bo: cho+ech thoi ma
+[01:53:56]: [Say] (KU_2DNgIhao) Monster: cai toi di k bao gio mang giap =))
+[01:54:02]: [Say] (KU_iC59_xkK) Bo: co ma :(
+[01:54:22]: [Resurrect Announcement] Bo was resurrected by Shenanigans.
+[01:54:25]: [Say] (KU_iC59_xkK) Bo: bi hai con baron duoi hang no dap cho nua
+[01:54:38]: [Say] (KU_iC59_xkK) Bo: d hs som :( mo ra tan cong roi
+[01:54:47]: [Say] (KU_2DNgIhao) Monster:  I have 6 frog legs.
+[01:55:27]: [Say] (KU_iC59_xkK) Bo: co them con ngong nua nay
+[01:55:42]: [Say] (KU_2DNgIhao) Monster: ke di =))
+[01:55:46]: [Say] (KU_2DNgIhao) Monster: doi mua ech chay r
+[01:56:19]: [Say] (KU_2DNgIhao) Monster:  We have a dragon fruit seeds in this ice box.
+[01:56:32]: [Say] (KU_iC59_rSB) M0wX:  We have 6 dragon fruit seeds in this ice box.
+[01:56:34]: [Say] (KU_iC59_rSB) M0wX:  I have a blue seeds.
+[01:58:50]: [Say] (KU_iC59_rSB) M0wX:  I have a blue seeds.
+[01:59:01]: [Say] (KU_2DNgIhao) Monster:  I have 6 monster meats.
+[01:59:05]: [Say] (KU_2DNgIhao) Monster: con phan k
+[01:59:10]: [Say] (KU_2DNgIhao) Monster:  I have a bucket-o-poop with 100% durability.
+[01:59:11]: [Say] (KU_iC59_rSB) M0wX:  I have 2 guanos.
+[01:59:22]: [Say] (KU_2DNgIhao) Monster: nay cai kia dau
+[01:59:53]: [Say] (KU_2DNgIhao) Monster: con gear k
+[01:59:57]: [Say] (KU_iC59_rSB) M0wX:  I have 15 gears.
+[02:00:01]: [Say] (KU_2DNgIhao) Monster: t lam them tu lanh
+[02:00:44]: [Say] (KU_2DNgIhao) Monster: o ?
+[02:00:57]: [Say] (KU_2DNgIhao) Monster: eo co skin =))
+[02:04:00]: [Say] (KU_iC59_rSB) M0wX: bo e
+[02:04:12]: [Say] (KU_iC59_xkK) Bo: dang di nhat dods
+[02:04:28]: [Say] (KU_iC59_rSB) M0wX: dods?
+[02:04:59]: [Say] (KU_iC59_rSB) M0wX: neu o duoi cave thi nhat len it bong den nhe
+[02:05:30]: [Say] (KU_2DNgIhao) Monster: con ong bao ve t =))
+[02:05:46]: [Say] (KU_2DNgIhao) Monster:  I have a bucket-o-poop with 100% durability.
+[02:05:59]: [Say] (KU_2DNgIhao) Monster: con 10% dua t
+[02:06:01]: [Say] (KU_2DNgIhao) Monster: xai di
+[02:07:58]: [Say] (KU_iC59_rSB) M0wX: den vl
+[02:08:03]: [Say] (KU_iC59_rSB) M0wX: 6 hat dc 7 qua
+[02:08:11]: [Say] (KU_2DNgIhao) Monster: =)))
+[02:08:30]: [Say] (KU_2DNgIhao) Monster: 2 cai bucket cua t dau
+[02:08:46]: [Say] (KU_2DNgIhao) Monster:  We need more ice box.
+[02:08:48]: [Say] (KU_2DNgIhao) Monster:  I have a vegetable garden pre-built and ready to place.
+[02:09:48]: [Say] (KU_iC59_rSB) M0wX:  I have a bucket-o-poop with 10% durability.
+[02:10:01]: [Say] (KU_2DNgIhao) Monster:  I have 10 down feathers.
+[02:12:03]: [Say] (KU_iC59_rSB) M0wX: co qua den k?
+[02:12:06]: [Say] (KU_iC59_xkK) Bo: xuong bi baron dap
+[02:12:23]: [Say] (KU_iC59_xkK) Bo: nhat duoc 9 qua thoi
+[02:12:46]: [Say] (KU_iC59_xkK) Bo: sao lag vay
+[02:12:58]: [Say] (KU_2DNgIhao) Monster: ai biet
+[02:14:15]: [Say] (KU_iC59_rSB) M0wX: e
+[02:14:29]: [Say] (KU_iC59_rSB) M0wX: xay may cai cua dsmmo
+[02:14:32]: [Say] (KU_iC59_rSB) M0wX: nhu nao?
+[02:14:48]: [Say] (KU_2DNgIhao) Monster: coi cong thuc di =))
+[02:15:05]: [Say] (KU_2DNgIhao) Monster: de t coi
+[02:15:30]: [Say] (KU_2DNgIhao) Monster: muon build cai j
+[02:15:50]: [Say] (KU_iC59_rSB) M0wX: co cong thuc r
+[02:15:57]: [Say] (KU_iC59_rSB) M0wX: nhung no k chay
+[02:16:10]: [Say] (KU_2DNgIhao) Monster: de dung vi tri chua
+[02:16:12]: [Say] (KU_iC59_rSB) M0wX: t lam cay bong den
+[02:16:15]: [Say] (KU_iC59_rSB) M0wX: r
+[02:16:18]: [Say] (KU_iC59_xkK) Bo: cho t cai hambat
+[02:16:22]: [Say] (KU_2DNgIhao) Monster: thieu dom dom nua kia
+[02:16:25]: [Say] (KU_iC59_xkK) Bo: gio xuong hang lay qua den
+[02:16:29]: [Say] (KU_iC59_xkK) Bo: co hai con baron o cong
+[02:16:35]: [Say] (KU_2DNgIhao) Monster: di cong khac
+[02:16:38]: [Say] (KU_2DNgIhao) Monster: thieu j cong
+[02:16:38]: [Say] (KU_iC59_rSB) M0wX: day nay, len day ma xem
+[02:16:50]: [Say] (KU_iC59_xkK) Bo: di cong khac xa bme
+[02:18:50]: [Say] (KU_2DNgIhao) Monster: thieu dom dom
+[02:18:55]: [Say] (KU_iC59_rSB) M0wX: dom dom o day r
+[02:19:03]: [Say] (KU_2DNgIhao) Monster: tha ra
+[02:19:07]: [Say] (KU_iC59_rSB) M0wX: cho t dung
+[02:19:13]: [Say] (KU_2DNgIhao) Monster: hoac no chi co tac dung duoi cave
+[02:19:15]: [Say] (KU_iC59_rSB) M0wX: tha tu hom qua r
+[02:19:19]: [Say] (KU_2DNgIhao) Monster: k xai tren day dc
+[02:19:33]: [Say] (KU_2DNgIhao) Monster: tha twig xuong coi la bik lien
+[02:20:43]: [Death Announcement] Bo was killed by Bunnyman. He became a spooky ghost!
+[02:20:46]: [Say] (KU_2DNgIhao) Monster: ?
+[02:20:51]: [Say] (KU_iC59_xkK) Bo: sao t cu bi tho no duoi vay?
+[02:20:58]: [Say] (KU_2DNgIhao) Monster: ai muon m cam thit trong ng
+[02:21:06]: [Say] (KU_iC59_xkK) Bo: t co cam trong tay dau
+[02:21:16]: [Say] (KU_iC59_xkK) Bo: t de trong balo ma
+[02:21:16]: [Say] (KU_2DNgIhao) Monster: trong tui' cung tinh
+[02:21:35]: [Say] (KU_2DNgIhao) Monster: e xem t hack eating ne =))
+[02:24:53]: [Say] (KU_iC59_xkK) Bo: bearger na`y
+[02:25:09]: [Say] (KU_iC59_rSB) M0wX: mua xuan k danh dc
+[02:25:14]: [Resurrect Announcement] Bo was resurrected by Florid Postern.
+[02:25:25]: [Say] (KU_iC59_xkK) Bo: deo xuong hang nua, mua he xuong luon 1 the
+[02:26:02]: [Say] (KU_iC59_rSB) M0wX: van chua add mod hien mau a?
+[02:26:11]: [Say] (KU_2DNgIhao) Monster: k =)) t k add mod do
+[02:26:47]: [Say] (KU_iC59_rSB) M0wX:  I have 4 butterfly wings.
+[02:31:41]: [Say] (KU_2DNgIhao) Monster: ae
+[02:31:45]: [Say] (KU_2DNgIhao) Monster: de out sv ra xem
+[02:31:50]: [Say] (KU_2DNgIhao) Monster: thang ocean k vao dc
+[02:31:59]: [Say] (KU_2DNgIhao) Monster: t tat sv nhe'
+[02:32:01]: [Say] (KU_2DNgIhao) Monster: doi ti
+[02:32:08]: [Leave Announcement] Monster
+[02:32:25]: [Leave Announcement] M0wX
+[02:32:30]: [Leave Announcement] Bo

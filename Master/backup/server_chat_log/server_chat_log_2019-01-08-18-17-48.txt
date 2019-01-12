@@ -1,0 +1,175 @@
+[00:01:20]: [Join Announcement] Bo
+[00:03:30]: [Join Announcement] M0wX
+[00:07:17]: [Say] (KU_iC59_rSB) M0wX: alo
+[00:07:22]: [Say] (KU_iC59_rSB) M0wX: o nha co hach nhen k?
+[00:07:31]: [Say] (KU_iC59_xkK) Bo: chiu =)))
+[00:07:50]: [Say] (KU_iC59_xkK) Bo: dang o vuon cham soc cay canh
+[00:18:45]: [Say] (KU_iC59_rSB) M0wX: e o nha co gi de hoi sinh k?
+[00:25:13]: [Leave Announcement] M0wX
+[00:29:10]: [Join Announcement] ErikoM
+[00:30:55]: [Join Announcement] M0wX
+[00:31:59]: [Join Announcement] Monster
+[00:32:42]: [Say] (KU_A1Twu5LE) ErikoM:  (-3�) I'm  freezing!
+[00:32:50]: [Say] (KU_A1Twu5LE) ErikoM:  (-11�) I'm  freezing!
+[00:34:36]: [Say] (KU_2DNgIhao) Monster: dap df :V :V
+[00:35:46]: [Resurrect Announcement] M0wX was resurrected by Shenanigans.
+[00:38:17]: [Say] (KU_2DNgIhao) Monster:  I have 11 meats.
+[00:39:10]: [Say] (KU_2DNgIhao) Monster:  I have 14 twigs.
+[00:40:14]: [Say] (KU_2DNgIhao) Monster:  I have 7 meats.
+[00:45:26]: [Say] (KU_A1Twu5LE) ErikoM:  I have a blow dart.
+[00:49:35]: [Say] (KU_2DNgIhao) Monster: chay khoi base
+[00:50:56]: [Say] (KU_2DNgIhao) Monster: e
+[00:50:58]: [Say] (KU_2DNgIhao) Monster: vl
+[00:51:37]: [Say] (KU_A1Twu5LE) ErikoM:  I have an abigail's flower.
+[00:51:57]: [Leave Announcement] Bo
+[00:57:45]: [Say] (KU_2DNgIhao) Monster:  I have 33 pig skins.
+[00:59:08]: [Say] (KU_2DNgIhao) Monster: di va? df
+[00:59:34]: [Say] (KU_2DNgIhao) Monster: thoi di ngu? day =))
+[00:59:37]: [Say] (KU_2DNgIhao) Monster: choi di
+[01:00:07]: [Leave Announcement] Monster
+[01:08:11]: [Say] (KU_A1Twu5LE) ErikoM:  I have 12 silks.
+[01:10:14]: [Say] (KU_A1Twu5LE) ErikoM:  I have 19 silks.
+[01:14:10]: [Say] (KU_A1Twu5LE) ErikoM:  I have 2 blow darts.
+[01:17:46]: [Say] (KU_A1Twu5LE) ErikoM:  I have a cut grass.
+[01:17:58]: [Say] (KU_A1Twu5LE) ErikoM:  I have 29 silks.
+[01:18:03]: [Say] (KU_A1Twu5LE) ErikoM:  I have 2 spider eggs.
+[01:18:25]: [Say] (KU_A1Twu5LE) ErikoM:  I have 18 monster meats.
+[01:18:26]: [Say] (KU_A1Twu5LE) ErikoM:  I have 2 meats.
+[01:21:23]: [Say] (KU_iC59_rSB) M0wX:  I have 4 rabbits.
+[01:23:14]: [Say] (KU_iC59_rSB) M0wX:  I need 1 more red gem to make a life giving amulet.
+[01:23:58]: [Say] (KU_iC59_rSB) M0wX:  I need 2 more hound's tooths to make a sewing kit.
+[01:24:01]: [Say] (KU_A1Twu5LE) ErikoM:  I have a hound's tooth.
+[01:46:45]: [Say] (KU_A1Twu5LE) ErikoM:  I have a blue seeds.
+[01:47:45]: [Leave Announcement] ErikoM
+[01:56:49]: [Leave Announcement] M0wX
+[02:09:18]: [Join Announcement] M0wX
+[02:23:06]: [Join Announcement] Bo
+[02:39:00]: [Death Announcement] Bo was killed by Terrorbeak. He became a spooky ghost!
+[02:39:00]: [Join Announcement] M0wX
+[02:39:25]: [Leave Announcement] Bo
+[02:40:24]: [Say] (KU_iC59_rSB) M0wX: o dm t len lam cdg nhi
+[02:49:05]: [Join Announcement] Bo
+[02:49:24]: [Resurrect Announcement] Bo was resurrected by Touch Stone.
+[02:49:42]: [Say] (KU_iC59_rSB) M0wX: nha co may khoa hoc r day
+[02:49:48]: [Say] (KU_iC59_rSB) M0wX: nham, may ma thuat
+[02:50:40]: [Say] (KU_iC59_xkK) Bo: ti di dap ngong. hheehe
+[03:15:57]: [Leave Announcement] Bo
+[03:19:53]: [Leave Announcement] M0wX
+[06:16:40]: [Join Announcement] NEYUGN
+[06:38:10]: [Leave Announcement] NEYUGN
+[06:58:48]: [Join Announcement] Bo
+[07:05:03]: [Join Announcement] M0wX
+[07:16:16]: [Say] (KU_iC59_rSB) M0wX:  We have 7 monster meats in this ice box.
+[07:16:27]: [Leave Announcement] Bo
+[07:22:12]: [Leave Announcement] M0wX
+[07:23:14]: [Join Announcement] Bo
+[07:53:29]: [Leave Announcement] Bo
+[08:06:11]: [Join Announcement] M0wX
+[08:11:36]: [Join Announcement] Bo
+[08:26:32]: [Say] (KU_iC59_rSB) M0wX: di dau r?
+[08:37:33]: [Death Announcement] Bo was killed by Crawling Nightmare. He became a spooky ghost!
+[08:37:41]: [Say] (KU_iC59_xkK) Bo: pp
+[08:38:33]: [Leave Announcement] Bo
+[08:48:04]: [Join Announcement] NEYUGN
+[08:48:30]: [Say] (KU_UnXy3wBQ) NEYUGN: dm
+[08:48:33]: [Say] (KU_UnXy3wBQ) NEYUGN: mua he a
+[08:48:49]: [Say] (KU_iC59_rSB) M0wX: yup
+[08:48:54]: [Say] (KU_UnXy3wBQ) NEYUGN: cuu
+[08:49:18]: [Say] (KU_iC59_rSB) M0wX: cuu tdn dc ma cuu =))
+[08:52:08]: [Say] (KU_UnXy3wBQ) NEYUGN: xuong đc hang thì gần chét
+[08:52:27]: [Say] (KU_UnXy3wBQ) NEYUGN: ko có archievement à
+[08:52:35]: [Say] (KU_iC59_rSB) M0wX: nope
+[08:52:38]: [Say] (KU_UnXy3wBQ) NEYUGN: chan the
+[08:53:11]: [Say] (KU_UnXy3wBQ) NEYUGN: cuu voi
+[08:53:21]: [Say] (KU_UnXy3wBQ) NEYUGN: ko co den
+[08:54:30]: [Say] (KU_UnXy3wBQ) NEYUGN: the nay thi t ko choi voi tho dc roi
+[08:54:35]: [Say] (KU_iC59_rSB) M0wX:  I have 34 carrots.
+[08:54:37]: [Say] (KU_UnXy3wBQ) NEYUGN: ng toan thit
+[08:54:38]: [Say] (KU_iC59_rSB) M0wX:  We have 7 meats in this hutch.
+[08:54:56]: [Say] (KU_UnXy3wBQ) NEYUGN: de nho vao con chester nhe
+[08:55:16]: [Say] (KU_UnXy3wBQ) NEYUGN: cho t con chester di
+[08:55:29]: [Say] (KU_UnXy3wBQ) NEYUGN: de thit vao con nay ko bi tho da'nh
+[08:56:05]: [Say] (KU_UnXy3wBQ) NEYUGN: lam giup cai den long
+[08:57:42]: [Say] (KU_iC59_rSB) M0wX: sang day farm
+[08:57:44]: [Say] (KU_iC59_rSB) M0wX: dong hon
+[08:57:48]: [Say] (KU_iC59_rSB) M0wX: 2 bai
+[08:58:20]: [Say] (KU_UnXy3wBQ) NEYUGN: moi dua 1 bai ha
+[08:58:38]: [Say] (KU_iC59_rSB) M0wX: chung no lao vao va nhau ma
+[08:58:52]: [Say] (KU_UnXy3wBQ) NEYUGN: moi thang 1 bai
+[08:59:01]: [Say] (KU_UnXy3wBQ) NEYUGN: xong cho danh nhau ko
+[08:59:06]: [Say] (KU_UnXy3wBQ) NEYUGN: xem ben nao win
+[08:59:13]: [Say] (KU_iC59_rSB) M0wX: xin cai mu nao
+[09:01:35]: [Death Announcement] NEYUGN was killed by Bunnyman. She became a spooky ghost!
+[09:01:44]: [Say] (KU_UnXy3wBQ) NEYUGN: nhat nham mieng thit thoi
+[09:02:04]: [Resurrect Announcement] NEYUGN was resurrected by Life Giving Amulet.
+[09:02:16]: [Say] (KU_iC59_rSB) M0wX: o day chung toi k lam nhu vay
+[09:02:17]: [Say] (KU_iC59_rSB) M0wX: =))
+[09:03:48]: [Say] (KU_UnXy3wBQ) NEYUGN: ko co' cai noi nao a
+[09:03:53]: [Say] (KU_iC59_rSB) M0wX: k mang
+[09:04:06]: [Say] (KU_UnXy3wBQ) NEYUGN: co go ko
+[09:04:10]: [Say] (KU_UnXy3wBQ) NEYUGN: xin it
+[09:04:10]: [Say] (KU_iC59_rSB) M0wX:  I have 13 logs.
+[09:04:59]: [Say] (KU_UnXy3wBQ) NEYUGN: farm tho kieu gi
+[09:05:11]: [Say] (KU_UnXy3wBQ) NEYUGN: xem lv the nao
+[09:05:17]: [Say] (KU_iC59_rSB) M0wX: cho 1 con an carrot
+[09:05:25]: [Say] (KU_UnXy3wBQ) NEYUGN: lam roi
+[09:05:25]: [Say] (KU_iC59_rSB) M0wX: xong gia vo danh 1 con khac
+[09:05:32]: [Say] (KU_UnXy3wBQ) NEYUGN: the thoi a
+[09:05:33]: [Say] (KU_iC59_rSB) M0wX: chung no lao vao va nhau
+[09:05:35]: [Say] (KU_iC59_rSB) M0wX: het
+[09:05:37]: [Say] (KU_UnXy3wBQ) NEYUGN: t cung lam v ma
+[09:05:49]: [Say] (KU_iC59_rSB) M0wX: nhung m nhat thit
+[09:05:55]: [Say] (KU_iC59_rSB) M0wX: thi chung no cha va m
+[09:05:58]: [Say] (KU_UnXy3wBQ) NEYUGN: nham thoi
+[09:06:07]: [Say] (KU_UnXy3wBQ) NEYUGN: ko co lan sau dau
+[09:07:41]: [Say] (KU_UnXy3wBQ) NEYUGN: xay base tren kia chua
+[09:07:44]: [Say] (KU_iC59_rSB) M0wX: r
+[09:07:52]: [Say] (KU_iC59_rSB) M0wX: het he thi len\
+[09:07:52]: [Say] (KU_UnXy3wBQ) NEYUGN: ma cai mod level
+[09:07:56]: [Say] (KU_UnXy3wBQ) NEYUGN: xem the nao
+[09:08:19]: [Say] (KU_iC59_rSB) M0wX: co cai bieu tuong ben duoi mau k?
+[09:08:43]: [Say] (KU_UnXy3wBQ) NEYUGN: wtf
+[09:08:47]: [Say] (KU_UnXy3wBQ) NEYUGN: t co lam gi dau
+[09:08:52]: [Say] (KU_UnXy3wBQ) NEYUGN: chung no duoi
+[09:08:58]: [Say] (KU_iC59_rSB) M0wX: trong ng co thit k?
+[09:09:02]: [Say] (KU_UnXy3wBQ) NEYUGN: ko
+[09:11:02]: [Say] (KU_UnXy3wBQ) NEYUGN: sao ko rot thit nhi
+[09:11:24]: [Say] (KU_iC59_rSB) M0wX: t het vks
+[09:11:38]: [Death Announcement] M0wX was killed by Terrorbeak. They became a spooky ghost!
+[09:11:49]: [Say] (KU_UnXy3wBQ) NEYUGN: t ko biet cuu
+[09:11:59]: [Say] (KU_UnXy3wBQ) NEYUGN: ko lam dc cai amulet
+[09:12:03]: [Say] (KU_iC59_rSB) M0wX: m danh con ma ho t thi k danh
+[09:12:38]: [Say] (KU_UnXy3wBQ) NEYUGN: hoi cua
+[09:12:51]: [Say] (KU_UnXy3wBQ) NEYUGN: co ruot nhen ko
+[09:13:05]: [Say] (KU_iC59_rSB) M0wX: tren kia co
+[09:13:38]: [Say] (KU_UnXy3wBQ) NEYUGN: t di kiem nhen
+[09:13:41]: [Say] (KU_UnXy3wBQ) NEYUGN: ping di
+[09:13:53]: [Say] (KU_iC59_rSB) M0wX: cho t ping ay
+[09:15:43]: [Say] (KU_UnXy3wBQ) NEYUGN: ko co'
+[09:16:03]: [Say] (KU_iC59_rSB) M0wX: con to ma
+[09:16:09]: [Say] (KU_iC59_rSB) M0wX: quay lai dap tiep di
+[09:16:24]: [Say] (KU_UnXy3wBQ) NEYUGN: ra moi 2 con
+[09:17:26]: [Say] (KU_UnXy3wBQ) NEYUGN: deo co
+[09:17:30]: [Say] (KU_UnXy3wBQ) NEYUGN: toan thit
+[09:17:34]: [Say] (KU_UnXy3wBQ) NEYUGN: nhen deu roi
+[09:18:44]: [Say] (KU_UnXy3wBQ) NEYUGN: co r
+[09:20:41]: [Say] (KU_UnXy3wBQ) NEYUGN:  (󰀍 9/200) My saga reaches an end...
+[09:20:49]: [Resurrect Announcement] M0wX was resurrected by NEYUGN.
+[09:20:59]: [Death Announcement] NEYUGN was killed by Starvation. She became a spooky ghost!
+[09:21:04]: [Say] (KU_UnXy3wBQ) NEYUGN: o dm
+[09:21:15]: [Say] (KU_UnXy3wBQ) NEYUGN: con 9 hp tu nhien chet
+[09:22:23]: [Say] (KU_iC59_rSB) M0wX: m dap con chester dung k?
+[09:22:34]: [Say] (KU_UnXy3wBQ) NEYUGN: ko biet
+[09:23:02]: [Say] (KU_iC59_rSB) M0wX: co khi m dot con chester r
+[09:23:25]: [Say] (KU_UnXy3wBQ) NEYUGN: add ful thoi ma
+[09:24:30]: [Say] (KU_iC59_rSB) M0wX: thoi out di
+[09:24:38]: [Say] (KU_iC59_rSB) M0wX: xong rollback
+[09:24:45]: [Say] (KU_UnXy3wBQ) NEYUGN: roll di
+[09:24:54]: [Say] (KU_iC59_rSB) M0wX: t k phai chu sv
+[09:25:03]: [Say] (KU_UnXy3wBQ) NEYUGN: uh ha
+[09:25:05]: [Say] (KU_iC59_rSB) M0wX: h chi out xong doi no vao roll thoi
+[09:25:10]: [Say] (KU_UnXy3wBQ) NEYUGN: ko du ng vote
+[09:25:23]: [Leave Announcement] NEYUGN
+[09:25:35]: [Leave Announcement] M0wX
+[09:32:29]: [Join Announcement] Bo
+[09:33:31]: [Leave Announcement] Bo
